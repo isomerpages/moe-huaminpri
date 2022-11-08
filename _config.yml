@@ -55,7 +55,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2r9diw78wxt5m.amplifyapp.com
 prod: https://master.d2r9diw78wxt5m.amplifyapp.com
-shareicon: ""
+shareicon: /images/School Logo Version 2022 Aug.jpg
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
