@@ -6,7 +6,7 @@ description: |-
   Phone: +65 6752 9004
   Email: huamin_ps@moe.edu.sg
   Website: http://www.huaminpri.moe.edu.sg
-image: /images/isomer-logo.svg
+image: /images/School Logo Version 2022 Aug.jpg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -33,5 +33,6 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
 
