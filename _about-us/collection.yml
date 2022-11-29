@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Open House 2023.md
       - The Principal's Message.md
       - School's Information/.keep
       - School's Information/School's Vision, Mission, and Rules.md
@@ -15,3 +14,4 @@ collections:
       - Our Staff/Non Form Teachers.md
       - School's Partnership/.keep
       - School's Learning for Life Programme (LLP).md
+      - Open House 2023.md
