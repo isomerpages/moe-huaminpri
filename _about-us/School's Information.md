@@ -3,7 +3,6 @@ title: School's Information
 permalink: /school-information/
 description: ""
 ---
-
 Huamin Primary is an institution of learning, and while Huamin emphasizes on fun in learning, discipline is still a necessity in order for students to be effectively learning in the classrooms. As such, all students enrolled into the school shall follow the rules and guidelines as prescribed below:
 
 1. All Huaminites will be:
