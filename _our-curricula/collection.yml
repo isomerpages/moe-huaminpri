@@ -1,5 +1,5 @@
 collections:
-  our-curricular-programme:
+  our-curricula:
     output: true
     order:
       - Folder Page.md
