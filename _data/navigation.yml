@@ -1,12 +1,12 @@
 logo: /images/School Logo Version 2022 Aug.jpg
 links:
   - title: About Us
-    url: /school-information
+    url: /schools-vision-mission-and-rules/
     sublinks:
       - title: Principal's Message
         url: /principal-message
       - title: School's Information
-        url: /school-information
+        url: /schools-vision-mission-and-rules/
       - title: Our Staffs
         url: /our-staffs
       - title: School's Partnership
