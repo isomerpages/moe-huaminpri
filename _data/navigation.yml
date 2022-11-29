@@ -48,4 +48,10 @@ links:
         url: /safe-management-measures
   - title: MK@Huamin
     url: /mk-huamin
-    sublinks: []
+    sublinks:
+      - title: What's On
+        url: /whats-on
+      - title: About Us
+        url: /about-us
+      - title: The MK@Huaminites Experience
+        url: /mk-huamin-experience
