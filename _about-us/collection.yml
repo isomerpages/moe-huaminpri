@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School's Learning for Life Programme (LLP).md
       - School's Partnership/.keep
       - The Principal's Message.md
       - School's Information/.keep
