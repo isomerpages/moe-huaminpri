@@ -6,7 +6,6 @@ third_nav_title: Our Staff
 ---
 ### **Form Teachers of Primary 1**
 
-
 | Class Name | Name of Teachers | Email Address
 | -------- | -------- | -------- |
 | Respect     | Ms Zahara Bte Shahak<br>Mdm Mislimah Binti Misti     | zahara\_shahak@schools.gov.sg<br>mislimah\_misti@schools.gov.sg|
@@ -18,3 +17,15 @@ Sincerity|Ms Latifah Bte Mohamed Yazid<br>Mrs Junesh, Menachi Shanmugan|latifah\
 |Trust|Ms Tay May May, Junity<br>Mdm Hamidah Bte Hamid|tay\_may\_may@schools.gov.sg<br>hamidah\_hamid@schools.gov.sg|
 |Majestic|Mdm Kerk Lih Jun<br>Mrs Adams, Helmeleya Binte Mohd Jamil|kerk\_lih\_jun@schools.gov.sg<br>helmeleya\_a@schools.gov.sg|
 |Innovation|Mrs Liang, Tan Lin Jun Sharon<br>Mdm Goh Meow Sim|tan\_lin\_jun\_sharon@schools.gov.sg<br>goh\_meow\_sim@schools.gov.sg|
+
+### **Form Teachers of Primary 2**
+| Class Name | Name of Teachers | Email Address
+| -------- | -------- | -------- |
+|Respect|
+|Integrity|
+|Courage|
+|Harmony|
+|Excellence|
+|Sincerity|
+|Trust|
+|
