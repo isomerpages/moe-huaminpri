@@ -26,6 +26,8 @@ sections:
       title: HUAMIN
       subtitle: Welcome to
       description: P R I M A R Y - S C H O O L
-      button: FIND OUT MORE
-      url: /faq/
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
 ---
