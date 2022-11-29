@@ -14,4 +14,7 @@ third_nav_title: Our Staff
 |Courage|Mrs Foo, Carlene Yeo<br>Mdm Sanisah Bte Rahim|carlene\_yeo@schools.gov.sg<br>sanisah\_rahim@schools.gov.sg|
 |Harmony|Mdm Siti Zainab Bte Bujang<br>Miss Neo Yipei|siti\_zainab\_bujang@schools.gov.sg<br>neo\_yipei@schools.gov.sg|
 |Excellence|Mrs Vishnu, Hemalatha d/o Karunanithi<br>Miss Kanmani D/O Mariyappan|hemalatha\_karunanithi@schools.gov.sg<br>kanmani\_mariyappan@schools.gov.sg|
-Sincerity|Ms Latifah Bte Mohamed Yazid<br>
+Sincerity|Ms Latifah Bte Mohamed Yazid<br>Mrs Junesh, Menachi Shanmugan|latifah\_mohamed\_yazid@schools.gov.sg<br>menachi\_shanmugan@schools.gov.sg|
+|Trust|Ms Tay May May, Junity<br>Mdm Hamidah Bte Hamid|tay\_may\_may@schools.gov.sg<br>hamidah\_hamid@schools.gov.sg|
+|Majestic|Mdm Kerk Lih Jun<br>Mrs Adams, Helmeleya Binte Mohd Jamil|kerk\_lih\_jun@schools.gov.sg<br>helmeleya\_a@schools.gov.sg|
+|Innovation|Mrs Liang, Tan Lin Jun Sharon<br>Mdm Goh Meow Sim|
