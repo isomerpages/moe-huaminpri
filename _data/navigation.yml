@@ -3,10 +3,18 @@ links:
   - title: About Us
     url: /about-us
     sublinks:
+      - title: Principal's Message
+        url: /principal-message
       - title: School's Information
         url: /school-information
-      - title: Submenu Title
-        url: /permalink
+      - title: Our Staffs
+        url: /our-staffs
+      - title: School's Partnership
+        url: /schools-partnership
+      - title: Learning for Life Programme
+        url: /schools-learning-for-life
+      - title: Open House 2023
+        url: /open-house-2023
   - title: Our Curriculum
     url: /our-curriculum
     sublinks:
