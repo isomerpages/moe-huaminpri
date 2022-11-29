@@ -1,8 +1,9 @@
 logo: /images/School Logo Version 2022 Aug.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us
+    sublinks:
+      - title: School's Information
+        url: /school-information
+      - title: Submenu Title
+        url: /permalink
