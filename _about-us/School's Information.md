@@ -3,7 +3,7 @@ title: School's Information
 permalink: /school-information/
 description: ""
 ---
-## Our Rules <br>
+## <b>Our Rules</b><br>
 
 Huamin Primary is an institution of learning, and while Huamin emphasizes on fun in learning, discipline is still a necessity in order for students to be effectively learning in the classrooms. As such, all students enrolled into the school shall follow the rules and guidelines as prescribed below:
 
@@ -22,5 +22,5 @@ Huamin Primary is an institution of learning, and while Huamin emphasizes on fun
 
 ## **Our Vision and Mission**
 
-<center>To Be Passionate Contributors and Self-Directed Learners
-<center>To Build Nurturing Hearts, Enriching Minds, Inspiring Growths</center>
+- To Be Passionate Contributors and Self-Directed Learners
+- To Build Nurturing Hearts, Enriching Minds, Inspiring Growths
