@@ -3,7 +3,7 @@ title: School's Information
 permalink: /school-information/
 description: ""
 ---
-**Our Rules **<br>
+## Our Rules <br>
 
 Huamin Primary is an institution of learning, and while Huamin emphasizes on fun in learning, discipline is still a necessity in order for students to be effectively learning in the classrooms. As such, all students enrolled into the school shall follow the rules and guidelines as prescribed below:
 
@@ -19,3 +19,8 @@ Huamin Primary is an institution of learning, and while Huamin emphasizes on fun
 2. Huaminites are to wear the prescribed school uniform and any modifications to the uniform, socks and school shoes is not allowed.
 
 3. Huaminites who are Singapore Citizens or Permanent Residents must sing the National Anthem and recite the Pledge. Students will take the Pledge with the right fist placed over the heart.
+
+## **Our Vision and Mission**
+
+<center>To Be Passionate Contributors and Self-Directed Learners
+<center>To Build Nurturing Hearts, Enriching Minds, Inspiring Growths</center>
