@@ -6,8 +6,6 @@ third_nav_title: Our Staff
 ---
 ### **Non-Form Teachers**
 
-
-
 | Name of Teacher | | 
 | -------- | -------- | 
 | Ms Karen Soon Li Ming     |      | 
@@ -27,4 +25,3 @@ third_nav_title: Our Staff
 |Miss Ivy Chew Bian Bian|
 |Miss Blossom Yo Swee Hoon|
 | |
-
