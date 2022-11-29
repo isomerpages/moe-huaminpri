@@ -6,11 +6,11 @@ third_nav_title: Our Staff
 ---
 | Designation | Name | Email Address |
 | -------- | -------- | -------- |
-| Principal     | Mdm Loe Lai Pink| loe\_lai\_pink\@schools.gov.sg     |
-| Vice-Principal (Academic) | Mrs Corinne Kwan | corinne\_anne\_balakrishnan\@schools.gov.sg |
-|Vice-Principal (Administration)|Mdm Adeline Chee|adeline\_chee\@schools.gov.sg|
-|HOD English Language|Mrs Mumtaj Menon|mumtaj\_mohamed\_ibrahim\@schools.gov.sg
-|HOD MTL|Mdm Mislimah Misti|mislimah\_misti\@schools.gov.sg|
+| Principal     | Mdm Loe Lai Pink| loe\_lai\_pink@schools.gov.sg     |
+| Vice-Principal (Academic) | Mrs Corinne Kwan | corinne\_anne\_balakrishnan@schools.gov.sg |
+|Vice-Principal (Administration)|Mdm Adeline Chee|adeline\_chee@schools.gov.sg|
+|HOD English Language|Mrs Mumtaj Menon|mumtaj\_mohamed\_ibrahim@schools.gov.sg
+|HOD MTL|Mdm Mislimah Misti|mislimah\_misti@schools.gov.sg|
 |HOD Mathematics/DMT|Mr David Lim Kok San|david\_lim\_kok\_san\@schools.gov.sg
 |HOD Science|Dr Yap Heng Yeow|yap_heng_yeow\@schools.gov.sg|
 |HOD CCE/DM/SEN|Miss Quek Li Ching|quek_li_ching_a\@schools.gov.sg|
