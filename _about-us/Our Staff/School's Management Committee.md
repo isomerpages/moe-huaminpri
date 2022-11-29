@@ -4,6 +4,7 @@ permalink: /about-us/Our-Staff/schools-management-committee/
 description: ""
 third_nav_title: Our Staff
 ---
+### **The School's Management Committee**
 | Designation | Name | Email Address |
 | -------- | -------- | -------- |
 | Principal     | Mdm Loe Lai Pink| loe\_lai\_pink@schools.gov.sg     |
