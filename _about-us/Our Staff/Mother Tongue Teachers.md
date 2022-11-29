@@ -25,5 +25,3 @@ Email: tu\_meng-chi@schools.gov.sg<br>
 |Miss Lim Yee Chin, Chelsea
 |Miss Iris Lim Shi Hui
 |Miss Wong Zi’en
-
-
