@@ -7,3 +7,10 @@ links:
         url: /school-information
       - title: Submenu Title
         url: /permalink
+  - title: Our Curriculum
+    url: /our-curriculum
+    sublinks:
+      - title: Our Instructional Programme
+        url: /our-instructional-programme
+      - title: Co-Curricular Activities
+        url: /co-curricular-activities
