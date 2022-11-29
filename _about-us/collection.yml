@@ -2,15 +2,15 @@ collections:
   about-us:
     output: true
     order:
-      - School's Learning for Life Programme (LLP).md
-      - School's Partnership/.keep
       - The Principal's Message.md
       - School's Information/.keep
       - School's Information/School's Vision, Mission, and Rules.md
       - School's Information/The School's Crest and Motto.md
-      - Our Staff/Operations Support Officers.md
       - Our Staff/.keep
+      - Our Staff/Operations Support Officers.md
       - Our Staff/School's Management Committee.md
       - Our Staff/Consortium.md
       - Our Staff/Form Teachers.md
       - Our Staff/Non Form Teachers.md
+      - School's Partnership/.keep
+      - School's Learning for Life Programme (LLP).md
