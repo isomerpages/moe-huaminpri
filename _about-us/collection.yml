@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff/School's Management Committee.md
       - Our Staff/.keep
       - The Principal's Message.md
       - School's Information/The School's Crest and Motto.md
