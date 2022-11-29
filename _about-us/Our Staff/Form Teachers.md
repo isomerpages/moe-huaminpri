@@ -21,11 +21,11 @@ Sincerity|Ms Latifah Bte Mohamed Yazid<br>Mrs Junesh, Menachi Shanmugan|latifah\
 ### **Form Teachers of Primary 2**
 | Class Name | Name of Teachers | Email Address
 | -------- | -------- | -------- |
-|Respect|
-|Integrity|
-|Courage|
-|Harmony|
-|Excellence|
-|Sincerity|
-|Trust|
-|
+|Respect| | |
+|Integrity| | |
+|Courage| | |
+|Harmony| | |
+|Excellence| | |
+|Sincerity| | |
+|Trust| | |
+| | | |
