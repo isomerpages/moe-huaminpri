@@ -8,6 +8,9 @@ third_nav_title: Our Staff
 
 
 
-| Name of Staff | |
+| Name of Staff | Email Address |
 | -------- | -------- | 
-| Text     |      | 
+| Mdm Basheerah Bevi<br>*Librarian*|basheera\_bevi\_zackiriaye@moe.edu.sg|
+|Mdm Juliana AB Kadir<br>*Teacher Aide*| |
+|Mdm Nor Hayati Binte Sama<br>*Science Lab Tech*| |
+|Mr Kwok Hong Weng<br>*Part-Time Counselor*| kwok\_hong\_weng@schools.gov.sg|
