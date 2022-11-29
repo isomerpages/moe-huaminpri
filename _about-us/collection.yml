@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - The School's Crest and Motto.md
       - School's Information.md
       - The Principal's Message.md
