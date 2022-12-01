@@ -10,6 +10,6 @@ third_nav_title: Our Staff
 
 | Name of Staff | Email Address | 
 | -------- | -------- | 
-| Mdm Adeline Chee<br>*Vice-Principal Admin*     | adeline\_chee@schools.gov.sg     | 
+| Mdm Adeline Chee<br><i style="color:#016C62;">Vice-Principal Admin</i>| adeline\_chee@schools.gov.sg     | 
 |Mr Charles Chan<br>*Administration Manager*|chan\_kok\_yun@schools.gov.sg|
 |Miss Mirzahana Mohdar<br>*Administrative Executive*|mirzahana\_mohdar@schools.gov.sg|
