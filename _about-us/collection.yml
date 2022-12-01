@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - LLP/Applied Learning Programme.md
       - LLP/School's Learning for Life Programme (LLP).md
       - LLP/.keep
       - The Principal's Message.md
