@@ -10,5 +10,8 @@ third_nav_title: Our Staff
 
 | Name | Email Address |
 | -------- | -------- |
-| Mr R. Uthayakumar     | Text     | 
-
+| Mr R. Uthayakumar <br><b><i style="color:#016C62;font-size:14px;"> Operations Manager </i></b>| uthayakumar\_ratnam@schools.gov.sg |
+|Mdm Lim Seok Gek, May | |
+|Mdm Desi Yanti | |
+|Mdm Rosnah Binte Othman | |
+|Mdm Selvia Binti Tayyib | |
