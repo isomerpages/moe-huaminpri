@@ -4,6 +4,8 @@ permalink: /about-us/Schools-Information/schools-song/
 description: ""
 third_nav_title: School's Information
 ---
+<p>
+<img src="/images/DSC03284.jpg" style="float:right;">
 Here at Huamin, We Keenly Work and Play
 Growing Stronger with Every Passing Day
 Strong in Body and Strong in Mind
@@ -21,5 +23,6 @@ Making Good Friends and Having Lots of Fun
 Aspiring to Excel
 Preparing for Tomorrow When It Comes
 Preparing for Tomorrow When It Comes.
+</p>
 
 Click here to <u>hear</u> and learn to sing our school song.
