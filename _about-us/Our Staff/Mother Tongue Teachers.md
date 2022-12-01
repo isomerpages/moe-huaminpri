@@ -6,8 +6,8 @@ third_nav_title: Our Staff
 ---
 #### **Chinese Language**
 **Miss Tu Meng-Chi Stephanie**<br>
-**Level Head**<br>
-Email: tu\_meng-chi@schools.gov.sg<br>
+<b style="color:#038C7F;">Level Head</b><br>
+Email: <p style="color:#038C7F;">tu\_meng-chi@schools.gov.sg</p><br>
 
 
 |Members of the Department |  |
