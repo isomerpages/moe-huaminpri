@@ -7,10 +7,10 @@ third_nav_title: Our Staff
 ### **The School's Consortium**
 Huamin is made up of three Consortiums, each comprising two levels. The rationale for this structure is to bring about more streamlined programmes and ensure a more effective transition for the students between the levels.
 
-<center><b>The three Consortiums are:</b><br>
-<b>Lower Primary:</b> Primary One and Primary Two<br>
-<b>Middle Primary:</b> Primary Three and Primary Four<br>
-<b>Upper Primary:</b> Primary Five and Primary Six
+<center><b style="color:#016C62;">The three Consortiums are:</b><br>
+<b style="color:#016C62;">Lower Primary:</b>Primary One and Primary Two<br>
+<b style="color:#016C62;">Middle Primary:</b> Primary Three and Primary Four<br>
+<b style="color:#016C62;">Upper Primary:</b> Primary Five and Primary Six
 </center>
 
 Every Consortium is led by a dynamic individual who is known as the Year Head and guided by a philosophy to achieve its goals. All our staff and programmes in the school are aligned to the philosophies.
