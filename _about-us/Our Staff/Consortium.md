@@ -18,9 +18,9 @@ Every Consortium is led by a dynamic individual who is known as the Year Head an
 #### **Composition of Student Development Team**
 ![](/images/SDT.png)
 #### **Our Philosophies of Education**
-<b>The Lower Consortium (P1 - P2)</br>
+<b style="color:#016C62;">The Lower Consortium (P1 - P2)</b></br>
 <i style="color:#038C7F;">"Nurturing the Heart, Mind & Soul of Every Huaminite"</i><br>Building the foundation and motivation for life-long learning<br>
-<b>The Middle Consortium (P3 - P4)</br>
+<b style="color:#016C62;">The Middle Consortium (P3 - P4)</b></br>
 <i style="color:#038C7F;">"Growing the Skills & Confidence of Every Huaminite"</i><br>Equipping every student with the relevant knowledge, skills and attributes for self-directed learning<br>
-<b>The Upper Consortium (P5 - P6)</br>
+<b style="color:#016C62;">The Upper Consortium (P5 - P6)</b></br>
 <i style="color:#038C7F;">"Realising the Potential of Every Huaminite"</i><br>Bringing out the best in every student through quality programmes
