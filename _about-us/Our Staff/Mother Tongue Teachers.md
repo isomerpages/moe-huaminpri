@@ -4,10 +4,10 @@ permalink: /about-us/Our-Staff/mother-tongue-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-#### **Chinese Language**
-**Miss Tu Meng-Chi Stephanie**<br>
+#### <b style="color:#016C62;">Chinese Language </b>
+<b style="color:black;">Miss Tu Meng-Chi Stephanie</b><br>
 <b style="color:#038C7F;">Level Head</b><br>
-Email: <p style="color:#038C7F;">tu\_meng-chi@schools.gov.sg</p><br>
+Email: tu\_meng-chi@schools.gov.sg<br>
 
 
 |Members of the Department |  |
@@ -26,11 +26,11 @@ Email: <p style="color:#038C7F;">tu\_meng-chi@schools.gov.sg</p><br>
 |Miss Iris Lim Shi Hui
 |Miss Wong Zi’en
 
-#### **Malay Language**
+#### <b style="color:#016C62;">Malay Language </b>
 **Mdm Kasimah Kassim**<br>
-**Subject Head Malay Language**<br>
+<b style="color:#038C7F;">Subject Head of Malay Language</b><br>
 Email: kasimah\_kassim@schools.gov.sg<br>
-*"The direction in which education starts a man will determine his future in life". – Plato*
+<i style="color:#9FC131;">"The direction in which education starts a man will determine his future in life". – Plato</i>
 
 |Members of the Department |  |
 | -------- | -------- | 
@@ -42,9 +42,9 @@ Email: kasimah\_kassim@schools.gov.sg<br>
 |Mdm Yulleana Jamal|
 |Mr Hamsah Mohd Ismail|
 
-#### **Tamil Language**
-**Mrs Menachi Junesh**<br>
-**Co-ordinator**<br>
+#### <b style="color:#016C62;">Tamil Language </b>
+<b style="color:black;">Mrs Menachi Junesh</b><br>
+<b style="color:#038C7F;">Co-Ordinator</b><br>
 Email: menachi\_shanmugan@moe.edu.sg<br>
 *"EDUCATION is the most powerful weapon which you can use to change the world". – Nelson Mandela*
 
