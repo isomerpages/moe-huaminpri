@@ -4,11 +4,11 @@ permalink: /about-us/Schools-Information/schools-vision-mission-and-rules/
 description: ""
 third_nav_title: School's Information
 ---
-## **Our Vision and Mission**
+### **Our Vision and Mission**
 - To Be Passionate Contributors and Self-Directed Learners
 - To Build Nurturing Hearts, Enriching Minds, Inspiring Growths
 
-## <b>Our Rules</b><br>
+### <b>Our Rules</b><br>
 Huamin Primary is an institution of learning, and while Huamin emphasizes on fun in learning, discipline is still a necessity in order for students to be effectively learning in the classrooms. As such, all students enrolled into the school shall follow the rules and guidelines as prescribed below:
 
 1. All Huaminites will be:
