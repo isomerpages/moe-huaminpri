@@ -35,8 +35,7 @@ sections:
   - infopic:
       title: Teamwork is Our Culture
       subtitle: H u a m i n i t e s
-      description: "Responsible and Respectful, Celebrating Friendship, "
-      button: Button Text
+      description: "Responsible and Respectful, Celebrating Friendship, Collaboration "
       image: /images/DSC05001.jpg
       alt: Image alt text
 ---
