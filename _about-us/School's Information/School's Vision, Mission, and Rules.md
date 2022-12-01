@@ -4,7 +4,6 @@ permalink: /about-us/Schools-Information/schools-vision-mission-and-rules/
 description: ""
 third_nav_title: School's Information
 ---
-
 ## **Our Vision and Mission**
 - To Be Passionate Contributors and Self-Directed Learners
 - To Build Nurturing Hearts, Enriching Minds, Inspiring Growths
