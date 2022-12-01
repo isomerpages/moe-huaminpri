@@ -11,13 +11,14 @@ Huamin is made up of three Consortiums, each comprising two levels. The rational
 <b style="color:#016C62;">Lower Primary:</b>Primary One and Primary Two<br>
 <b style="color:#016C62;">Middle Primary:</b> Primary Three and Primary Four<br>
 <b style="color:#016C62;">Upper Primary:</b> Primary Five and Primary Six
-</center>
 
-Every Consortium is led by a dynamic individual who is known as the Year Head and guided by a philosophy to achieve its goals. All our staff and programmes in the school are aligned to the philosophies.
+
+<p style="text-align:left;">Every Consortium is led by a dynamic individual who is known as the Year Head and guided by a philosophy to achieve its goals. All our staff and programmes in the school are aligned to the philosophies.
 
 #### **Composition of Student Development Team**
 ![](/images/SDT.png)
 #### **Our Philosophies of Education**
+<p style="text-align:left;">
 <b style="color:#016C62;">The Lower Consortium (P1 - P2)</b><br>
 <i style="color:#038C7F;">"Nurturing the Heart, Mind & Soul of Every Huaminite"</i><br>Building the foundation and motivation for life-long learning<br>
 <b style="color:#016C62;">The Middle Consortium (P3 - P4)</b><br>
