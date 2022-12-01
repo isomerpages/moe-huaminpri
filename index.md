@@ -26,8 +26,17 @@ sections:
       title: HUAMIN
       subtitle: Welcome to
       description: P R I M A R Y - S C H O O L
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
+  - infopic:
+      title: The Happy Learning Place
+      subtitle: H u a m i n i t e s
+      description: Caring Thinkers, Adventurous Learners, Passionate Contributors
+      image: /images/DSC03160.jpg
+      alt: Image alt text
+  - infopic:
+      title: Teamwork is Our Culture
+      subtitle: H u a m i n i t e s
+      description: "Responsible and Respectful, Celebrating Friendship, "
+      button: Button Text
+      image: /images/DSC05001.jpg
+      alt: Image alt text
 ---
