@@ -19,5 +19,5 @@ The design also mimics an 'A' which is to constantly remind the students to Aspi
 
 ### The School's Motto
 
-**"Aspire to Excel"**<br>
+<p style="color:#00433D;"><b>"Aspire to Excel"</p></b>
 The school motto is a constant reminder to all our students to always give their best in whatever they do.
