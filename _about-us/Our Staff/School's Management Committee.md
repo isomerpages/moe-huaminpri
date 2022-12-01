@@ -7,7 +7,7 @@ third_nav_title: Our Staff
 ### **The School's Management Committee**
 | Designation | Name | Email Address |
 | -------- | -------- | -------- |
-| Principal     | Mdm Loe Lai Pink| loe\_lai\_pink@schools.gov.sg     |
+| Principal| Mdm Loe Lai Pink| loe\_lai\_pink@schools.gov.sg|
 | Vice-Principal (Academic) | Mrs Corinne Kwan | corinne\_anne\_balakrishnan@schools.gov.sg |
 |Vice-Principal (Administration)|Mdm Adeline Chee|adeline\_chee@schools.gov.sg|
 |HOD English Language|Mrs Mumtaj Menon|mumtaj\_mohamed\_ibrahim@schools.gov.sg
