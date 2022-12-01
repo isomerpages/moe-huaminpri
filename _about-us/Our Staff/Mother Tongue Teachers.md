@@ -4,7 +4,8 @@ permalink: /about-us/Our-Staff/mother-tongue-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-#### <b style="color:#016C62;">Chinese Language </b>
+### **Our Mother Tongue Teachers**
+<b style="color:#016C62; font-size:26px;">Chinese Language </b><br>
 <b style="color:black;">Miss Tu Meng-Chi Stephanie</b><br>
 <b style="color:#038C7F;">Level Head</b><br>
 Email: tu\_meng-chi@schools.gov.sg<br>
@@ -26,7 +27,7 @@ Email: tu\_meng-chi@schools.gov.sg<br>
 |Miss Iris Lim Shi Hui
 |Miss Wong Zi’en
 
-#### <b style="color:#016C62;">Malay Language </b>
+<b style="color:#016C62; font-size:26px;">Malay Language </b></br>
 **Mdm Kasimah Kassim**<br>
 <b style="color:#038C7F;">Subject Head of Malay Language</b><br>
 Email: kasimah\_kassim@schools.gov.sg<br>
@@ -42,7 +43,7 @@ Email: kasimah\_kassim@schools.gov.sg<br>
 |Mdm Yulleana Jamal|
 |Mr Hamsah Mohd Ismail|
 
-#### <b style="color:#016C62;">Tamil Language </b>
+<b style="color:#016C62; font-size:26px;">Tamil Language </b><br>
 <b style="color:black;">Mrs Menachi Junesh</b><br>
 <b style="color:#038C7F;">Co-Ordinator</b><br>
 Email: menachi\_shanmugan@moe.edu.sg<br>
