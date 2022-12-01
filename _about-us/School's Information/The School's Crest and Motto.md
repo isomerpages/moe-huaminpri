@@ -11,7 +11,7 @@ Here, in Huamin, we seek to provide quality holistic education. We believe that 
 <hr>
 
 ### The School's Crest
-The letters H and M derived from 'Huamin' form a solid pyramid structure which signifies the school's belief in providing its students with a strong foundation in basic skills for living and in bringing out the best in the students.
+<p style="color:#038C7F;">The letters H and M derived from 'Huamin' form a solid pyramid structure</p> which signifies the school's belief in providing its students with a strong foundation in basic skills for living and in bringing out the best in the students.
 
 The design also mimics an 'A' which is to constantly remind the students to Aspire towards excellence in their own possible way. There is also a '+' sign in the center of the design which tells the students to continuously add knowledge into their life.
 
@@ -19,5 +19,5 @@ The design also mimics an 'A' which is to constantly remind the students to Aspi
 
 ### The School's Motto
 
-<p style="color:#00433D;"><b>"Aspire to Excel"</p></b>
+<p style="color:#00433D;"><b>"Aspire to Excel"</b></p>
 The school motto is a constant reminder to all our students to always give their best in whatever they do.
