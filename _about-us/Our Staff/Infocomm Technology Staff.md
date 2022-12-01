@@ -9,9 +9,9 @@ third_nav_title: Our Staff
 
 | Name of Staff | Email Address | 
 | -------- | -------- |
-| **Mr Lim Andrew** <br><i style="color:#016C62;">ICT Associate</i> | lim\_mic\_andrew@schools.gov.sg     | 
-|**Mr Seow Jia Shen Shawn**<br><i style="color:#016C62;">ICT Trainer</i>| seow\_jia\_shen\_shawn@schools.gov.sg|
-|**Mr Chew Edwin**<br> <i style="color:#016C62;">Senior Desktop Engineer</i> | chew\_edwin@schools.gov.sg
-|**Ms Jessica Soong Yuan Ting**<br><i style="color:#016C62;">ICT Project & Operation Coordinator</i> |jessica\_soong@huamin.edu.sg|
-|**Ms Nur Farah Nadia**<br><i style="color:#016C62;">ICT Digital Content & Photography Specialist</i>|nur\_farah\_nadia@huamin.edu.sg|
-|**Mr Muhammad Hadi Bin Muhammad Rostam**<br><i style="color:#016C62;">ICT Support Engineer</i>|muhammad\_hadi@huamin.edu.sg|
+| **Mr Lim Andrew** <br><b><i style="color:#016C62; font-size:14px;">ICT Associate</i></b>| lim\_mic\_andrew@schools.gov.sg     | 
+|**Mr Seow Jia Shen Shawn**<br><b><i style="color:#016C62; font-size:14px;">ICT Trainer</i></b>| seow\_jia\_shen\_shawn@schools.gov.sg|
+|**Mr Chew Edwin**<br><b><i style="color:#016C62;font-size:14px;">Senior Desktop Engineer</i></b> | chew\_edwin@schools.gov.sg
+|**Ms Jessica Soong Yuan Ting**<br><b><i style="color:#016C62;font-size:14px;">ICT Project & Operation Coordinator</i></b>|jessica\_soong@huamin.edu.sg|
+|**Ms Nur Farah Nadia**<br><b><i style="color:#016C62;font-size:14px;">ICT Digital Content & Photography Specialist</i></b>|nur\_farah\_nadia@huamin.edu.sg|
+|**Mr Muhammad Hadi Bin Muhammad Rostam**<br><b><i style="color:#016C62;font-size:14px;">ICT Support Engineer</i></b>|muhammad\_hadi@huamin.edu.sg|
