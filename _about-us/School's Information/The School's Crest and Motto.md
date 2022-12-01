@@ -4,10 +4,9 @@ permalink: /about-us/Schools-Information/school-crest-and-motto/
 description: ""
 third_nav_title: School's Information
 ---
-
 Here, in Huamin, we seek to provide quality holistic education. We believe that the best environment for nurturing our students is one that can engage our students happily and meaningfully, where students are happy to learn, teachers are happy to teach, parents are happy to partner the school and vendors and happy to serve our needs.
 	
-<center><b>HOME OF QUALITY HOLISTIC EDUCATION THE HAPPY LEARNING PLACE</b>
+<center><b><p style="color:#038C7F;" style="font-family:Lucida Grande;"> HOME OF QUALITY HOLISTIC EDUCATION THE HAPPY LEARNING PLACE </p></b>
 <br>- Where students learn to love and love to learn -</center>
 <hr>
 
