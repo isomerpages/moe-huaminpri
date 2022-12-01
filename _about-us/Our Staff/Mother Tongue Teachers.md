@@ -30,7 +30,7 @@ Email: tu\_meng-chi@schools.gov.sg<br>
 **Mdm Kasimah Kassim**<br>
 <b style="color:#038C7F;">Subject Head of Malay Language</b><br>
 Email: kasimah\_kassim@schools.gov.sg<br>
-<i style="color:#5A9C56;">"The direction in which education starts a man will determine his future in life". – Plato</i>
+<i style="color:#44803F;">"The direction in which education starts a man will determine his future in life". – Plato</i>
 
 |Members of the Department |  |
 | -------- | -------- | 
@@ -46,7 +46,7 @@ Email: kasimah\_kassim@schools.gov.sg<br>
 <b style="color:black;">Mrs Menachi Junesh</b><br>
 <b style="color:#038C7F;">Co-Ordinator</b><br>
 Email: menachi\_shanmugan@moe.edu.sg<br>
-*"EDUCATION is the most powerful weapon which you can use to change the world". – Nelson Mandela*
+<i style="color:#44803F;">"EDUCATION is the most powerful weapon which you can use to change the world". – Nelson Mandela </i>
 
 |Members of the Department |  |
 | -------- | -------- | 
