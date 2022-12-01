@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Principal's Message**
 
-<img src="/images/MdmLoe.png" style="float:left; style="width:500px;height:600px;"">It is indeed an honor and delight for me to take over the principalship from Mdm Noorismawaty Ismail. Under her leadership, Huamin has lived up to its Motto, 'Aspire to Excel' and grown from strength to strength. I would like to wish her the best in her new undertakings on behalf of our staff and stakeholders.
+<img src="/images/Mdmloe.png" alt="Mdm Loe" style="float:left;width:42px;height:42px;">It is indeed an honor and delight for me to take over the principalship from Mdm Noorismawaty Ismail. Under her leadership, Huamin has lived up to its Motto, 'Aspire to Excel' and grown from strength to strength. I would like to wish her the best in her new undertakings on behalf of our staff and stakeholders.
 
 In Huamin Primary, to nurture all students to be their best, the school sets out to create a happy learning place, where students learn to love and love to learn. Learning in a safe and empowering environment is fundamental to a child's growth. From as early as in Primary 1, teachers use the acronym 'STAR’ (Sense of curiosity, Tenacity in Learning, Agile & Flexible and Responsible) to guide our students to overcome challenges with a positive mindset in their daily school life and experiences. 
 
