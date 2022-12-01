@@ -30,7 +30,7 @@ Email: tu\_meng-chi@schools.gov.sg<br>
 **Mdm Kasimah Kassim**<br>
 <b style="color:#038C7F;">Subject Head of Malay Language</b><br>
 Email: kasimah\_kassim@schools.gov.sg<br>
-<i style="color:#9FC131;">"The direction in which education starts a man will determine his future in life". – Plato</i>
+<i style="color:#5A9C56;">"The direction in which education starts a man will determine his future in life". – Plato</i>
 
 |Members of the Department |  |
 | -------- | -------- | 
