@@ -8,12 +8,14 @@ Parents play an important part in a child's education. Parental support is cruci
 
 The parents in the Parents Support Group (PSG) take these responsibilities one notch higher. Not only do they take an active role in their children's learning, they also take on an active role in helping with the school's activities.  
   
-Their roles in the school not only entail chaperoning pupils on learning journeys and excursions, they also plan Teachers' Day celebration, give positive suggestions and feedback during their meetings with the PSG coordinator, our PSG coordinator is Mrs Shaiful. <hr>
+Their roles in the school not only entail chaperoning pupils on learning journeys and excursions, they also plan Teachers' Day celebration, give positive suggestions and feedback during their meetings with the PSG coordinator, our PSG coordinator is Mrs Shaiful.
+<hr>
 <br>
 <b style="line-height:5px; letter-spacing:2px; color: #016C62; font-size:20px">
 Parents Support Group Committee
-</b>	
-	
+</b>
+<br><br>
+
 | Roles | Names| 
 | -------- | -------- | 
 | Chairman     | Ms Stella Shanti Rodrigues     | 
