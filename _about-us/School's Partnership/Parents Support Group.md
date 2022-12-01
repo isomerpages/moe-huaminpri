@@ -23,5 +23,7 @@ Parents Support Group Committee
 | Parent Liaison 2 | Mrs Angela Chin |
 | LP Level Leader | Mrs Gupta Shama |
 | MP Level Leader | Mdm Nur Suhairah Binte Hamid <br> Mdm Rabi'ah Binte Yahya |
-| UP Level Leader | Mdm Shanmugam Kowsalya <br> Mdm Nisha Sudhakaran Nair | 
+| UP Level Leader | Mdm Shanmugam Kowsalya <br> Mdm Nisha Sudhakaran Nair |
 
+![](/images/IMG_1754.jpg)<br>
+![](/images/IMG_0894.jpg)
