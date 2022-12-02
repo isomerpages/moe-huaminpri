@@ -2,6 +2,5 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Folder Page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
