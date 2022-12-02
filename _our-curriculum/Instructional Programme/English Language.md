@@ -28,11 +28,13 @@ We believe that every student wants and is able to learn and quality teaching & 
 <b style="font-size:17px;">Mrs Mumtaj Menon-Ibrahim<br>Head of Department</b><br>
 Email: mumtaj_mohamed_ibrahim@schools.gov.sg
 
+<b style="color:#016C62; font-size:18px; line-height: 3;">Members of Department</b><br>
+<b style="font-size:17px;">Mrs Mumtaj Menon-Ibrahim<br>Head of Department</b><br>
+Email: mumtaj_mohamed_ibrahim@schools.gov.sg
 
-
+<br>
 
 | || | 
 | -------- | -------- | -------- | 
 | Mr Alex Ng     | Mdm Corrine Chua  | Ms Irene Kwok 
 | Mdm Lilian Ng |
-
