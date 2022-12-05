@@ -28,6 +28,8 @@ We believe that every student wants and is able to learn and quality teaching & 
 <b style="font-size:17px;">Mrs Mumtaj Menon-Ibrahim<br>Head of Department</b><br>
 Email: mumtaj_mohamed_ibrahim@schools.gov.sg
 
+<i style="color:#038C7F;">“When educating the minds of our youth, we must not forget to educate their hearts.”</i>
+
 <b style="font-size:17px; line-height:2;">Dr Jessi Siva<br>Lead Teacher</b><br>
 Email: k_s_jaswinder_khosa@schools.gov.sg
 
@@ -44,4 +46,4 @@ Email: angela_merici_john@schools.gov.sg
 | Mdm Hidayah | Ms Irene Kwok | Mr John Chia |
 | Ms Junity Tay | Ms Kanmani | Ms Kat Quek |
 |Mdm Lilian Ng | Ms Myra Khoo | Mr Nicholas Neo | 
-|Mrs Roberta | Mrs Sharon Liang | 
+|Mrs Roberta | Mrs Sharon Liang |
