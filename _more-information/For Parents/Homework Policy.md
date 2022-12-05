@@ -4,3 +4,4 @@ permalink: /more-information/For-Parents/homework-policy/
 description: ""
 third_nav_title: For Parents
 ---
+![](/images/homeworkpolicy.png)
