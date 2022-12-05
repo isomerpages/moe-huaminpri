@@ -15,3 +15,10 @@ third_nav_title: For Parents
 [https://www.schoolbag.sg/story/one-part-discipline-two-parts-empathy](https://www.schoolbag.sg/story/one-part-discipline-two-parts-empathy)  
 [https://www.schoolbag.sg/story/how-to-help-your-child-come-to-terms-with-bullying](https://www.schoolbag.sg/story/how-to-help-your-child-come-to-terms-with-bullying)  
 [https://www.schoolbag.sg/story/raising-a-teenager-is-like-flying-a-kite-learn-when-to-pull-in-or-let-go](https://www.schoolbag.sg/story/raising-a-teenager-is-like-flying-a-kite-learn-when-to-pull-in-or-let-go)
+
+<b style="color:#016C62; font-size:20px; line-height: 3;">How to beat the bug!</b><br>
+Dear parents,   
+In school, we are teaching our children about the novel coronavirus and the good personal hygiene practices to protect themselves against transmission.  
+Let us work together to role model and reinforce these good practices at home. Watch, download and share the attached GIF on how to beat the bug!
+
+![](/images/Attachment%201%20Wuhan%20Virus%20Precautionary%20Measures.gif)
