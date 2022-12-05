@@ -2,10 +2,10 @@ collections:
   more-information:
     output: true
     order:
-      - For Parents/Parents Gateway.md
       - For Parents/.keep
       - For Parents/P6 Covid19 Vaccination.md
       - For Parents/Downloadable Forms.md
       - For Parents/Parental Talk.md
       - For Parents/News from MOE.md
       - For Parents/Letters to Parents.md
+      - For Parents/Parents Gateway.md
