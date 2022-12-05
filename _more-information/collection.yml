@@ -2,5 +2,6 @@ collections:
   more-information:
     output: true
     order:
+      - For Parents/Downloadable Forms.md
       - For Parents/P6 Covid19 Vaccination.md
       - For Parents/.keep
