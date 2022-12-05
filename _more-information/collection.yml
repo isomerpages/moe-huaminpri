@@ -2,7 +2,6 @@ collections:
   more-information:
     output: true
     order:
-      - For Parents/Homework Policy.md
       - For Parents/.keep
       - For Parents/P6 Covid19 Vaccination.md
       - For Parents/Downloadable Forms.md
@@ -10,3 +9,4 @@ collections:
       - For Parents/News from MOE.md
       - For Parents/Letters to Parents.md
       - For Parents/Parents Gateway.md
+      - For Parents/Homework Policy.md
