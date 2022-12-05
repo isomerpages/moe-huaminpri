@@ -2,6 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Instructional Programme/Mathematics.md
-      - Instructional Programme/English Language.md
       - Instructional Programme/.keep
+      - Instructional Programme/English Language.md
+      - Instructional Programme/Mathematics.md
