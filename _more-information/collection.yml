@@ -2,4 +2,5 @@ collections:
   more-information:
     output: true
     order:
+      - For Parents/For Parents.md
       - For Parents/.keep
