@@ -49,4 +49,21 @@ Email: angela_merici_john@schools.gov.sg
 |Mrs Roberta | Mrs Sharon Liang | |
 | |  |
 
+<b style="color:#016C62; font-size:20px; line-height: 3;">ACHIEVEMENTS</b><br>
+We are constantly on the look-out for opportunities to expose our students to recognised English Language competitions that will provide them with platforms to excel in their written and spoken language skills. Our students will also get to interact and build on their existing knowledge with students from other schools.
+
+<b style="color:#038C7F; font-size:18px; ">Our Recent Achievement includes <br>
+Top 20 in Mythos (Junior Orators) 2022- Maezyl Tan Enxuan</b>
+
+	
+**Eurasian Spelling Bee – 4 students have qualified for the semi-finals**
+| Class | Name of Student |
+| -------- | -------- | 
+| 5 Courage     | Sim Kye Jun Emil     |
+| 5 Intergrity | Alia Qaisarah Binte Mohammad Khir |
+| 5 Harmony | Ng Yu Xuen |
+|6 Respect | Tan Le En
+
+![](/images/english.png)
+
 
