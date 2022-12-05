@@ -7,7 +7,7 @@ third_nav_title: For Parents
 ### **Parental Talk**
 
 
-
+<b style="color:#016C62; font-size:20px; line-height: 3;">'Colours Of the Mind' Workshop</b><br>
 Learn about the 3 domains of Mental wellbeing: Positive functioning, Social and Emotional Intelligence. Pick up practical parenting tips and engage in discussions on how to help our pre-teens develop a healthy sense of mental wellbeing. As parents, we will also learn about self-care techniques which will be useful as we journey through parenthood.
 
 Parents can choose between two workshops:
