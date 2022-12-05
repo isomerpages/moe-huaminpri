@@ -30,3 +30,15 @@ We have received feedback that some parents have encountered problems receiving 
 1\. Delete/uninstall and reinstall the app, then log in again.<br>
 2\. Ensure you have the latest version of the Parents Gateway App (v3.0.2)<br>
 3\. Turn off the battery saver function for Parents Gateway.
+<hr>
+
+<u style="color:#016C62;">Travel Declaration Guide on Parents Gateway - 14 May 2019</u><br>
+Dear Parents/Legal Guardian,<br>
+Below is the Travel Declaration Guide for Parents. As mentioned in May Newsletter 2019, we seek your assistance to declare the travel plans of your child/ward for the upcoming June holidays. Do take note than we also require a NIL declaration if your child/ward is not travelling overseas for the holiday period. 
+Please be informed that with effect from this year, all parents/legal guardians are required to complete the travel declaration for your child/ward via Parents Gateway (PG).
+
+<hr>
+
+<u style="color:#016C62;">Parents Gateway Notifications Fix - 28 February 2019</u><br>
+Dear Parents/Legal Guardian,<br>
+Please be informed that GovTech have just released the fix for notifications issue. The fix can be downloaded from AppStore (iPhone) or PlayStore (Android). Do download the 2.1.3 version to resolve the notifications issue.
