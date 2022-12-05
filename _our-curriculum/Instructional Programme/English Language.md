@@ -46,4 +46,7 @@ Email: angela_merici_john@schools.gov.sg
 | Mdm Hidayah | Ms Irene Kwok | Mr John Chia |
 | Ms Junity Tay | Ms Kanmani | Ms Kat Quek |
 |Mdm Lilian Ng | Ms Myra Khoo | Mr Nicholas Neo | 
-|Mrs Roberta | Mrs Sharon Liang |
+|Mrs Roberta | Mrs Sharon Liang | |
+| |  |
+
+
