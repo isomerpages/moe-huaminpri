@@ -2,6 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - What's On.md
-      - About Us/Our Vision and Mission.md
       - About Us/.keep
+      - About Us/Our Vision and Mission.md
+      - What's On.md
