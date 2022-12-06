@@ -40,22 +40,9 @@ Mrs Velmurugan Pramageetha<br>Senior Teacher<br><br>
 Mrs Suan Poh Leng Pearlyn
 <br>Senior Teacher<br>
 	
-
-
-|  |  | 
-| -------- | -------- | 
-| Mdm Goh Meow Sim | Miss Karen Soon |
-| Miss Latifah Mohd Yazid | Mrs Tham Wenjun |
-| Mdm Kerk Lih Jun | Mdm Siti Rafaeh |
-| Mdm Siti Zainab Bujang | Miss Ong Pei Ling | 
-| Mrs Chris Shie | Mdm Norlizan Ahmat | 
-| Miss Irfana Banu Kuthubudeen | Miss Kho Kai Siew
-| Mdm Siti Raudha Kamarudin | |
-	
+![](/images/maths.png)	
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">MATHEMATICS FRAMEWORK</b><br>
 The central focus of the framework is mathematical problem solving, that is, using Mathematics to solve problems. The framework sets the direction for and provides guidance in the teaching, learning and assessment of mathematics at all levels, from primary to pre-university. It also reflects the 21st century competencies.
 
 ![](/images/Stellar.png)
-
-	
