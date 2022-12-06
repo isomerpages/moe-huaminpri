@@ -35,7 +35,7 @@ Email: angela_merici_john@schools.gov.sg
 
 <br>
 
-| || | 
+| | | |
 | -------- | -------- | -------- | 
 | Mr Alex Ng | Mdm Annie Lee | Mrs Carlene Foo |
 | Mrs Catherine Yeo |Mdm Chay Kit See | Mdm Connie Chua |
@@ -44,7 +44,7 @@ Email: angela_merici_john@schools.gov.sg
 | Ms Junity Tay | Ms Kanmani | Ms Kat Quek |
 |Mdm Lilian Ng | Ms Myra Khoo | Mr Nicholas Neo | 
 |Mrs Roberta | Mrs Sharon Liang | |
-| |  |
+| | | | 
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">ACHIEVEMENTS</b><br>
 We are constantly on the look-out for opportunities to expose our students to recognised English Language competitions that will provide them with platforms to excel in their written and spoken language skills. Our students will also get to interact and build on their existing knowledge with students from other schools.
