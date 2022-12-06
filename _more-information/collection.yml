@@ -2,7 +2,6 @@ collections:
   more-information:
     output: true
     order:
-      - For Students.md
       - For Parents/.keep
       - For Parents/P6 Covid19 Vaccination.md
       - For Parents/Downloadable Forms.md
@@ -15,3 +14,4 @@ collections:
       - For Parents/Student Learning Space (SLS).md
       - For Parents/Cyber Wellness Connect.md
       - For Parents/Sexuality Education.md
+      - For Students.md
