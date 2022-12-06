@@ -26,13 +26,10 @@ We believe that every student wants and is able to learn and quality teaching & 
 <hr>
 <b style="color:#016C62; font-size:18px; line-height: 3;">Members of Department</b><br>
 <b style="font-size:17px;">Mrs Mumtaj Menon-Ibrahim<br>Head of Department</b><br>
-Email: mumtaj_mohamed_ibrahim@schools.gov.sg
-
-<i style="color:#038C7F;">“When educating the minds of our youth, we must not forget to educate their hearts.”</i>
-
+Email: mumtaj_mohamed_ibrahim@schools.gov.sg<br><br>
+<i style="color:#038C7F;">“When educating the minds of our youth, we must not forget to educate their hearts.”</i><br><br>
 <b style="font-size:17px; line-height:2;">Dr Jessi Siva<br>Lead Teacher</b><br>
-Email: k_s_jaswinder_khosa@schools.gov.sg
-
+Email: k_s_jaswinder_khosa@schools.gov.sg<br><br>
 <b style="font-size:17px;">Ms Angela Merici John<br>Senior Teacher</b><br>
 Email: angela_merici_john@schools.gov.sg
 
@@ -65,5 +62,3 @@ Top 20 in Mythos (Junior Orators) 2022- Maezyl Tan Enxuan</b>
 |6 Respect | Tan Le En
 
 ![](/images/english.png)
-
-
