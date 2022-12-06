@@ -18,3 +18,19 @@ Cyberthreats are malicious attempts to damage or disrupt a computer network or s
 <b style="color:#038C7F;">Reference PDF: </b><br>
 [1. Helping Your Child Stay Safe Online](/files/Helping%20Your%20Child%20Stay%20Safe%20Online.pdf)<br>
 [2. Helping Your Child Stay Safe Online Tip Sheet](/files/2Helping%20Your%20Child%20Stay%20Safe%20Online%20Tip%20Sheet.pdf)
+
+<b style="color:#016C62; font-size:18px;">Developing Your Child To Be Positive Peer Influence Online</b><br>
+Peer influence is the effect an individual can have on their friends to change their attitudes values or behaviours.Positive peer influence is one of MOE’s Cyber Wellness principles. It encourages our students to:
+
+• Be a positive role model online (e.g. share healthy and positive content, harness the affordances of technology to do good)
+• Advocate positive online behaviour(e.g. stand up for their peers online,and report cases of cyber bullying to a trusted adult/authority)<br>
+<b style="color:#038C7F;">Reference PDF: </b><br>
+[Developing Your Child To Be A Positive Peer Influence Online](/files/Developing%20Your%20Child%20To%20Be%20A%20Positive%20Peer%20Influence%20Online.pdf)
+
+<b style="color:#016C62; font-size:18px;">Excessive Internet Usage</b><br>
+<b style="color:#038C7F;">Reference PDF: </b><br>
+[Tip sheet for Parents-Excessive Internet Use](/files/Tip%20sheet%20for%20Parents-Excessive%20Internet%20Use.pdf)
+
+<b style="color:#016C62; font-size:18px;">Helping Your Children Protect Their Personal Data Online</b><br>
+Personal data refers to data about an individual and it includes full name, date and year of birth, contact number, home address, medical conditions, identification number, geographical position (for example, the location data tracked on a mobile phone) and Internet Protocol (IP) address. The data can be processed to learn, record or decide something about an identifiable individual. Some examples are daily routines of an individual such as frequent hangouts and online browsing habits. These can compromise the user’s personal safety or privacy. Learn how to help your children protect their personal data online.
+<b style="color:#038C7F;">Reference PDF: </b><br>
