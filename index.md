@@ -19,8 +19,8 @@ sections:
         - title: Huamin Successes
           description: Check out Our Latest Successes
           url: /success/2021/
-        - title: Latest Huamin Events
-          description: Check what's happening in Huamin
+        - title: Latest MK@Huamin Events
+          description: Check what's happening in MK
           url: /privacy/
   - infobar:
       title: HUAMIN
