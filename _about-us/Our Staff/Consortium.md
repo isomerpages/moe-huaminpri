@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Our Staff
 ---
 ### **The School's Consortium**
+
 Huamin is made up of three Consortiums, each comprising two levels. The rationale for this structure is to bring about more streamlined programmes and ensure a more effective transition for the students between the levels.
 
 <center><b style="color:#016C62;">The three Consortiums are:</b><br>
@@ -13,10 +14,12 @@ Huamin is made up of three Consortiums, each comprising two levels. The rational
 <b style="color:#016C62;">Upper Primary:</b> Primary Five and Primary Six
 
 
-<p style="text-align:left;">Every Consortium is led by a dynamic individual who is known as the Year Head and guided by a philosophy to achieve its goals. All our staff and programmes in the school are aligned to the philosophies.
+<p style="text-align:left;">Every Consortium is led by a dynamic individual who is known as the Year Head and guided by a philosophy to achieve its goals. All our staff and programmes in the school are aligned to the philosophies.</p>
 
 #### **Composition of Student Development Team**
+
 ![](/images/SDT.png)
+
 #### **Our Philosophies of Education**
 <p style="text-align:left;">
 <b style="color:#016C62;">The Lower Consortium (P1 - P2)</b><br>
