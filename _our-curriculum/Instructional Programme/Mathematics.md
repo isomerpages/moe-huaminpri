@@ -36,4 +36,6 @@ Email: david_lim_kok_san@schools.gov.sg<br><br>
 Email: vanitha_parada_raju@schools.gov.sg
 
 <p style="font-size:17px;line-height: 1.24; font-weight:bold;">Mdm Jessie Tan<br>Lead Teacher<br><br>
-Miss Vanitha Parada Raju<br>Lead Teacher<br>
+Mrs Velmurugan Pramageetha<br>Senior Teacher<br><br>
+Mrs Suan Poh Leng Pearlyn
+<br>Senior Teacher<br>
