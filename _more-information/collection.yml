@@ -2,7 +2,6 @@ collections:
   more-information:
     output: true
     order:
-      - Safe Management Measures.md
       - For Parents/.keep
       - For Parents/P6 Covid19 Vaccination.md
       - For Parents/Downloadable Forms.md
@@ -18,3 +17,4 @@ collections:
       - For Students.md
       - For Teachers.md
       - Contact Us.md
+      - Safe Management Measures.md
