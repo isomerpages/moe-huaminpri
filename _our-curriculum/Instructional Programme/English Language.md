@@ -33,8 +33,6 @@ Email: k_s_jaswinder_khosa@schools.gov.sg<br><br>
 <b style="font-size:17px;">Ms Angela Merici John<br>Senior Teacher</b><br>
 Email: angela_merici_john@schools.gov.sg
 
-<br>
-
 ![](/images/English.png)
 
 <br><b style="color:#016C62; font-size:20px; line-height: 3;">ACHIEVEMENTS</b><br>
