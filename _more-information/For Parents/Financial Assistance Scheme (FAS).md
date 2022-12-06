@@ -16,7 +16,7 @@ Do note that the following group of families will need to apply using the hardco
   
 Please approach the School Admin Centre should you require the hardcopy application form. Applications may be submitted at any time during the year.
  
-
+ELIGIBILITY CRITERIA AND BENEFITS UNDER MOE FINANCIAL ASSISTANCE SCHEME
 
 | Eligibility Criteria | Benefits | 
 | -------- | -------- |
