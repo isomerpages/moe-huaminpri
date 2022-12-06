@@ -59,6 +59,6 @@ Top 20 in Mythos (Junior Orators) 2022- Maezyl Tan Enxuan</b>
 | 5 Courage     | Sim Kye Jun Emil     |
 | 5 Intergrity | Alia Qaisarah Binte Mohammad Khir |
 | 5 Harmony | Ng Yu Xuen |
-|6 Respect | Tan Le En
+|6 Respect | Tan Le En |
 
 ![](/images/english.png)
