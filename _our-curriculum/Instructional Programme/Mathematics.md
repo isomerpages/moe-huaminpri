@@ -31,7 +31,9 @@ To ensure that all students will achieve a level of mastery of mathematics that 
 <hr>
 <b style="color:#016C62; font-size:18px; line-height: 3;">Members of Department</b><br>
 <b style="font-size:17px;">Mr David Lim<br>Head of Department</b><br>
-Email: david_lim_kok_san@schools.gov.sg
-
+Email: david_lim_kok_san@schools.gov.sg<br><br>
 <b style="font-size:17px;">Miss Vanitha Parada Raju<br>Lead Teacher</b><br>
-Email: vanitha_parada_raju@schools.gov.sg 
+Email: vanitha_parada_raju@schools.gov.sg
+
+<p style="font-size:17px;line-height: 1.24; font-weight:bold;">Mdm Jessie Tan<br>Lead Teacher<br><br>
+Miss Vanitha Parada Raju<br>Lead Teacher<br>
