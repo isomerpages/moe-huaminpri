@@ -3,9 +3,9 @@ title: For Teachers
 permalink: /more-information/for-teachers/
 description: ""
 ---
-### **For Teachers**
+### **Staff Quick Links**
 
-| Column 1 | | 
+| | | 
 | -------- | -------- | 
 | HR Online     | [https://intranet.moe.gov.sg/hronline](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)    |
 | Parents Gateway | [http://pg.moe.edu.sg](http://pg.moe.edu.sg/) |
