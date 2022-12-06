@@ -8,6 +8,9 @@ Welcome to the MOE Kindergarten @ Huamin (MK@HM) family! We are pleased to invit
   
 The details of the orientation are:
 
+Please see below the slides and Q&A shared during the Orientation session:
+
+
 <b style="color:#016C62; font-size:22px;">4 November 2022  |  K2 Celebrates! 2022</b><br>
 We will be holding a special K2 Celebrates! event to mark the completion of our K2 children’s pre-school years. The celebrations reflect our belief in a holistic view of pre-school children’s development. Instead of dressing in a graduation gown and mortar board which places undue emphasis on the academic aspects of development, we place the children at the heart of the celebrations where they were involved in planning and executing the celebrations, showing their capabilities and accomplishments.
 
