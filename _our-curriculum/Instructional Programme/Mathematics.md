@@ -11,8 +11,8 @@ The school is committed in providing a conducive and nurturing environment for h
 
 The Mathematics programme aims to provide appropriate learning experiences to enable students to:
 
-   -   Acquire from concrete to pictorial to abstract the necessary Math knowledge, concepts and skills and apply them
-        for problem solving
-   -   Enhance their Mathematical thinking and reasoning skills through solving of Mathematical problems
-   -   Develop positive attitudes such as sense of achievement, confidence, perseverance and enjoyment
-   -   Cultivate positive group dynamic
+<p style="color:#038C7F; line-height: 1.75;">
+   -   Acquire from concrete to pictorial to abstract the necessary Math knowledge, concepts and skills and apply them for problem solving<br><br>
+   -   Enhance their Mathematical thinking and reasoning skills through solving of Mathematical problems<br><br>
+   -   Develop positive attitudes such as sense of achievement, confidence, perseverance and enjoyment<br><br>
+   -   Cultivate positive group dynamic<br>
