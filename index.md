@@ -14,11 +14,11 @@ sections:
       background: /images/DSC03176.jpg
       key_highlights:
         - title: About Huamin Primary
-          description: lorem ipsum
-          url: https://google.com
-        - title: Huamin Successes
+          description: Find out more about us!
+          url: /about-us/Schools-Information/schools-vision-mission-and-rules/
+        - title: ""
           description: Important highlight B is equally important
-          url: https://gmail.com
+          url: ""
         - title: Latest Huamin Events
           description: Page A is important too
           url: /privacy/
