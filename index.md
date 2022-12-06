@@ -16,11 +16,11 @@ sections:
         - title: About Huamin Primary
           description: Find out more about us!
           url: /about-us/Schools-Information/schools-vision-mission-and-rules/
-        - title: ""
-          description: Important highlight B is equally important
-          url: ""
+        - title: Huamin Successes
+          description: Check out Our Latest Successes
+          url: /success/2021/
         - title: Latest Huamin Events
-          description: Page A is important too
+          description: Check what's happening in Huamin
           url: /privacy/
   - infobar:
       title: HUAMIN
