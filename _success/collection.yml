@@ -2,7 +2,7 @@ collections:
   success:
     output: true
     order:
-      - Accolades.md
       - 2022.md
       - 2021.md
       - 2020.md
+      - Accolades.md
