@@ -12,7 +12,7 @@ The school adopts the Strategies for English Language Learning And Reading (STEL
 ![](/images/P1MLEA.png)
 
 
-
+<b style="color:#016C62; font-size:20px; line-height: 3;">Reading Culture @ Huamin</b><br>
 Through a variety of reading programmes, students are immersed in a world of reading and fun. Reading activities are then extended to discussions to stretch students’ learning beyond books.   
  1.     Library Instructional Programme (LIP/ Library periods)     
  2.     D.E.A.R (Drop Everything And Read) for P1 & P2  
