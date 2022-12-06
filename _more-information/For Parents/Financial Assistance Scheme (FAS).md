@@ -16,17 +16,15 @@ Do note that the following group of families will need to apply using the hardco
   
 Please approach the School Admin Centre should you require the hardcopy application form. Applications may be submitted at any time during the year.
  
-ELIGIBILITY CRITERIA AND BENEFITS UNDER MOE FINANCIAL ASSISTANCE SCHEME
+<b style="color:#016C62; font-size:20px;">ELIGIBILITY CRITERIA AND BENEFITS UNDER MOE FINANCIAL ASSISTANCE SCHEME</b>
 
 | Eligibility Criteria | Benefits | 
 | -------- | -------- |
 | Gross Household Income not exceeding $2,750<br><br>OR <br><br>Per Capita Income\* not exceeding $690     | 100% subsidy of school and standard miscellaneous fees<br><br>Free textbooks and school attire at Primary and Secondary level; $1200 bursary at JC/CI level<br>Transport subsidy:  <br><br><u>(a) For primary school students taking school bus:</u> 65% of school bus fares<br><br><u>(b) For students at all levels taking public transport:</u> $204 in transport credit per annum     |
 | | |
 
-\*PCI is computed based on GHI divided by the number of household members which include the student, his/her unmarried siblings, parents and grandparents living at the same address. Other relatives who are dependent on the family and live at the same residential address may be included on a case-by-case basis.
-
+\*PCI is computed based on GHI divided by the number of household members which include the student, his/her unmarried siblings, parents and grandparents living at the same address. Other relatives who are dependent on the family and live at the same residential address may be included on a case-by-case basis.<br>
 The MOE FAS has to be renewed annually subject to re-verification of household income, and household members if Per Capita Income basis is used.
 
-Application for Computer Under IMDA’s NEU PC Plus Programme
-
+<u>Application for Computer Under IMDA’s NEU PC Plus Programme</u><br>
 The NEU PC Plus Programme administered by the Infocomm Media Development Authority of Singapore (IMDA) offers students from low income households the opportunity to own a new computer at a subsidised price. MOE has collaborated with IMDA to reach out to potential beneficiaries of the NEU PC Plus Programme, by including an item in the MOE FAS application form for parents to indicate whether they wish to apply for a computer under the programme if they had not benefited from the programme in the last 3 years. For those who wish to apply and their application for MOE FAS is approved, the school will give them the simplified IMDA form for the NEU PC Plus Programme to complete and help them send to the relevant lead agency to process.
