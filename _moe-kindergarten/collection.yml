@@ -2,5 +2,5 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - About MOE Kindergaten/About Us.md
-      - About MOE Kindergaten/.keep
+      - About Us/About Us.md
+      - About Us/.keep
