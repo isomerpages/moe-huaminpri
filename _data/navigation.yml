@@ -25,7 +25,7 @@ links:
       - title: E-Books
         url: /e-books
   - title: Successes
-    url: /successes
+    url: /success/2021
     sublinks:
       - title: "2022"
         url: /2022
@@ -33,14 +33,6 @@ links:
         url: /2021
       - title: "2020"
         url: /2020
-      - title: "2019"
-        url: /2019
-      - title: "2018"
-        url: /2018
-      - title: "2017"
-        url: /2017
-      - title: "2016"
-        url: /2016
       - title: Accolades
         url: /accolades
   - title: More Information
