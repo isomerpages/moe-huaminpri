@@ -18,3 +18,9 @@ The SLS can be accessed from [http://learning.moe.edu.sg](http://learning.moe.e
 For technical assistance, you may contact:  
 a) School-based Helpdesk at **67529004** or  
 b) SLS Helpdesk at **helpdesk@sls.ufinity.com** or **67026513**
+
+<hr>
+
+### **Cyber Wellness Connect**
+
+MOE’s Cyber Wellness education develops ourchildren’s instinct to protect themselves and empowers them to take responsibility for their well-being in cyberspace. The focus of Cyber Wellness isabout helping students to become responsible digital learners.
