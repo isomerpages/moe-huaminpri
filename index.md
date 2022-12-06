@@ -21,7 +21,7 @@ sections:
           url: /success/2021/
         - title: Latest MK@Huamin Events
           description: Check what's happening in MK
-          url: /privacy/
+          url: /moe-kindergarten/events-in-mk/mk-events/
   - infobar:
       title: HUAMIN
       subtitle: Welcome to
