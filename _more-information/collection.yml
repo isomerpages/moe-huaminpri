@@ -2,7 +2,6 @@ collections:
   more-information:
     output: true
     order:
-      - Contact Us.md
       - For Parents/.keep
       - For Parents/P6 Covid19 Vaccination.md
       - For Parents/Downloadable Forms.md
@@ -17,3 +16,4 @@ collections:
       - For Parents/Sexuality Education.md
       - For Students.md
       - For Teachers.md
+      - Contact Us.md
