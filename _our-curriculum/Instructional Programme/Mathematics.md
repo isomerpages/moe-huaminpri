@@ -53,6 +53,5 @@ Mrs Suan Poh Leng Pearlyn
 | Mdm Siti Raudha Kamarudin | |
 	
 
-<b style="color:#016C62; font-size:20px; line-height: 3;">Mathematics Framework</b><br>
+<b style="color:#016C62; font-size:20px; line-height: 3;">MATHEMATICS FRAMEWORK</b><br>
 The central focus of the framework is mathematical problem solving, that is, using Mathematics to solve problems. The framework sets the direction for and provides guidance in the teaching, learning and assessment of mathematics at all levels, from primary to pre-university. It also reflects the 21st century competencies.
-	
