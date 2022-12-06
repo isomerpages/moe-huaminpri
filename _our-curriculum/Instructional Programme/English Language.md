@@ -33,7 +33,7 @@ Email: k_s_jaswinder_khosa@schools.gov.sg<br><br>
 <b style="font-size:17px;">Ms Angela Merici John<br>Senior Teacher</b><br>
 Email: angela_merici_john@schools.gov.sg
 
-![](/images/English.png)
+<img src="/images/English.png" alt="english" style="width:360px;height:240px;margin-top:15px;">
 
 <br><b style="color:#016C62; font-size:20px; line-height: 3;">ACHIEVEMENTS</b><br>
 We are constantly on the look-out for opportunities to expose our students to recognised English Language competitions that will provide them with platforms to excel in their written and spoken language skills. Our students will also get to interact and build on their existing knowledge with students from other schools.
