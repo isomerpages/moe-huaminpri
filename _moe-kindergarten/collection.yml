@@ -2,7 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Events in MK.md
       - About Us/.keep
       - About Us/Our Vision and Mission.md
       - What's On.md
