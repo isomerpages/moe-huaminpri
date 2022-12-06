@@ -14,7 +14,7 @@ sections:
       background: /images/DSC03176.jpg
       key_highlights:
         - title: About Huamin Primary
-          description: Find out more about us!
+          description: Check out more about us
           url: /about-us/Schools-Information/schools-vision-mission-and-rules/
         - title: Huamin Successes
           description: Check out Our Latest Successes
