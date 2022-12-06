@@ -28,4 +28,10 @@ The broad aims of mathematics education in Singapore are to enable students to:
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">OVERARCHING AIM</b><br>
 To ensure that all students will achieve a level of mastery of mathematics that will serve them well in life, and for those who have the interest and ability, to pursue mathematics at the highest possible level.
+<hr>
+<b style="color:#016C62; font-size:18px; line-height: 3;">Members of Department</b><br>
+<b style="font-size:17px;">Mr David Lim<br>Head of Department</b><br>
+Email: david_lim_kok_san@schools.gov.sg
 
+<b style="font-size:17px;">Miss Vanitha Parada Raju<br>Lead Teacher</b><br>
+Email: vanitha_parada_raju@schools.gov.sg 
