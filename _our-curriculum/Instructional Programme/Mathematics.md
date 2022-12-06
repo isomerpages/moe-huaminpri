@@ -24,5 +24,8 @@ The broad aims of mathematics education in Singapore are to enable students to:
  - acquire and apply mathematical concepts and skills; <br>
    -   develop cognitive and metacognitive skills through a mathematical approach to problem solving; and <br>
    -   develop positive attitudes towards mathematics.
-	
 </p>
+
+<b style="color:#016C62; font-size:20px; line-height: 3;">OVERARCHING AIM</b><br>
+To ensure that all students will achieve a level of mastery of mathematics that will serve them well in life, and for those who have the interest and ability, to pursue mathematics at the highest possible level.
+
