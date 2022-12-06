@@ -8,7 +8,7 @@ third_nav_title: For Parents
 
 The MOE Financial Assistance Scheme (FAS) is to help needy Singaporean students pay essential school expenses and to ensure that no Singaporean child will be denied an education due to financial reasons.. Students who are eligible for the MOE FAS may apply through online submission via FormSG: [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) Supporting documents must be less than 1MB and uploaded into the FormSG.    
   
-Do note that the following group of families will need to apply using the hardcopy application form:   
+<b>Do note that the following group of families will need to apply using the hardcopy application form:</b><br>
  a.     families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)   
  b.    family with more than 5 children in GGAS   
  c.     family with more than 4 unmarried children not in GGAS   
