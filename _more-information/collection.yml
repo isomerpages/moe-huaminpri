@@ -2,6 +2,7 @@ collections:
   more-information:
     output: true
     order:
+      - For Parents/Sexuality Education.md
       - For Parents/.keep
       - For Parents/P6 Covid19 Vaccination.md
       - For Parents/Downloadable Forms.md
