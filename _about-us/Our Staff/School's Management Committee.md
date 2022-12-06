@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Our Staff
 ---
 ### **The School's Management Committee**
-![](/images/managementcommitte.png)
+![](/images/managementcommittee.png)
