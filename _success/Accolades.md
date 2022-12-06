@@ -3,6 +3,6 @@ title: Accolades
 permalink: /success/accolades/
 description: ""
 ---
-### **Our Accolades**
+### **Huamin Accolades**
 
 ![](/images/ACCOLADES.jpg)
