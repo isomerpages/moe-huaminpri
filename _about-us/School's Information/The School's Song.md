@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School's Information
 ---
 <p>
-<img src="/images/DSC03284.jpg" style="float:right; margin-left:25px; width:250px;height:370px;">
+<img src="/images/DSC03284.jpg" style="float:right; margin-left:25px; width:350px;height:570px;">
 Here at Huamin, We Keenly Work and Play
 Growing Stronger with Every Passing Day
 Strong in Body and Strong in Mind
