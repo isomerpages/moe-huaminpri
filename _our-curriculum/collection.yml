@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Instructional Programme/.keep
-      - Instructional Programme/Useful Tips for Parents.md
       - Instructional Programme/English Language.md
       - Instructional Programme/Key Programmes for English Language.md
       - Instructional Programme/Intervention Programmes and Collaborations for
