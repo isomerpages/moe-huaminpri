@@ -2,14 +2,14 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Instructional Programme/Key Programmes for Mathematics.md
       - Instructional Programme/.keep
+      - Instructional Programme/Useful Tips for Parents.md
       - Instructional Programme/English Language.md
       - Instructional Programme/Key Programmes for English Language.md
       - Instructional Programme/Intervention Programmes and Collaborations for
         English.md
-      - Instructional Programme/Useful Tips for Parents.md
       - Instructional Programme/Mathematics.md
+      - Instructional Programme/Key Programmes for Mathematics.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Overview.md
       - Co Curricular Activities/Sports CCA.md
