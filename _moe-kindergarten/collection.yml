@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Our Team/Center Head and Admins.md
       - Our Team/Our Team.md
       - Our Team/.keep
       - Events in MK/.keep
