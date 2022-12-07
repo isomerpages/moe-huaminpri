@@ -32,3 +32,9 @@ Saga PM|Ms Itryna|tho\_en\_qi\_itryna@moe.edu.sg|
 | Mawar<br>(Tembusu AM & Saga AM)| Cikgu Reena | siti\_nurramreena\_ramli@moe.edu.sg | 
 | Cempaka (PM)<br>(Tembusu PM & Saga PM) | Cikgu Farhanah | nurul\_farhanah\_iskandar@moe.edu.sg |
 
+<b style="color:#038C7F;font-size:20px">Tamil Language Class Teachers</b><br>
+
+| Name of Teacher | Email |
+| -------- | -------- |
+| Aasiriye Priya     | e\_sugidapriyaa@moe.edu.sg     |
+
