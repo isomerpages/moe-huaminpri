@@ -4,8 +4,6 @@ permalink: /our-curriculum/Instructional-Programme/intervention-programmes-colla
 description: ""
 third_nav_title: Instructional Programme
 ---
-### **Intervention Programmes**
-
 <b style="color:#038C7F; font-size:17px; ">1) Learning Support Programme (LSP)</b><br>
 The LSP provides additional support for students with weak literacy skills. Students attend lessons one period a day in small groups, and are taught by specially trained teachers using strategies that will improve their reading ability.  
 
@@ -16,3 +14,13 @@ The MOE's School-based Dyslexia Remediation programme is a two-year intervention
 
 <hr>
 
+
+
+The school collaborates with National Library Board (NLB) to enhance our reading culture. Librarians from NLB conduct activities in the school to promote a love for reading among the students. Some of the programmes are:    
+  
+ · Books Buzz  
+ · Books to go/ Mobile Library  
+ · Read, Swop and Share  
+ · Read, Reap and Write  
+ · Dare to Read  
+ · Book Bugs
