@@ -13,7 +13,7 @@ We seek to do so through providing quality pre-school education that is affordab
 
 <b style="color:#016C62; font-size:20px;">The MK Logo</b><br>
 
-<img src="/images/MKHuamin_Pantone.png" alt="MKLogo" style="float:left;margin-right:25px;width:250px;height:200px;">The flying kite in our logo represents our children soaring to greater heights, with the strong foundation they have built in the MOE Kindergartens. The two kite tails symbolise the fun and learning that children will experience in the MOE Kindergartens.
+<img src="/images/MKHuamin_Pantone.png" alt="MKLogo" style="float:left;margin-right:25px;width:330px;height:230px;">The flying kite in our logo represents our children soaring to greater heights, with the strong foundation they have built in the MOE Kindergartens. The two kite tails symbolise the fun and learning that children will experience in the MOE Kindergartens.
 
 The three colours of the logo – orange, teal and magenta - represent the educators, partners and curriculum, which are integral to the holistic growth and development of the child. The vibrancy of the colours reflects our beliefs about children – that they are active, curious and competent learners.
 
