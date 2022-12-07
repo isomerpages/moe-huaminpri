@@ -17,3 +17,5 @@ third_nav_title: Instructional Programme
 |SLS Website: | [https://learning.moe.edu.sg](https://learning.moe.edu.sg/) |
 | STELLAR Website:  | [http://www.stellarliteracy.sg/](http://www.stellarliteracy.sg/) |
 | P4C based Websites: | [https://p4c.com/](https://p4c.com/)  <br> [https://www.sapere.org.uk/](https://www.sapere.org.uk/)<br>[http://www.philosophy4children.co.uk/home/p4c/](http://www.philosophy4children.co.uk/home/p4c/) |
+|NLB Website:| [http://www.nlb.gov.sg/](http://www.nlb.gov.sg/)|
+| Speak Good English Movement (SGEM): | 
