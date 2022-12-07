@@ -32,10 +32,14 @@ sections:
       description: Caring Thinkers, Adventurous Learners, Passionate Contributors
       image: /images/DSC03160.jpg
       alt: Image alt text
+      button: Find out more about huamin
+      url: /our-curriculum/Instructional-Programme/english-language/
   - infopic:
       title: Teamwork is Our Culture
       subtitle: H u a m i n i t e s
       description: "Responsible and Respectful, Celebrating Friendship, Collaboration "
       image: /images/DSC05001.jpg
       alt: Image alt text
+      button: Find out more about our cca
+      url: /link
 ---
