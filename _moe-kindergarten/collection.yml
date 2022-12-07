@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Team/.keep
-      - Our Team.md
       - Events in MK/.keep
       - Events in MK/MK Events.md
       - Events in MK/LIFE@MK.md
