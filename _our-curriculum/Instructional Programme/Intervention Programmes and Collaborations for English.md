@@ -15,10 +15,10 @@ The MOE's School-based Dyslexia Remediation programme is a two-year intervention
 
 <hr>
 
-<img src="/images/Picture10.png" alt="NLB" style="float:left;margin-right:15px; width:200px; height:250px;">
-
+<img src="/images/Picture10.png" alt="NLB" style="float:left;margin-right:15px; margin-top:15px; width:210px; height:300px;">
 <b style="color:#016C62; font-size:20px; line-height: 3;">NLB Collaboration</b><br>
 The school collaborates with National Library Board (NLB) to enhance our reading culture. Librarians from NLB conduct activities in the school to promote a love for reading among the students. Some of the programmes are:
+<br><br><br>
 <p style="color:#038C7F; line-height:1.75;">
  · Books Buzz<br> 
  · Books to go/ Mobile Library  <br>
