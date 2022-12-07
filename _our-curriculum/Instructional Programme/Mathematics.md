@@ -44,4 +44,5 @@ Mrs Suan Poh Leng Pearlyn
 
 <hr>
 <br><b style="color:#016C62; font-size:20px; line-height: 3;">ACHIEVEMENTS</b><br>
-
+<b style="font-size:17px;">Certificates of Achievements</b><br>
+Certificates are awarded to commend students of various values and habits achieved to boost the students’ self esteem and emphasize the importance of the various values.
