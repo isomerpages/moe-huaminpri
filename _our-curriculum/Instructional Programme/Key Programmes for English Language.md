@@ -21,3 +21,7 @@ Through a variety of reading programmes, students are immersed in a world of rea
  5.     E-book Reading  
  6.     Book Talks  
  7.     Little Red Dot
+
+<b style="color:#016C62; font-size:22px; line-height: 3;">Activities</b><br>
+<b style="color:#016C62; font-size:20px; line-height: 3;">Good English Week</b><br>
+Good English Week is an annual department event held over a week to promote the love of English Language through various exciting and meaningful activities. During the week, the school is abuzz with a wide array of activities through pre-assembly, assembly and recess programmes. Both students and staff are encouraged to participate in story telling events, games and quizzes which are specially planned to immerse the entire Huamin family in the application of English Language in daily life.
