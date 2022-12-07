@@ -32,7 +32,7 @@ sections:
       description: Caring Thinkers, Adventurous Learners, Passionate Contributors
       image: /images/DSC03160.jpg
       alt: Image alt text
-      button: Find out more about huamin
+      button: learn about our curriculum
       url: /our-curriculum/Instructional-Programme/english-language/
   - infopic:
       title: Teamwork is Our Culture
@@ -41,5 +41,5 @@ sections:
       image: /images/DSC05001.jpg
       alt: Image alt text
       button: Find out more about our cca
-      url: /link
+      url: /our-curriculum/Co-Curricular-Activities/overview/
 ---
