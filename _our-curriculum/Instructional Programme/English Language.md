@@ -44,11 +44,5 @@ Top 20 in Mythos (Junior Orators) 2022- Maezyl Tan Enxuan</b>
 	
 **Eurasian Spelling Bee – 4 students have qualified for the semi-finals**
 
-| Class | Name of Student |
-| -------- | -------- | 
-| 5 Courage     | Sim Kye Jun Emil     |
-| 5 Intergrity | Alia Qaisarah Binte Mohammad Khir |
-| 5 Harmony | Ng Yu Xuen |
-|6 Respect | Tan Le En |
-
+![](/images/achievementseng.png)<br>
 ![](/images/english.png)
