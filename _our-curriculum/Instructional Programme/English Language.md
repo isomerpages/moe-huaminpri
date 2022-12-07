@@ -41,8 +41,9 @@ We are constantly on the look-out for opportunities to expose our students to re
 <b style="color:#038C7F; font-size:18px; ">Our Recent Achievement includes <br>
 Top 20 in Mythos (Junior Orators) 2022- Maezyl Tan Enxuan</b>
 
-	
-**Eurasian Spelling Bee – 4 students have qualified for the semi-finals**
 
-![](/images/achievementseng.png)<br>
+<b>Eurasian Spelling Bee – 4 students have qualified for the semi-finals</b>
+<br>
+
+![](/images/achievementseng.png) <br>
 ![](/images/english.png)
