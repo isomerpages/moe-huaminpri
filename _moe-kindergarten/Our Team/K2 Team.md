@@ -15,4 +15,5 @@ third_nav_title: Our Team
 | Hope AM | Ms Kinah<br>Ms Farisah | nur\_rakinah\_norhazhar@moe.edu.sg <br> nurfarisah\_muhammad\_rashid@moe.edu.sg | 
 | Hope PM | Ms Kinah | nur\_rakinah\_norhazhar@moe.edu.sg | 
 | Joy AM | Ms Mary-Anne | mary-anne\_tan\_yi\_fang@moe.edu.sg |
-| Joy AM | Ms Mary-Anne<br>Ms Farisah | mary-anne\_tan\_yi\_fang@moe.edu.sg<br>nurfarisah\_muhammad\_rashid@moe.edu.sg
+| Joy AM | Ms Mary-Anne<br>Ms Farisah | mary-anne\_tan\_yi\_fang@moe.edu.sg<br>nurfarisah\_muhammad\_rashid@moe.edu.sg |
+
