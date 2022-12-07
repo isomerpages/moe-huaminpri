@@ -41,3 +41,5 @@ Students get to experience outdoor lessons with their teachers and peers and wri
 
 <b style="color:#038C7F; font-size:20px;">STAR Enrichment Programme (Primary 4 - 5)</b><br>
 Selected students are exposed to a variety of extension activities that expose them to debating skills, writing articles for publication, public speaking and P4C skills. Through these sessions, students learn to extend their learning to real life situations and see how language can be applied in various contexts.
+
+![](/images/ed9.png)
