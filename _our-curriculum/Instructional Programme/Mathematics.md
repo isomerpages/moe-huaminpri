@@ -41,3 +41,6 @@ Mrs Suan Poh Leng Pearlyn
 <br>Senior Teacher<br></p>
 	
 <img src="/images/maths.png" alt="maths" style="width:360px;height:240px;margin-top:15px;">
+
+<hr>
+
