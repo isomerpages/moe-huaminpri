@@ -27,7 +27,7 @@ Email: tu\_meng-chi@schools.gov.sg<br>
 |Miss Iris Lim Shi Hui
 |Miss Wong Zi’en
 
-<b style="color:#016C62; font-size:26px;">Malay Language </b></br>
+<b style="color:#016C62; font-size:26px;">Malay Language </b><br>
 **Mdm Kasimah Kassim**<br>
 <b style="color:#038C7F;">Subject Head of Malay Language</b><br>
 Email: kasimah\_kassim@schools.gov.sg<br>
