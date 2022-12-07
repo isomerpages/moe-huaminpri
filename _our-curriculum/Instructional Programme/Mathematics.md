@@ -43,4 +43,5 @@ Mrs Suan Poh Leng Pearlyn
 <img src="/images/maths.png" alt="maths" style="width:360px;height:240px;margin-top:15px;">
 
 <hr>
+<br><b style="color:#016C62; font-size:20px; line-height: 3;">ACHIEVEMENTS</b><br>
 
