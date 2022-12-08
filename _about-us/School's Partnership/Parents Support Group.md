@@ -30,3 +30,6 @@ Parents Support Group Committee
 
 ![](/images/IMG_1754.jpg)<br>
 ![](/images/IMG_0894.jpg)
+
+<b style="color:#016C62; font-size:20px; line-height: 3;">PSG Recruitment</b><br>
+<img src="/images/QRcode - HuaminPSG.png" alt="QR Code" style="float:left; height:250px; width:250px;">
