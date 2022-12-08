@@ -4,12 +4,7 @@ permalink: /more-information/for-parents/p6-covid19-vaccination/
 description: ""
 third_nav_title: For Parents
 ---
-### **P6 Covid-19 Vaccination**
+### **MOE Covid-19 Related Matters**
 
-
-<b>[Student Vaccination Exercise Parent's Kit](/files/Resource%202%20Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf) <br>
-[Student Vaccination FAQs](/files/annex_b_faqs_student_vaccination_exercise.pdf) <br>
-[Vaccination for Students Infographic](/files/Vaccination%20for%20students%20Infographic.pdf)
-
-![](/images/What%20to%20Expect.jpeg)
-![](/images/Sch%20Website%20Notice.jpg)
+Huamin cares for the health and well-being of each Huaminites here. We seek to provide a safe environment for your love ones. The link provided will redirect to the latest Covid-19 related matters from MOE:
+[FAQs: COVID-19 related matters](https://www.moe.gov.sg/faqs-covid-19-infection)
