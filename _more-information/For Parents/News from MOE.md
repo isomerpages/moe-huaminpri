@@ -5,8 +5,9 @@ description: ""
 third_nav_title: For Parents
 ---
 ### **News from MOE**
-<b style="color:#016C62; font-size:20px; line-height: 3;">The Education News Site (COS 2019)</b><br>
-![](/images/Schoolbag%20Article.jpg)
+
+Look out for the latest news from MOE:<br>
+[News from MOE](https://www.moe.gov.sg/search?q=*&app=site_search&fq=content_type_s%3A(%22news%22)&sort=modified_dt%20desc)
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">Articles from Schoolbag</b><br>
 [https://www.schoolbag.sg/story/have-schools-gone-soft](https://www.schoolbag.sg/story/have-schools-gone-soft)  
