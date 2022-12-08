@@ -6,23 +6,23 @@ third_nav_title: School's Information
 ---
 <p>
 <img src="/images/DSC03284.jpg" style="float:right; margin-left:25px; width:350px;height:515px;">
-Here at Huamin, We Keenly Work and Play
-Growing Stronger with Every Passing Day
-Strong in Body and Strong in Mind
-Moving Forward, We are Never Left Behind
-We Do Strive to Do the Best All the Way
-Being Healthy and Happy Every Day
-Setting High Aims with Brawn and Brain
-Brightly Shine in All Our Studies, Sports and Games
-When at Huamin's Gate, We Then Shall Part
-Huamin Will Always be Dear to Our Heart
-We Will Face a World of Tomorrow
-Carrying "Aspire to Excel" Our Motto
-Here at Huamin, We Keenly Work and Play
-Making Good Friends and Having Lots of Fun
-Aspiring to Excel
-Preparing for Tomorrow When It Comes
-Preparing for Tomorrow When It Comes.
+Here at Huamin, We Keenly Work and Play<br>
+Growing Stronger with Every Passing Day<br>
+Strong in Body and Strong in Mind<br>
+Moving Forward, We are Never Left Behind<br>
+We Do Strive to Do the Best All the Way<br>
+Being Healthy and Happy Every Day<br>
+Setting High Aims with Brawn and Brain<br>
+Brightly Shine in All Our Studies, Sports and Games<br>
+When at Huamin's Gate, We Then Shall Part<br>
+Huamin Will Always be Dear to Our Heart<br>
+We Will Face a World of Tomorrow<br>
+Carrying "Aspire to Excel" Our Motto<br>
+Here at Huamin, We Keenly Work and Play<br>
+Making Good Friends and Having Lots of Fun<br>
+Aspiring to Excel<br>
+Preparing for Tomorrow When It Comes<br>
+Preparing for Tomorrow When It Comes.<br>
 </p>
 
 Click here to <u>hear</u> and learn to sing our school song.
