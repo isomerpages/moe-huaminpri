@@ -2,9 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Events in MK/.keep
-      - Events in MK/MK Events.md
-      - Events in MK/LIFE@MK.md
+      - What's On.md
       - About Us/.keep
       - About Us/What MK Offers.md
       - About Us/Our Vision and Mission.md
@@ -13,4 +11,6 @@ collections:
       - Our Team/Center Leaders and Admins.md
       - Our Team/K1 Team.md
       - Our Team/K2 Team.md
-      - What's On.md
+      - Events in MK/.keep
+      - Events in MK/MK Events.md
+      - Events in MK/LIFE@MK.md
