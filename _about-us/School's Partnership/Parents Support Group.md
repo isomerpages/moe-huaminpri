@@ -4,6 +4,7 @@ permalink: /about-us/Schools-Partnership/parents-support-group/
 description: ""
 third_nav_title: School's Partnership
 ---
+### **Parents Support Group**
 Parents play an important part in a child's education. Parental support is crucial in helping the child become more responsible and disciplined in their attitude towards school work.
 
 The parents in the Parents Support Group (PSG) take these responsibilities one notch higher. Not only do they take an active role in their children's learning, they also take on an active role in helping with the school's activities.  
