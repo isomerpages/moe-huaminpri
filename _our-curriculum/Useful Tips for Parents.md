@@ -3,7 +3,7 @@ title: Useful Tips for Parents
 permalink: /our-curriculum/Instructional-Programme/useful-tips-for-parents/
 description: ""
 ---
-![](/images/tipsforparent2.png)
+![](/images/tipsforparents2.png)
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">Useful Links</b><br>
 
