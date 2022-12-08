@@ -27,3 +27,6 @@ third_nav_title: For Parents
 [NEU PC Plus IMDA FBB Application Form](/files/LATEST_NEU%20PC%20Plus%20IMDA%20FBB%20Svc%20Appl%209%20April%202020.pdf) <br>
 [NPP Application Form v5.6.1 January 22 for MOE-SPED FAS](/files/NPP%20Application%20Form%20v5%206%201%20January%2022%20for%20MOE-SPED%20FAS.pdf) <br>
 [NPP Application Form v12.6.1 January 22 for NON MOE-SPED FAS](/files/NPP%20Application%20Form%20v12%206%201%20January%2022%20for%20NON%20MOE-SPED%20FAS.pdf)
+
+<b style="color:#016C62; font-size:20px; line-height: 3;">PSG Recruitment 2021</b><br>
+<img src="/images/QRcode - HuaminPSG.png" alt="QR Code" style="float:left; height:250px; width:250px;">
