@@ -8,7 +8,6 @@ description: ""
 <b style="color:#016C62; font-size:20px; line-height: 3;">Useful Links</b><br>
 
 
-
 | Websites | Link Address | 
 | -------- | -------- | 
 | MOE EL Branch:     | [https://www.moe.gov.sg/education/syllabuses/english-language-and-literature/](https://www.moe.gov.sg/education/syllabuses/english-language-and-literature/)     | 
