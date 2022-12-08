@@ -12,4 +12,5 @@ third_nav_title: About Us
 *   Afternoon session (1pm to 5pm)<br>
 </p>
 
-MOE Kindergarten follows <b><i style="color:#038C7F;">MOE's calendar of school terms and school holidays.</b>
+MOE Kindergarten follows <b><i style="color:#038C7F;">MOE's calendar of school terms and school holidays.</i></b>
+
