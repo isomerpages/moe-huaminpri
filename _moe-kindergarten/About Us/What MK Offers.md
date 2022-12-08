@@ -25,3 +25,9 @@ KCare provides the time and space for children to play, explore and discover in 
 
 <b style="color:#016C62; font-size:20px; ">K1 and K2 Children (Full day MK & KCare Programme)</b><br>
 ![](/images/MKprogramme.png)
+
+Kindergarten Care operates from 7am – 7pm on Mondays to Fridays, including school holidays. The Kindergarten Care centres close for up to 6 days each year, in addition to gazetted public holidays.
+*Parents/guardians are strongly advised to avoid the ‘black-out period’ **(between 7.45 – 8.15am and 4.45 – 5.15pm)** for drop-off/pick-up at KCare.*
+
+<b style="color:#016C62; font-size:20px; ">MOE Kindergarten Brochure</b><br>
+<img src="/images/MK Brochure June 2022.png" alt="MK Brochure" style="float=left; ">
