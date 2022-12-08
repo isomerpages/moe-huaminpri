@@ -14,4 +14,4 @@ third_nav_title: About Us
 
 MOE Kindergarten follows <b><i style="color:#038C7F;">MOE's calendar of school terms and school holidays.</i></b>
 
-![](/images/MKtimetable.jpg)
+
