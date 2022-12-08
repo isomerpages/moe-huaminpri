@@ -23,4 +23,5 @@ Parents who require a full-day service for their children can opt for <b>Kinderg
 
 KCare provides the time and space for children to play, explore and discover in a specially designed environment with carefully chosen resources. Your child will have a variety of play experiences and exposure to different areas of interest.
 
-<b style="color:#016C62; font-size:20px; ">K1 and K2 Children (Full day MK & KCare Programme</b><br>
+<b style="color:#016C62; font-size:20px; ">K1 and K2 Children (Full day MK & KCare Programme)</b><br>
+![](/images/MKprogramme.png)
