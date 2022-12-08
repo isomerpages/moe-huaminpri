@@ -30,4 +30,8 @@ Kindergarten Care operates from 7am – 7pm on Mondays to Fridays, including sch
 *Parents/guardians are strongly advised to avoid the ‘black-out period’ **(between 7.45 – 8.15am and 4.45 – 5.15pm)** for drop-off/pick-up at KCare.*
 
 <b style="color:#016C62; font-size:20px; ">MOE Kindergarten Brochure</b><br>
-<img src="/images/MK Brochure June 2022.png" alt="MK Brochure" style="float:left;margin-right:25px;width:330px;height:430px;">
+<img src="/images/MK Brochure June 2022.png" alt="MK Brochure" style="float:left;margin-right:25px;width:300px;height:400px;">Available in English and the 3 Mother Tongue Languages. Download a copy and share it with your family and friends!<br>
+[English](/files/MOE%20Brochure%20English%202022.pdf)<br>
+[Chinese](/files/MOE%20Brochure%20Chinese%202022.pdf)<br>
+[Malay](/files/MOE%20Brochure%20Malay%202022.pdf)<br>
+
