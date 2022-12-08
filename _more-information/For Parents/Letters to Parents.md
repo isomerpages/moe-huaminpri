@@ -13,3 +13,4 @@ Here at Huamin, we understand your busy schedule and hectic work. And hence, you
 The Letters are arranged according to serial numbers issued by the Admin Centre. For easy reference, the dates of which the Letters are given out to students are provided at the end of each title of the Letter.
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">Newsletter</b><br>
+[HMPS 2022 Term 1 School Newsletter](/files/HMPS%202022%20Term%201%20School%20Newsletter.pdf)
