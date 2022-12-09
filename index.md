@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Huamin Primary School
+title: Huamin Primary School - A Happy Learning Place
 description: |-
   Address: 21 Yishun Avenue 11 Singapore 768857
   Phone: +65 6752 9004
@@ -43,3 +43,4 @@ sections:
       button: Find out more about our cca
       url: /our-curriculum/Co-Curricular-Activities/overview/
 ---
+
