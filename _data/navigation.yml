@@ -1,15 +1,63 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/School Logo Version 2022 Aug.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us/Schools-Information/schools-vision-mission-and-rules/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/the-principal-message/
+      - title: School's Information
+        url: /about-us/Schools-Information/schools-vision-mission-and-rules/
+      - title: Our Staffs
+        url: /about-us/Our-Staff/schools-management-committee/
+      - title: School's Partnership
+        url: /about-us/Schools-Partnership/advisory-committee/
+      - title: Learning for Life Programme
+        url: /about-us/Learning-for-Life-Programme/school-learning-for-life/
+      - title: Open House 2023
+        url: /about-us/open-house-2023/
+  - title: Our Curriculum
+    url: /our-curriculum/Instructional-Programme/english-language/
+    sublinks:
+      - title: Our Instructional Programme
+        url: /our-curriculum/Instructional-Programme/english-language/
+      - title: Co-Curricular Activities
+        url: /our-curriculum/Co-Curricular-Activities/overview/
+      - title: E-Books
+        url: /e-books
+  - title: Successes
+    url: /success/2021
+    sublinks:
+      - title: "2022"
+        url: /success/2022/
+      - title: "2021"
+        url: /success/2021/
+      - title: "2020"
+        url: /success/2020/
+      - title: Accolades
+        url: /success/accolades/
+  - title: More Information
+    url: /more-information/for-parents/p6-covid19-vaccination/
+    sublinks:
+      - title: For Parents
+        url: /more-information/for-parents/p6-covid19-vaccination/
+      - title: For Students
+        url: /more-information/for-students/
+      - title: For Teachers
+        url: /more-information/for-teachers/
+      - title: Contact Us
+        url: /more-information/contact-us/
+      - title: Safe Management Measures
+        url: /more-information/safe-management-measures
+  - title: MK@Huamin
+    url: /moe-kindergarten/About-Us/our-vision-and-mission
+    sublinks:
+      - title: What's On
+        url: /moe-kindergarten/whats-on/
+      - title: About Us
+        url: /moe-kindergarten/About-Us/our-vision-and-mission/
+      - title: Our Team
+        url: /moe-kindergarten/About-Us/Our-Team/our-team/
+      - title: The MK@Huaminites Experience
+        url: /moe-kindergarten/Events-in-MK/life-at-mk/
+      - title: MK Events
+        url: /moe-kindergarten/events-in-mk/mk-events/
