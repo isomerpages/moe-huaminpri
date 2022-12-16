@@ -6,7 +6,7 @@ third_nav_title: School's Information
 ---
 <p>
 <img src="/images/DSC03284.jpg" style="float:right; margin-left:25px; width:350px;height:515px;">
-Here at Huamin, We Keenly Work and Play<br>
+<center>Here at Huamin, We Keenly Work and Play<br>
 Growing Stronger with Every Passing Day<br>
 Strong in Body and Strong in Mind<br>
 Moving Forward, We are Never Left Behind<br>
