@@ -6,4 +6,4 @@ third_nav_title: The MK@Huaminites Experience
 ---
 ### **The MK@Huaminites Experience**
 
-The MK@Huaminites Experience begins when the child first steps into the school!
+<center><b><p style="color:#038C7F; line-height:1.5;">The MK@Huaminites Experience begins when the child first steps into the school!</p></b>
