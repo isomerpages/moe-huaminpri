@@ -8,7 +8,7 @@ third_nav_title: School's Information
 
 
 
-|  | What it means to the Students | What it means to the Staffs |
+|  | <b style="color:#038C7F;">What it means to the Students</b> | <b style="color:#038C7F;">What it means to the Staffs</b> |
 | -------- | -------- | -------- |
 | <b style="color:#038C7F;">Healthy Lifestyle</b> | I will be resilient and stay mentally, physically and emotionally healthy through through relaxation, regular exercise and a balanced diet.     | We will be resilient and stay mentally, physically and emotionally healthy through work life harmony, regular exercise and a balanced diet, so as to be able to live well and sustain the drive to mentor our students in their pursuit of excellence.     |
 | <b style="color:#038C7F;">Everyone is Special</b> | I believe my schoolmate and I are special and I will do my best to perform to my fullest potential. I appreciate myself and others. | We believe that all our students have unique abilities like we do. We are committed to make them realise their potential and together live up to this uniqueness. | 
