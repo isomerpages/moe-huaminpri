@@ -5,7 +5,8 @@ description: ""
 third_nav_title: School's Information
 ---
 ### **Our Vision and Mission**
-- To Be Passionate Contributors and Self-Directed Learners
+
+<img src="/images/DSC03985.jpg" alt="vision and mission" style="float:left;margin-right:25px;width:400px;height:250px;">- To Be Passionate Contributors and Self-Directed Learners
 - To Build Nurturing Hearts, Enriching Minds, Inspiring Growths
 
 ### <b>Our Rules</b><br>
