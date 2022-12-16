@@ -6,8 +6,9 @@ third_nav_title: School's Information
 ---
 ### **Our Vision and Mission**
 
-<img src="/images/DSC03985.jpg" alt="vision and mission" style="float:left;margin-right:25px;width:400px;height:250px;">- To Be Passionate Contributors and Self-Directed Learners
-- To Build Nurturing Hearts, Enriching Minds, Inspiring Growths
+<img src="/images/DSC03985.jpg" alt="vision and mission" style="float:left;margin-right:25px;width:400px;height:250px;">
+- To Be Passionate Contributors and Self-Directed Learners<br>
+- To Build Nurturing Hearts, Enriching Minds, Inspiring Growths<br>
 
 ### <b>Our Rules</b><br>
 Huamin Primary is an institution of learning, and while Huamin emphasizes on fun in learning, discipline is still a necessity in order for students to be effectively learning in the classrooms. As such, all students enrolled into the school shall follow the rules and guidelines as prescribed below:
