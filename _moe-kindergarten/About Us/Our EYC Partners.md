@@ -16,3 +16,4 @@ This partnership provides quality and affordable preschool education for SCs and
 | -------- | -------- |
 | Blk 357 Yishun Ring Road<br>#01-1850<br>Singapore 760357  <br>+65 6756 4693 | Blk 367 Yishun Ring Road<br>#01-1534<br>Singapore 760367<br>+65 6754 5551 |
 
+In this model, children at the above two EYCs will be offered a K1 place at MK@Huamin in the year they turn 5.
