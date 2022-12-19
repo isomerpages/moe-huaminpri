@@ -13,3 +13,5 @@ The children are given opportunities to nurture values and learning dispositions
 Different materials and resources are made available to the children during their outdoor time. The children are encouraged to create their own games and make up their own rules.
 
 ![](/images/Sw:P.png)
+
+<b style="color:#038C7F; font-size:18px; ">STRUCTURED GAMES/ACTIVITIES\] CURIOUS LEARNERS EXPLORING AND DISCOVERING NEW THINGS</b><br>
