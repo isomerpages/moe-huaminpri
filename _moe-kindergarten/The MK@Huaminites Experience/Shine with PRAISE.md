@@ -19,3 +19,5 @@ Semester 1, 2022<br>
 * A little parachute experiment
 * Exploring colours and light
 * Kite making and flying
+
+![](/images/vmcmvm.png)
