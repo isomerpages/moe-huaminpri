@@ -33,3 +33,7 @@ The HI-Light Programme supports the holistic development of MOE Kindergarten chi
 The Starlight Literacy Programme nurtures your child's language skills through Big Books, songs, rhymes, and games set in the local context.
 <a href="https://moe.gov.sg/preschool/moe-kindergarten/curriculum/starlight/"><p style="text-align:center;">Find out more about the Starlight programme on the MOE Kindergarten website!</p></a>
 ![](/images/MK%20Starlight.png)
+
+<hr>
+
+Learn more about our [pedagogical practices](https://huaminpri.moe.edu.sg/mk-at-huamin/the-mk-at-huaminites-experience/our-practices).
