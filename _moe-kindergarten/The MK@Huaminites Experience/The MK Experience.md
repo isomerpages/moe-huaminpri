@@ -9,7 +9,10 @@ third_nav_title: The MK@Huaminites Experience
 <center><b><p style="color:#038C7F; line-height:1.5;">The MK@Huaminites Experience begins when the child first steps into the school!</p></b></center>
 	
 
-<div style="float:center; width: 33.33%;"><img src="/images/environment.png" alt="environment"></div>
+<div style="float:center; width: 33.33%;"><img src="/images/environment.png" alt="environment"><img src="/images/environment.png" alt="environment">
+</div>
+
+[Our Environment](/moe-kindergarten/The-MK-Huaminites-Experience/our-learning-environment/)
 
 <b><p style="color:#038C7F; font-size:20px;">Hear what our children and parents enjoy most about MK@Huamin!</p></b>
 1)[2022What I like about MK@Huamin?(from children)](https://youtu.be/y-zs9jZ-hWM)  
