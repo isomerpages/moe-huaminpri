@@ -13,3 +13,6 @@ Language learning is a dynamic and ongoing process that begins in infancy and ea
 We believe that children’s learning goes beyond the classroom and the environment encourages their exploration. By bringing different stories alive through our environment, we aim to excite, interest and instil a love for learning languages.
 
 Look out for our series of programme and activities of STORIES ALIVE!
+
+* Yes! It’s Story Time!
+* Storytelling on the Move
