@@ -6,14 +6,11 @@ third_nav_title: The MK@Huaminites Experience
 ---
 ### **Our Pedagogical Practices**
 
-Engaging children in learning through purposeful play
-
+<b style="color:#038C7F; font-size:18px; ">Engaging children in learning through purposeful play</b><br>
 At MK, teachers engage children in learning through purposeful play. While children actively participate in play that is enjoyable and meaningful, teachers observe them to support and guide their play to achieve important learning outcomes.
 
   
-
-Extending children's learning through quality interactions
-
+<b style="color:#038C7F; font-size:18px; ">Extending children's learning through quality interactions</b><br>
 Teachers also seek to extend children's learning through quality interactions. This involves teachers and children engaging in frequent and extended conversations to build on ideas and concepts.
 
   
