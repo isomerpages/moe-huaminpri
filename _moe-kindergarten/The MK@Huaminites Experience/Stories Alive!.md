@@ -16,3 +16,6 @@ Look out for our series of programme and activities of STORIES ALIVE!
 
 * Yes! It’s Story Time!
 * Storytelling on the Move
+
+<b style="color:#038C7F; font-size:18px; ">YES! It's Story Time!</b><br>
+![](/images/storytime.png)
