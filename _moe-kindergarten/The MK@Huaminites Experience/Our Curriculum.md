@@ -23,3 +23,9 @@ Check out MK@Huamin’s centre-based programmes:
 * [StoriesAlive!](https://huaminpri.moe.edu.sg/mk-at-huamin/the-mk-at-huaminites-experience/stories-alive)
 * [HealthyBody](https://huaminpri.moe.edu.sg/mk-at-huamin/the-mk-at-huaminites-experience/healthy-body)
 * [Yes!Day](https://huaminpri.moe.edu.sg/mk-at-huamin/the-mk-at-huaminites-experience/yes-day)
+
+<b style="color:#038C7F; font-size:22px;">HI-LIGHT Programme</b><br>
+The HI-Light Programme supports the holistic development of MOE Kindergarten children through an integrated approach to learning.<br>
+[Find out more about the HI-Light programme on the MOE Kindergarten website!](https://moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light/)
+
+<a href="https://moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light/"
