@@ -19,7 +19,7 @@ Look out for our series of programme and activities of STORIES ALIVE!
 
 <b style="color:#038C7F; font-size:18px; ">YES! It's Story Time!</b><br>
 
-
+![](/images/Yes%20Its%20Story%20Time.png)
 
 <b style="color:#038C7F; font-size:18px; ">Storytelling on the Move</b><br>
 In 2021, “Storytelling on the Move”, a termly programme, focuses on instilling a love for language through dramatization. The teachers and the children work together to bring the characters alive through dramatisation and meeting the characters up-close.
