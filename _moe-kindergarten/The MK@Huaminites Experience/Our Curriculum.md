@@ -14,7 +14,12 @@ MK offers classes in the 3 official MTLs (Chinese, Malay and Tamil). We encourag
 <b style="color:#038C7F; font-size:22px;">Total MK@Huamin Curriculum</b><br>
 Our MK curriculum comprises 2 flagship programmes, the HI-Light Programme and Starlight Literacy Programme for English and MTL. In addition, each term at MK will conclude in a Weeks of Wonder project.
 
-
+![](/images/Total%20MKHuamin%20Curriculum%202022.jpg)
+	
 At MK@Huamin, we believe in providing opportunities for children to be physically active, learn in a real world context and develop a variety of skills that prepare them not only for the classroom, but also for life. We also believe in inculcating positive values and learning dispositions in children.
 
-Check out MK@Huamin’s centre\-based programmes:
+Check out MK@Huamin’s centre-based programmes:
+* [OutdoorLearning, "Shine with PRAISE“](https://huaminpri.moe.edu.sg/mk-at-huamin/the-mk-at-huaminites-experience/shine-with-praise)<br>
+* [StoriesAlive!](https://huaminpri.moe.edu.sg/mk-at-huamin/the-mk-at-huaminites-experience/stories-alive)<br>
+* [HealthyBody](https://huaminpri.moe.edu.sg/mk-at-huamin/the-mk-at-huaminites-experience/healthy-body)<br>
+* [Yes!Day](https://huaminpri.moe.edu.sg/mk-at-huamin/the-mk-at-huaminites-experience/yes-day)
