@@ -31,3 +31,4 @@ Healthy Eating Day returned with an exciting shopping experience to recap on the
 
 On your next shopping trip for groceries, do invite your child(ren) in choosing a healthier food option and share with them the Healthier Choice logos on different food packagings!
 
+![](/images/supermarket.png)
