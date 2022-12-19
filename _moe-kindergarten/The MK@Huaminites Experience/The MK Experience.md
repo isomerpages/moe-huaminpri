@@ -8,8 +8,10 @@ third_nav_title: The MK@Huaminites Experience
 
 <center><b><p style="color:#038C7F; line-height:1.5;">The MK@Huaminites Experience begins when the child first steps into the school!</p></b></center>
 
-<a target="_blank" href="https://huaminpri.moe.edu.sg/moe-kindergarten/The-MK-Huaminites-Experience/our-learning-environment/"><img src="/images/environment.png" alt="environment" style="width:210px; height:300px;"></a>
-<a target="_blank" href="https://huaminpri.moe.edu.sg/moe-kindergarten/The-MK-Huaminites-Experience/our-learning-environment/"><img src="/images/Total MKHuamin Curriculum 2022.jpg" alt="MK Curriculum" style="width:210px; height:210px;"></a>
+<div style="float:left; "><a target="_blank" href="https://huaminpri.moe.edu.sg/moe-kindergarten/The-MK-Huaminites-Experience/our-learning-environment/"><img src="/images/environment.png" alt="environment" style="width:210px; height:300px;"></a><a target="_blank" href="https://huaminpri.moe.edu.sg/moe-kindergarten/The-MK-Huaminites-Experience/our-curriculum/"><img src="/images/Total MKHuamin Curriculum 2022.jpg" alt="MK Curriculum" style="width:210px; height:210px;"></a><a target="_blank" href="https://huaminpri.moe.edu.sg/moe-kindergarten/The-MK-Huaminites-Experience/our-curriculum/"><img src="/images/Ms Kinah.jpeg" alt="MK Curriculum" style="width:300px; height:210px;"></a>
+</div>
+
+<hr>
 
 <b><p style="color:#038C7F; font-size:20px;">Hear what our children and parents enjoy most about MK@Huamin!</p></b>
 1)[2022What I like about MK@Huamin?(from children)](https://youtu.be/y-zs9jZ-hWM)  
