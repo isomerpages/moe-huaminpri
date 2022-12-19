@@ -4,3 +4,16 @@ permalink: /moe-kindergarten/The-MK-Huaminites-Experience/healthy-body/
 description: ""
 third_nav_title: The MK@Huaminites Experience
 ---
+### **Healthy Body**
+
+At MK@Huamin, we want to empower children with different ways of staying healthy.This year (2022), we focus on having a "Healthy Body”, with the theme of “All About Eyes” for 2022. Through various activities, the children gained new found eye-care knowledge such as fruits that benefit the health of their eyes and that spending time outdoors is a way to rest our eyes. With that, the children discussed together and created their own “eye care exercise”!
+
+Take a look at our children in action!
+
+* [October 2022](https://www.facebook.com/huaminprimaryschool/posts/pfbid02RyVGTzycYiLziHTSwwbKfcBahgyQudc19VDgrr7R8cHYBuu5QoRinoF5ohuXeLXKl) 
+* [September 2022](https://www.facebook.com/huaminprimaryschool/posts/pfbid0JXt45sT8kXXs8jA51mdrCmExXDuMCbxxbrQiMN6kCjUQg25JjZpuYAqvryeMahs4l)
+* [August 2022](https://www.facebook.com/huaminprimaryschool/posts/pfbid027zcGS639aYA1RcYJGjvLoUEDvtchmUYRCscyrJhpVNNchPE4qdmpMogX9YbwiEnTl)
+* [May & July 2022](https://www.facebook.com/huaminprimaryschool/posts/pfbid0AbJdwSE1a81is9kyCtrcM22svThGDvGMcHtao4bQQU3nA8RC8ppV1StVz5CJ6ncYl)
+* [April 2022](https://www.facebook.com/100063470141051/posts/434536748671993/)
+* [March 2022](https://www.facebook.com/huaminprimaryschool/posts/407170904741911)
+* [February 2022](https://www.facebook.com/100063470141051/posts/382726770519658/)
