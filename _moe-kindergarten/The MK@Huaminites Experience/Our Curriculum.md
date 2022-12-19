@@ -11,4 +11,5 @@ Our curriculum is specially designed based on MOE’s [Nurturing Early Learners
 
 MK offers classes in the 3 official MTLs (Chinese, Malay and Tamil). We encourage children of Chinese, Malay and Indian ethnic race to take their own MTLs.
 
-<b><p style="color:#038C7F; font-size:20px;">Total MK@Huamin Curriculum</p></b>
+<b style="color:#038C7F; font-size:20px;">Total MK@Huamin Curriculum</b><br>
+Our MK curriculum comprises 2 flagship programmes, the HI-Light Programme and Starlight Literacy Programme for English and MTL. In addition, each term at MK will conclude in a Weeks of Wonder project.
