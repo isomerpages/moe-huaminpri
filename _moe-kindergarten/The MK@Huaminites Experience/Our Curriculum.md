@@ -10,3 +10,5 @@ Our curriculum is specially designed based on MOE’s [Nurturing Early Learners
   
 
 MK offers classes in the 3 official MTLs (Chinese, Malay and Tamil). We encourage children of Chinese, Malay and Indian ethnic race to take their own MTLs.
+
+<b><p style="color:#038C7F; font-size:20px;">Total MK@Huamin Curriculum</p></b>
