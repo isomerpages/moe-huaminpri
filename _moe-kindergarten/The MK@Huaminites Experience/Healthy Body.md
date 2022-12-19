@@ -18,5 +18,10 @@ Take a look at our children in action!
 * [March 2022](https://www.facebook.com/huaminprimaryschool/posts/407170904741911)
 * [February 2022](https://www.facebook.com/100063470141051/posts/382726770519658/)
 
+<b style="color:#038C7F; font-size:22px; ">5th October 2021</b><br>
+As part of an active lifestyle, this month, the children were introduced to Yoga. Yoga is a great physical activity to help children improve body awareness, focus, balance, and flexibility. The children learnt that yoga helps to exercise their bodies, their breath and their minds, all at the same time. During the session, the children attempted different nature-inspired “Asana” (Yoga Poses) which include the tree, mountain and butterfly poses! With imagination at play, children actively participated in yoga with full concentration as they connect more deeply with their inner self.  
 
-https://youtu.be/Jo3ga3Vk6vQ
+  
+
+You too can try Yoga with your child(ren)! Here's the link to a simple Yoga exercise you can try at home:<br>
+[Youtube: 5 Minute Yoga Routine for Kids - Safari Adventure! | Channel Mum](https://youtu.be/Jo3ga3Vk6vQ)
