@@ -24,4 +24,10 @@ As part of an active lifestyle, this month, the children were introduced to Yoga
 You too can try Yoga with your child(ren)! Here's the link to a simple Yoga exercise you can try at home:<br>
 [Youtube: 5 Minute Yoga Routine for Kids - Safari Adventure! | Channel Mum](https://youtu.be/Jo3ga3Vk6vQ)
 
+![](/images/yoga.png)
+
 <b style="color:#038C7F; font-size:22px;">14th September 2021</b><br>
+Healthy Eating Day returned with an exciting shopping experience to recap on the Healthy Plate. Children were also introduced to the Healthier Choice logos on food packagings. They had the opportunity to practice mindfulness when shopping for healthier different meals at our very own MK@Huamin's Supermarket!  
+
+On your next shopping trip for groceries, do invite your child(ren) in choosing a healthier food option and share with them the Healthier Choice logos on different food packagings!
+
