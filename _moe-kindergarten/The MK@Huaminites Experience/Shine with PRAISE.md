@@ -9,3 +9,4 @@ third_nav_title: The MK@Huaminites Experience
 ![](/images/ss.jpg)
 The children are given opportunities to nurture values and learning dispositions through the outdoor free play and structured games/activities. This help children to build positive relationships which are basis for children’s development and learning.
 
+<b style="color:#038C7F; font-size:18px; ">[FREE PLAY] INVENTIVE LEARNERS ENGAGED IN OUTDOOR PLAY</b><br>
