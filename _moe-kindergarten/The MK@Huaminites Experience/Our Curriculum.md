@@ -35,5 +35,3 @@ The Starlight Literacy Programme nurtures your child's language skills through B
 ![](/images/MK%20Starlight.png)
 
 <hr>
-
-Learn more about our [pedagogical practices](https://huaminpri.moe.edu.sg/mk-at-huamin/the-mk-at-huaminites-experience/our-practices).
