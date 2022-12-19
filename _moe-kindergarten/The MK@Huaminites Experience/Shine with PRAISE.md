@@ -23,3 +23,9 @@ Semester 1, 2022<br>
 </p>
 
 ![](/images/vmcmvm.png)
+
+<p style="line-height: 1.75;">
+Semester 2, 2022<br>
+•	Various sports games leading up to Sports Week in Term 4 <br></p>
+
+![](/images/vdvvsddvddv.png)
