@@ -14,4 +14,8 @@ Different materials and resources are made available to the children during thei
 
 ![](/images/Sw:P.png)
 
-<b style="color:#038C7F; font-size:18px; ">STRUCTURED GAMES/ACTIVITIES\] CURIOUS LEARNERS EXPLORING AND DISCOVERING NEW THINGS</b><br>
+<b style="color:#038C7F; font-size:18px;">[STRUCTURED GAMES/ACTIVITIES\] CURIOUS LEARNERS EXPLORING AND DISCOVERING NEW THINGS</b><br>
+Semester 1, 2022<br>
+* A little parachute experiment
+* Exploring colours and light
+* Kite making and flying
