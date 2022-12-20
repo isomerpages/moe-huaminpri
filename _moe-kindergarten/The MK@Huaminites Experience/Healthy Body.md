@@ -32,3 +32,8 @@ Healthy Eating Day returned with an exciting shopping experience to recap on the
 On your next shopping trip for groceries, do invite your child(ren) in choosing a healthier food option and share with them the Healthier Choice logos on different food packagings!
 
 ![](/images/supermarket.png)
+
+<b style="color:#038C7F; font-size:22px;">3rd August 2021</b><br>
+This month, we explored the fun of fitness! Apart from having a balanced diet, the children also learned the importance of staying active to keep a healthy mind and body. The children then danced and moved to our ‘Superhero’ zumba session.
+
+![](/images/Zumba.png)
