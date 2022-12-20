@@ -33,3 +33,14 @@ To ensure that all students will achieve a level of mastery of mathematics that 
 <br><b style="color:#016C62; font-size:20px; line-height: 3;">ACHIEVEMENTS</b><br>
 <b style="font-size:17px;">Certificates of Achievements</b><br>
 Certificates are awarded to commend students of various values and habits achieved to boost the students’ self esteem and emphasize the importance of the various values.
+
+<b>Raffles Institution’s Primary Mathematics World Contest 2019</b><br>
+
+| Name of Student | Class | Type of Award |
+| -------- | -------- | -------- |
+| Azra Nur Natasha Binte Abdul Halim     | 5 Respect     | Distinction     |
+| Aidan Ow | 5 Respect | Credit |
+| Ng Qi Qi | 5 Respect | Credit |
+| Teo Qian Yu | 6 Respect | Participation |
+| Ng Yu Min | 5 Respect | Participation |
+| Chong Wen Xun Vincence | 4 Respect | Participation |
