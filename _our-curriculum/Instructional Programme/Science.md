@@ -42,5 +42,7 @@ A range of assessment tools, including written and performance tasks are used to
 
 | Useful Websites | |
 | -------- | -------- |
-| BBC Science Clips | [http://www.bbc.co.uk/schools/scienceclips/index_flash.shtml](http://www.bbc.co.uk/schools/scienceclips/ages/10_11/interdependence.shtml)     |
-| Brain Pop | [http://www.brainpop.com/science/](http://www.brainpop.com/science/)
+| Brain Pop | [http://www.brainpop.com/science/](http://www.brainpop.com/science/) |
+| Discovery Kids | [http://kids.discovery.com/](http://kids.discovery.com/) |
+| Magic School Bus | [http://www.scholastic.com/magicschoolbus/](http://www.scholastic.com/magicschoolbus/) |
+| Bill Nye the Science Guy | [http://www.billnye.com/](http://www.billnye.com/)
