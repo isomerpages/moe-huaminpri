@@ -18,10 +18,9 @@ From 1 Jul 2022, there are two appointed suppliers for MK uniform: [Beau Voix U
 ![](/images/saleofuniform.png)
 
 <b style="color:#038C7F; font-size:22px;">Sale of uniform is available on/at:</b><br>
-<p style="font-size:17px;">
-1. Supplier’s website<br>
-2. Supplier’s retail store<br>
-3. On-site at MK@Huamin during Orientation for 2023 Intake on 11 Nov 2022 (once-off on-site sale) </p>
+1.Supplier’s website <br>
+2.Supplier’s retail store <br>
+3.On-site at MK@Huamin during Orientation for 2023 Intake on 11 Nov 2022 (once-off on-site sale).
 
 * Try-out of uniform is not allowed
 * Please check on the sizes beforehand
