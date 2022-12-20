@@ -37,7 +37,16 @@ Through a balanced and well-designed curriculum based on the following framework
 
 <b><u>Social Well-being</u></b><br>
 Through carefully designed learning activities and ‘teachable moments’, students are given the opportunities to acquire sound moral values, develop social skills (SEL) and higher order thinking skills, and 21st Century Competencies  
-  
 
 <b><u>Mental Well-being</u></b><br>
 Students will be equipped with knowledge and skills to build positive self-esteem and manage stress and anger
+
+<b style="color:#016C62; font-size:20px; line-height: 3;">KEY APPROACHES</b><br>
+Our **Key Approach** is ITQ:  
+*   Inclusion
+*   Total Well-Being
+*   Quality Delivery
+
+Our **Key Teaching Models** for Physical Education are:
+*   Movement Education
+*   Games Concept Approach
