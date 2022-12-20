@@ -16,3 +16,4 @@ Yes! Day is on every Friday. The children will get to decide:
 * When to have snacks and who to have snacks with
 
 ![](/images/Yes%20Day%2001.jpg)
+
