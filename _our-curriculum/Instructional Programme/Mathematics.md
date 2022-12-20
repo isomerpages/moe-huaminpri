@@ -48,3 +48,7 @@ Certificates are awarded to commend students of various values and habits achiev
 | Pua Ren Jie | 6 Excellence | Certificate of Participation |
 | Thang Yee Le, Eden | 6 Excellence | Certificate of Participation |
 | Goh Wen Xuan | 6 Excellence | Certificate of Participation |
+
+<br><b style="color:#016C62; font-size:20px; line-height: 3;">List of Approved Calculators</b><br>
+
+![](/images/calculators.png)
