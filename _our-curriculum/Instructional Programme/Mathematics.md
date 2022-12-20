@@ -34,13 +34,17 @@ To ensure that all students will achieve a level of mastery of mathematics that 
 <b style="font-size:17px;">Certificates of Achievements</b><br>
 Certificates are awarded to commend students of various values and habits achieved to boost the students’ self esteem and emphasize the importance of the various values.
 
-<b>Raffles Institution’s Primary Mathematics World Contest 2019</b><br>
+<b>Singapore Mathematics Olympiad for Primary Schools 2022</b><br>
 
 | Name of Student | Class | Type of Award |
 | -------- | -------- | -------- |
-| Azra Nur Natasha Binte Abdul Halim     | 5 Respect     | Distinction     |
-| Aidan Ow | 5 Respect | Credit |
-| Ng Qi Qi | 5 Respect | Credit |
-| Teo Qian Yu | 6 Respect | Participation |
-| Ng Yu Min | 5 Respect | Participation |
-| Chong Wen Xun Vincence | 4 Respect | Participation |
+| Idam Haziq Bin Mohammad Hanafi | 6 Respect     | Certificate of Participation |
+| Sheryl Wee Shi Ting | 6 Respect | Certificate of Participation |
+| Jarreth Eng Rui Tjie | 6 Respect | Certificate of Participation |
+| Lim Shi Hui Samantha | 6 Integrity | Bronze |
+| Cayden Toh Yu Hao | 6 Courage | Certificate of Participation |
+| Ng Hui Yun | 6 Courage | Certificate of Participation |
+| Peh Peng Cheng | 6 Excellence | Certificate of Participation | 
+| Pua Ren Jie | 6 Excellence | Certificate of Participation |
+| Thang Yee Le, Eden | 6 Excellence | Certificate of Participation |
+| Goh Wen Xuan | 6 Excellence | Certificate of Participation |
