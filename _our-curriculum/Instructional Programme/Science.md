@@ -7,7 +7,6 @@ third_nav_title: Instructional Programme
 ### **Science**
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">OUR MISSION</b><br>
-<b style="color:#038C7F; font-size:17px; ">Passionate and Effective Users of Good English (PEG for Life)!</b><br>
 To equip students with skills to understand the world and make informed decisions
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">OUR AIM</b><br>
