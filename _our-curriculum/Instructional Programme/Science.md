@@ -22,3 +22,19 @@ The department uses the Inquiry-based learning approach to teaching Science. Thi
 4\. Use of ICT <br>
 5\. Participation in external competitions e.g. Elementz, Science Olympiad, ICAS <br>
 6\. Environment Education <br>
+
+<b style="color:#016C62; font-size:20px; line-height: 3;">THE HOLISTIC APPROACH</b><br>
+A range of assessment tools, including written and performance tasks are used to provide feedback to the students on their mastery of concepts and skills as well as their strengths and areas for improvement. The various modes of assessment include:
+
+• Continual and Semestral Examinations  
+• Formative assessment during lessons  
+• Interdisciplinary Project Work  
+• Online tests and quizzes
+
+<b style="color:#016C62; font-size:20px; line-height: 3;">THE UNIT PLAN</b><br>
+
+
+|  | Term 1 | Term 2 | Term 3 | Term 4 |
+| -------- | -------- | -------- | -------- | -------- |
+| P3     | Diversity<br>Chapter 1<br>Classification of Living and non-living things<br><br>Chapter 2<br>Plants<br><br>Chapter 3<br>Animals     | Text     | Text     | Text     |
+
