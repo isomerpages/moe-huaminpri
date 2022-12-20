@@ -67,3 +67,14 @@ The department employs both formative and summative modes of assessment to makin
 * Learning Progression
 * Co-Construct Success Criteria
 * 2 Stars and a Wish
+
+<b>Rubrics</b><br>
+<b>Performance Level for Physical Activities, Physical Health and Fitness and Outdoor Education</b><br>
+
+
+| Qualitative Descriptor | Performance Level |
+| -------- | -------- |
+| Competent     | Student often demonstrates the learning outcomes     |
+| Developing | Student sometimes demonstrates the learning outcomes | 
+| Beginning | Student rarely demonstrates the learning outcomes | 
+
