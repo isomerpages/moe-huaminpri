@@ -34,12 +34,6 @@ A range of assessment tools, including written and performance tasks are used to
 <b style="color:#016C62; font-size:20px; line-height: 3;">THE UNIT PLAN</b><br>
 
 
-|  | Term 1 | Term 2 | Term 3 | Term 4 |
-| -------- | -------- | -------- | -------- | -------- |
-| P3     | Diversity<br>Chapter 1<br>Classification of Living and non-living things<br><br>Chapter 2<br>Plants<br><br>Chapter 3<br>Animals     | Text     | Text     | Text     |
-
-
-
 | Useful Websites | |
 | -------- | -------- |
 | Brain Pop | [http://www.brainpop.com/science/](http://www.brainpop.com/science/) |
@@ -54,4 +48,4 @@ A range of assessment tools, including written and performance tasks are used to
 | Sciber Diver | [http://sciberdiver.wikispaces.com/](http://sciberdiver.wikispaces.com/) |
 | Kids Health | [http://kidshealth.org/kid/](http://kidshealth.org/kid/) |
 | Popular Science | [http://www.popsci.com/popsci/](http://www.popsci.com/popsci/) |
-| Science Made Simple | [http://www.sciencemadesimple.com/](http://www.sciencemadesimple.com/) | 
+| Science Made Simple | [http://www.sciencemadesimple.com/](http://www.sciencemadesimple.com/) |
