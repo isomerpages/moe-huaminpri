@@ -50,3 +50,20 @@ Our **Key Approach** is ITQ:
 Our **Key Teaching Models** for Physical Education are:
 *   Movement Education
 *   Games Concept Approach
+
+<b style="color:#016C62; font-size:20px; line-height: 3;">ASSESSMENT</b><br>
+The department employs both formative and summative modes of assessment to making informed judgement about what our students know and are able to do in order to help them progress towards and attain the desired goals.
+
+ **Assessment Strategies and Tools** used:     
+
+* Structured Teacher Observations
+* Performance Tasks
+* Rubrics and Checklists
+* Cooperative Group Projects
+* Video Recording
+* Physical Fitness Test
+* Swimsafer Practical and Theory Test
+* Reflective Discussion
+* Learning Progression
+* Co-Construct Success Criteria
+* 2 Stars and a Wish
