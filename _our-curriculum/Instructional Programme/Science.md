@@ -45,4 +45,8 @@ A range of assessment tools, including written and performance tasks are used to
 | Brain Pop | [http://www.brainpop.com/science/](http://www.brainpop.com/science/) |
 | Discovery Kids | [http://kids.discovery.com/](http://kids.discovery.com/) |
 | Magic School Bus | [http://www.scholastic.com/magicschoolbus/](http://www.scholastic.com/magicschoolbus/) |
-| Bill Nye the Science Guy | [http://www.billnye.com/](http://www.billnye.com/)
+| Bill Nye the Science Guy | [http://www.billnye.com/](http://www.billnye.com/) |
+| FT Exploring | [http://www.ftexploring.com/](http://www.ftexploring.com/) |
+| Kidsites.com | [http://www.kidsites.com/sites-edu/science.htm](http://www.kidsites.com/sites-edu/science.htm) | 
+| Science News for Kids | [https://www.saveonenergy.com/](https://www.saveonenergy.com/) |
+| Physics4Kids | [http://www.physics4kids.com/](http://www.physics4kids.com/)
