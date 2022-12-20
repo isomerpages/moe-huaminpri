@@ -49,4 +49,9 @@ A range of assessment tools, including written and performance tasks are used to
 | FT Exploring | [http://www.ftexploring.com/](http://www.ftexploring.com/) |
 | Kidsites.com | [http://www.kidsites.com/sites-edu/science.htm](http://www.kidsites.com/sites-edu/science.htm) | 
 | Science News for Kids | [https://www.saveonenergy.com/](https://www.saveonenergy.com/) |
-| Physics4Kids | [http://www.physics4kids.com/](http://www.physics4kids.com/)
+| Physics4Kids | [http://www.physics4kids.com/](http://www.physics4kids.com/) | 
+| National Geographic | [http://kids.nationalgeographic.com/](http://kids.nationalgeographic.com/) |
+| Sciber Diver | [http://sciberdiver.wikispaces.com/](http://sciberdiver.wikispaces.com/) |
+| Kids Health | [http://kidshealth.org/kid/](http://kidshealth.org/kid/) |
+| Popular Science | [http://www.popsci.com/popsci/](http://www.popsci.com/popsci/) |
+| Science Made Simple | [http://www.sciencemadesimple.com/](http://www.sciencemadesimple.com/) | 
