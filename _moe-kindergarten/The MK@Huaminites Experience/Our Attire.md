@@ -27,4 +27,17 @@ From 1 Jul 2022, there are two appointed suppliers for MK uniform: [Beau Voix U
 * Please check on the sizes beforehand
 * Exchange of sizes can be done with the respective supplier within 7 working days of purchase (terms & conditions apply)
 
-<b style="color:#038C7F; font-size:22px;">Sale of uniform is available on/at:</b><br>
+<b style="color:#038C7F; font-size:22px;">Hair</b><br>
+Your child's hair must be well-kept and tidy.
+
+<b style="color:#038C7F; font-size:22px;">Shoes and Socks</b><br>
+Your child should wear socks and well-fitted shoes for safety during activities. The following guidelines should be observed:
+
+*   Children should wear closed-toe shoes, suitable for outdoor play;
+
+*   Flip-flops and other open-toe/heel shoes are not allowed (except on the day that the class is having sand & water play, where children are to wear slippers or sandals without socks to school); and
+
+*   Socks should have non-slip soles.
+
+<b style="color:#038C7F; font-size:22px;">Jewellery</b><br>
+For safety reasons, we discourage children from wearing accessories or jewellery to the kindergarten.
