@@ -4,3 +4,5 @@ permalink: /our-curriculum/Instructional-Programme/character-citizenship-educati
 description: ""
 third_nav_title: Instructional Programme
 ---
+### **Character and Citizenship Education**
+
