@@ -44,3 +44,5 @@ This month, the children were introduced to the last component in 'Our Healthy P
 The children learnt about the different types of wholegrains and their various health benefits. We also had a 'live' session of mobile game boards for the children to differentiate wholegrains from non-wholegrains. The children enjoyed it as they could see their friends from different classes choosing the correct wholegrain foods.
 
 Parents, do try out this delicious recipe - “Wholemeal Banana Pancake🍌🥞” with your child at home! Please share your photos/videos of your yummy pancakes with the respective class teachers on Class Dojo. 😋 (Recipe's Video Link: https://youtu.be/2uh45wCY99k)
+
+![](/images/healthylifestyle.png)
