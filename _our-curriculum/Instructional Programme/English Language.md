@@ -36,4 +36,3 @@ Top 20 in Mythos (Junior Orators) 2022- Maezyl Tan Enxuan</b>
 <br>
 
 ![](/images/achievementseng.png) <br>
-![](/images/english.png)
