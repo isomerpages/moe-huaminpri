@@ -23,7 +23,7 @@ third_nav_title: The MK@Huaminites Experience
 
 <b><p style="color:#038C7F; font-size:20px;">Useful Links</p></b>
 
-* [On to A Strong Start at MOE Kindergarten (2018)](https://www.youtube.com/watch?v=R636jFF7S28)  
-* [Ignitingthe Joy of Learning! (2021)](https://www.youtube.com/watch?v=mghZCHtKNXc)  
-* [Where Every Space is A Learning Space (2018)](https://www.youtube.com/watch?v=LockyOmaNB0)  
-* [APeek into our MOE Kindergartens (2015)](https://www.youtube.com/watch?v=C_ktvFYCBwo)
+- <a target="_blank" href="https://www.youtube.com/watch?v=R636jFF7S28">On to A Strong Start at MOE Kindergarten (2018)</a><br>
+- <a target="_blank" href="https://www.youtube.com/watch?v=mghZCHtKNXc">Igniting the Joy of Learning! (2021)</a><br>
+- <a target="_blank" href="https://www.youtube.com/watch?v=LockyOmaNB0">Where Every Space is A Learning Space (2018)</a><br>
+- <a target="_blank" href="https://www.youtube.com/watch?v=C_ktvFYCBwo">APeek into our MOE Kindergartens (2015)</a>
