@@ -76,5 +76,15 @@ The department employs both formative and summative modes of assessment to makin
 | -------- | -------- |
 | Competent     | Student often demonstrates the learning outcomes     |
 | Developing | Student sometimes demonstrates the learning outcomes | 
-| Beginning | Student rarely demonstrates the learning outcomes | 
+| Beginning | Student rarely demonstrates the learning outcomes |
+
+| Useful Links |  |
+| -------- | -------- |
+| Sport SG: | [https://www.sportsingapore.gov.sg/](https://www.sportsingapore.gov.sg/) |
+| Singapore Primary Schools Sports Council: | [http://www.spssc.sg/](http://www.spssc.sg/) |
+| Yishun Sports Centre: | [https://www.myactivesg.com/facilities/yishun-sports-centre](https://www.myactivesg.com/facilities/yishun-sports-centre) |
+| Health Promotion Board: | [http://www.hpb.gov.sg/HOPPortal/](http://www.hpb.gov.sg/HOPPortal/) | 
+| Weather SG | [http://www.weather.gov.sg/home/](http://www.weather.gov.sg/home/) |
+| Sports Safety: | [https://www.sportsingapore.gov.sg/sports-education/sports-safety](https://www.sportsingapore.gov.sg/sports-education/sports-safety) |
+| National School Games: | [https://nsg.moe.edu.sg/](https://nsg.moe.edu.sg/) | 
 
