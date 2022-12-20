@@ -42,6 +42,5 @@ A range of assessment tools, including written and performance tasks are used to
 
 | Useful Websites | |
 | -------- | -------- |
-| BBC Science Clips     | [http://www.bbc.co.uk/schools/scienceclips/ages/10_11/interdependence.shtml](http://www.bbc.co.uk/schools/scienceclips/ages/10_11/interdependence.shtml)     |
+| BBC Science Clips | [http://www.bbc.co.uk/schools/scienceclips/index_flash.shtml](http://www.bbc.co.uk/schools/scienceclips/ages/10_11/interdependence.shtml)     |
 | Brain Pop | [http://www.brainpop.com/science/](http://www.brainpop.com/science/)
-
