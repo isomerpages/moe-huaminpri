@@ -38,3 +38,10 @@ A range of assessment tools, including written and performance tasks are used to
 | -------- | -------- | -------- | -------- | -------- |
 | P3     | Diversity<br>Chapter 1<br>Classification of Living and non-living things<br><br>Chapter 2<br>Plants<br><br>Chapter 3<br>Animals     | Text     | Text     | Text     |
 
+
+
+| Useful Websites | |
+| -------- | -------- |
+| BBC Science Clips     | [http://www.bbc.co.uk/schools/scienceclips/ages/10_11/interdependence.shtml](http://www.bbc.co.uk/schools/scienceclips/ages/10_11/interdependence.shtml)     |
+| Brain Pop | [http://www.brainpop.com/science/](http://www.brainpop.com/science/)
+
