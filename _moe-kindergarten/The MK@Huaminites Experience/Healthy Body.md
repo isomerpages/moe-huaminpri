@@ -37,3 +37,10 @@ On your next shopping trip for groceries, do invite your child(ren) in choosing 
 This month, we explored the fun of fitness! Apart from having a balanced diet, the children also learned the importance of staying active to keep a healthy mind and body. The children then danced and moved to our ‘Superhero’ zumba session.
 
 ![](/images/Zumba.png)
+
+<b style="color:#038C7F; font-size:22px;">6th July 2021</b><br>
+This month, the children were introduced to the last component in 'Our Healthy Plate' - Wholegrains.  
+
+The children learnt about the different types of wholegrains and their various health benefits. We also had a 'live' session of mobile game boards for the children to differentiate wholegrains from non-wholegrains. The children enjoyed it as they could see their friends from different classes choosing the correct wholegrain foods.
+
+Parents, do try out this delicious recipe - “Wholemeal Banana Pancake🍌🥞” with your child at home! Please share your photos/videos of your yummy pancakes with the respective class teachers on Class Dojo. 😋 (Recipe's Video Link: https://youtu.be/2uh45wCY99k)
