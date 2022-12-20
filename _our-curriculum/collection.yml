@@ -2,12 +2,12 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Instructional Programme/Aesthetics.md
       - Instructional Programme/.keep
       - Instructional Programme/English Language.md
       - Instructional Programme/Mathematics.md
       - Instructional Programme/Science.md
       - Instructional Programme/Character and Citizenship Education.md
+      - Instructional Programme/Aesthetics.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Overview.md
       - Co Curricular Activities/Sports CCA.md
