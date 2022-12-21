@@ -8,6 +8,7 @@ third_nav_title: Instructional Programme
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">OUR VISION</b><br>
 <b style="color:#038C7F; font-size:17px; ">Passionate and Effective Users of Good English (PEG for Life)!</b><br>
+
 English is a key language used in Singapore and is used in everyday situations. It is also used for functional purposes, such as giving directions, information or instructions and making requests. It is therefore important that our students be equipped with these skills in language learning: 
 
 <p style="color:#038C7F; line-height: 1.75;">
@@ -16,9 +17,10 @@ English is a key language used in Singapore and is used in everyday situations. 
 •	Speaking & Representing<br>
 •	Writing & Representing<br>
 •	Grammar<br>
-•	Vocabulary<br>
+•	Vocabulary<br> </p>
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">OUR MISSION</b><br>
+
 By creating a dynamic learning environment where students cultivate a passion for learning English, we seek to develop self-directed learners who are discerning readers, empathetic communicators and creative inquirers<br>
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">OUR PHILOSOPHY</b><br>
