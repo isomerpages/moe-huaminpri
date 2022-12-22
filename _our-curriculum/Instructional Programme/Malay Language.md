@@ -27,6 +27,7 @@ To provide students with a strong foundation in the 6 skills of the language, na
 <b style="color:#016C62; font-size:22px;">Achievements</b><br>
 
 **Kuiz Cepat Tepat 2022**
+
 | Name of Student | Class | Award |
 | -------- | -------- | -------- |
 | Ayra Falisha Binte Sufiyan     | 5 Harmony     | Participation     |
@@ -36,6 +37,7 @@ To provide students with a strong foundation in the 6 skills of the language, na
 
 
 **Saya Boleh Mengarang 2021**
+
 | Name of Student | Class | Award |
 | -------- | -------- | -------- |
 | Adam Danyl Bin Sany     | 2 Respect     | Gold     |
@@ -44,11 +46,9 @@ To provide students with a strong foundation in the 6 skills of the language, na
 | Nor Fatrisyah Binte Mohammad Farhan | 4 Excellence | Bronze |
 
 **Karya Minda Kreatif 2021**
+
 | Name of Student | Class | Award |
 | -------- | -------- | -------- |
 | Mohammad Aydin Bin Haji Hasnadi     | 4 Excellence     | Gold     |
 | Nur Siti Myiesha Binte Mohammad Sani | 4 Courage | Sliver |
 | Hana Athirah Binte Abdul Malik | 5 Integrity | Sliver |
-
-
-
