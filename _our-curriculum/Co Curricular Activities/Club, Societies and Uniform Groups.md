@@ -18,4 +18,5 @@ Our librarians help to inculcate the love of reading amongst all students. They 
 <b style="color:#016C62; font-size:22px; line-height: 3;">Infocomm Club</b><br>
 The Infocomm Club CCA leverages on Information Communication and Technology (ICT) to engage the student members in a fun and meaningful way. ICT is leveraged upon as a tool to aid in students' cognitive development. CCA sessions empower our students as they learn ICT skills and basic coding.
 
-<b style="color:#038C7F; font-size:17px; ">SYF 2018 Achievements</b><br>Certificate of Accomplishment<br>* <i>SYF 2020 cancelled due to Covid-19 in 2020.</i>
+<b style="color:#038C7F; font-size:17px; ">2019 Achievements</b><br> **N6 Cluster Media and Design Festival**<br> -   Digital Animation - 2nd   
+ -   Festival 2019 (Short Film Production) - Recognition Award
