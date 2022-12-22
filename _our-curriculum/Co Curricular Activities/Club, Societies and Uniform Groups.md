@@ -31,3 +31,9 @@ Students get to learn how to play the game of Scrabble (forming words with tiles
 
 <b style="color:#038C7F; font-size:17px; ">2019 Achievements</b><br> **Zonal Competition**<br> -   P2 Players - **Merit, Best Player**   
  -   P3 & P4 Players - **4th, 2nd, Best Player**
+
+
+<b style="color:#016C62; font-size:22px; line-height: 3;">Scouts</b><br>
+Students get to learn outdoor skills and develop their sense of adventure through Uniformed Group activities. Our Scouts get to make positive contributions to the school and society through a range of exciting activities, such as Job Week and Outdoor Cooking competition.
+
+<b style="color:#038C7F; font-size:17px; ">2019 Achievements</b><br> -   N6 Cluster Orienteering Competition - 2nd, 10th   
