@@ -23,3 +23,24 @@ Education in Malay Language plays a role in equipping the students with knowledg
 To provide students with a strong foundation in the 6 skills of the language, namely; Listening, Speaking, Reading, Writing, Oral and Written communication skills.
 
 ![](/images/ML.jpg)
+
+<b style="color:#016C62; font-size:22px;">Achievements</b><br>
+
+**Kuiz Cepat Tepat 2022**
+| Name of Student | Class | Award |
+| -------- | -------- | -------- |
+| Ayra Falisha Binte Sufiyan     | 5 Harmony     | Participation     |
+| Alia Qaisarah Binte Mohammad Khir | 5 Courage | Participation |
+| Uqasyah Bin Shafit | 5 Integrity | Participation |
+| Ahmad Aryan Bin Noor Hafiz | 5 Respect | Participation |
+
+
+**Saya Boleh Mengarang 2021**
+| Name of Student | Class | Award |
+| -------- | -------- | -------- |
+| Adam Danyl Bin Sany     | 2 Respect     | Gold     |
+| Anisah Binte Hassan Bamadhaj | 6 Respect | Gold |
+| Alia Qaisarah Binte Mohamamd Khir | 4 Excellence | Sliver |
+| Nor Fatrisyah Binte Mohammad Farhan | 4 Excellence | Bronze |
+
+
