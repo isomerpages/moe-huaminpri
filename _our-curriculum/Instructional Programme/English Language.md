@@ -37,4 +37,4 @@ Top 20 in Mythos (Junior Orators) 2022- Maezyl Tan Enxuan</b>
 <b>Eurasian Spelling Bee – 4 students have qualified for the semi-finals</b>
 <br>
 
-![](/images/achievementseng.png) <br>
+<img src="/images/achievementseng.png" alt="achievements" style="float: left; width:320px; height:150px;">
