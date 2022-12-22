@@ -13,11 +13,11 @@ third_nav_title: The MK@Huaminites Experience
 
 <b style="color:#038C7F; font-size:20px;">Hear what our children and parents enjoy most about MK@Huamin!</b>
 
-- <a target="_blank" href="https://youtu.be/y-zs9jZ-hWM">2022What I like about MK@Huamin?(from children)</a></br>
+- <a target="_blank" href="https://youtu.be/y-zs9jZ-hWM">2022What I like about MK@Huamin?(from children)</a><br>
 - <a target="_blank" href="https://youtu.be/BUzAIlovrbc">2022 Sharing by parents</a><br>
 - <a target="_blank" href="https://youtu.be/Vn4ERsVyFd0">2021What I like about MK@Huamin?(from children)</a>
 
-<bstyle="color:#038C7F; font-size:20px;">Take a look at what a typical day is like in MK@Huamin!</b>
+<b style="color:#038C7F; font-size:20px;">Take a look at what a typical day is like in MK@Huamin!</b>
 
 - <a target="_blank" href="https://youtu.be/k-LhbxhhPg8">A day at MK@Huamin 2021</a>
 
