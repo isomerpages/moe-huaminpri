@@ -16,4 +16,6 @@ Create an environment where students will develop a love for Tamil Language and 
 **‘யாமறிந்த மொழிகளிலே தமிழ்மொழி போல் இனிதாவது எங்கும் காணோம்’**  
 **_மகாகவி சுப்பிரமணிய பாரதிI_**
 
+_**To make Tamil Language a Living Language in Singapore through….** <br>
+The adoption of a flexible syllabus, inclusion of various interesting and engaging pedagogy, and meaningful assessment modes which cater to the holistic development of our students keeping in mind the different ability of the students.
 ![](/images/Tamil.png)
