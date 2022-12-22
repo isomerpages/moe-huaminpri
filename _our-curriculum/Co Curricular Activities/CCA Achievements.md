@@ -21,4 +21,16 @@ third_nav_title: Co Curricular Activities
 | 2020 | SYF 2020 were cancelled due to Covid19 |
 | 2018 | <u><b>Angklung and Kulintang Ensemble</b></u><br>Certificate of Accomplishment<br><br><u><b>International Dance</b></u><br>Certificate of Accomplishment<br><br><u><b>Chinese Dance</b></u><br>Certificate of Accomplishment<br><br><u><b>Indian Dance</b></u><br>Certificate of Accomplishment<br><br><u><b>Guitar Ensemble</b></u><br>Certificate of Accomplishment |
 
-#### ****
+#### **Visual Arts**
+| SYF Achievements |  |
+| -------- | -------- | 
+| 2021 |Certificate of Recognition<br>Virtual On-Site Exhibition Category A, B & C |
+| 2019 |Certificate of Recognition<br>Certificate of Recognition (Special Mention)<br>Virtual On-Site Exhibition Category A, B & C |
+| 2017 | Certificate of Recognition (Special Mention)<br>Virtual On-Site Exhibition Category A, B & C |
+
+#### **Clubs and Uniform Group**
+
+| Clubs and Uniform Group<br>Achievements |  |
+| -------- | -------- |
+| 2022     | <u><b>Scrabble</b></u><br>National Scrabble Competition 2022<br><br>Cup Award<br>P4 Players - 2nd and 5th placing<br>P3 Player - 5th placing<br><br>Plate Award<br>P6 Players - 3rd and 5th placing<br>P3 Player - 5th placing|
+
