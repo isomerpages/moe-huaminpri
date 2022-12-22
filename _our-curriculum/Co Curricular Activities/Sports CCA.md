@@ -22,3 +22,9 @@ A team possession/invasion game played between two teams of players, each using 
 <b style="color:#038C7F; font-size:17px; ">2019 Achievements</b><br>National J2 Boys - Tier 2 – 2nd<br>* <i>National School Games cancelled due to Covid-19 in 2020 and 2021.</i>
 
 <b style="color:#038C7F; font-size:17px; ">2018 Achievements</b><br>National Jr Boys – 2nd Round
+
+<b style="color:#016C62; font-size:22px; line-height: 3;">Bowling</b><br>
+A game in which one rolls a heavy ball down a narrow track towards a group of pins to knock down as many of them as possible. The objective is to knock down all ten pins on the first roll of the ball (a strike), or failing that, on the second roll (a spare). Bowling is a fun and interesting CCA which requires good leg, hand and eye coordination. Bowling CCA training sessions help develop our students’ SEL competencies such as self-awareness and self-management skills. Our Bowlers pursue sports excellence by participating in National School Games at Senior and Junior Divisions.
+
+<b style="color:#016C62; font-size:22px; line-height: 3;">Badminton</b><br>
+A game that involves hitting a small, feathered object called a shuttlecock over the net with a long-handled racquet. One scores a point when the opponent is unable to return the shuttlecock with his/her racquet. The Badminton CCA provides students with the opportunity to learn the proper skills and techniques of the sport such as overhead strikes (smashes) and footwork. Students are given opportunities to develop values such as Resilience and Teamwork through the activities during CCA. This CCA is offered to our students to play at a recreational level.
