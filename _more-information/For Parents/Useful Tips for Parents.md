@@ -4,8 +4,7 @@ permalink: /our-curriculum/Instructional-Programme/useful-tips-for-parents/
 description: ""
 third_nav_title: For Parents
 ---
-
-![](/images/tipsforparents2.jpg)
+![](/images/Engaging_your_child.png)
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">Useful Links</b><br>
 
