@@ -24,4 +24,10 @@ The Infocomm Club CCA leverages on Information Communication and Technology (ICT
 <b style="color:#016C62; font-size:22px; line-height: 3;">Robotics Club</b><br>
 Students learn how to programme robots to do simple actions and tasks. Robotics Club CCA provides a platform for our students to develop their analytical and thinking skills to solve problems together as a team.
 
-<b style="color:#038C7F; font-size:17px; ">2019 Achievements</b><br> **N6 Cluster Media and Design Festival**<br> -   Aeronautics & Robotics - 2nd   
+<b style="color:#038C7F; font-size:17px; ">2019 Achievements</b><br> **N6 Cluster Media and Design Festival**<br> -   Aeronautics & Robotics - 2nd
+
+<b style="color:#016C62; font-size:22px; line-height: 3;">Scrabble Club</b><br>
+Students get to learn how to play the game of Scrabble (forming words with tiles). Students in Scrabble Club have fun exploring words and developing a love for continual learning which entails strategy, spelling and vocabulary. In the process of learning to play Scrabble, our students also develop good values such as self-discipline, responsibility and self-confidence. Our students get to participate in zonal and national scrabble competitions.
+
+<b style="color:#038C7F; font-size:17px; ">2019 Achievements</b><br> **Zonal Competition**<br> -   P2 Players - **Merit, Best Player**   
+ -   P3 & P4 Players - **4th, 2nd, Best Player**
