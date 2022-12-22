@@ -18,3 +18,8 @@ In line with the department’s vision and mission, the Malay Language Departmen
 Malay Language Education in Singapore is to develop each student to be individuals who have Ariff Budiman characteristics – The learned person who contributes to society.  
   
 Education in Malay Language plays a role in equipping the students with knowledge, skills and attitudes to become a person with Arif Budiman qualities.
+
+<b style="color:#016C62; font-size:20px;">OUR APPROACH</b><br>
+To provide students with a strong foundation in the 6 skills of the language, namely; Listening, Speaking, Reading, Writing, Oral and Written communication skills.
+
+![](/images/ML.jpg)
