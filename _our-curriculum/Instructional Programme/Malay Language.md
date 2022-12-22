@@ -43,4 +43,12 @@ To provide students with a strong foundation in the 6 skills of the language, na
 | Alia Qaisarah Binte Mohamamd Khir | 4 Excellence | Sliver |
 | Nor Fatrisyah Binte Mohammad Farhan | 4 Excellence | Bronze |
 
+**Karya Minda Kreatif 2021**
+| Name of Student | Class | Award |
+| -------- | -------- | -------- |
+| Mohammad Aydin Bin Haji Hasnadi     | 4 Excellence     | Gold     |
+| Nur Siti Myiesha Binte Mohammad Sani | 4 Courage | Sliver |
+| Hana Athirah Binte Abdul Malik | 5 Integrity | Sliver |
+
+
 
