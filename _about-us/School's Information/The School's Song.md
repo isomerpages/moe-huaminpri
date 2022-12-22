@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School's Information
 ---
 <p>
-<img src="/images/DSC03284.jpg" style="float:right; margin-left:25px; width:410px;height:650px;">
+<img src="/images/DSC03284.jpg" style="float:right; margin-left:25px; width:450px;height:700px;">
 <center>Here at Huamin, We Keenly Work and Play<br>
 Growing Stronger with Every Passing Day<br>
 Strong in Body and Strong in Mind<br>
@@ -22,5 +22,5 @@ Here at Huamin, We Keenly Work and Play<br>
 Making Good Friends and Having Lots of Fun<br>
 Aspiring to Excel<br>
 Preparing for Tomorrow When It Comes<br>
-Preparing for Tomorrow When It Comes.<br></p>
+Preparing for Tomorrow When It Comes.<br>
 Click here to <u>hear</u> and learn to sing our school song.
