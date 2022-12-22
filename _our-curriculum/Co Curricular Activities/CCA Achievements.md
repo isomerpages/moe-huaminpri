@@ -32,5 +32,4 @@ third_nav_title: Co Curricular Activities
 
 | Clubs and Uniform Group<br>Achievements |  |
 | -------- | -------- |
-| 2022     | <u><b>Scrabble</b></u><br>National Scrabble Competition 2022<br><br>Cup Award<br>P4 Players - 2nd and 5th placing<br>P3 Player - 5th placing<br><br>Plate Award<br>P6 Players - 3rd and 5th placing<br>P3 Player - 5th placing|
-
+| 2022     | <u><b>Scrabble</b></u><br>National Scrabble Competition 2022<br><br>Cup Award<br>P4 Players - 2nd and 5th placing<br>P3 Player - 5th placing<br><br>Plate Award<br>P6 Players - 3rd and 5th placing<br>P3 Player - 5th placing<br><br>Bowl Award<br>P6 Player - 3rd placing<br>P5 Player - 3rd placing<br>P4 Player - 4th placing |
