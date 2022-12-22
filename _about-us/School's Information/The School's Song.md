@@ -23,5 +23,4 @@ Making Good Friends and Having Lots of Fun<br>
 Aspiring to Excel<br>
 Preparing for Tomorrow When It Comes<br>
 Preparing for Tomorrow When It Comes.<br></p>
-
 Click here to <u>hear</u> and learn to sing our school song.
