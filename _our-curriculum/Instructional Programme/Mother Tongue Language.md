@@ -36,3 +36,12 @@ Create an environment where students develop a love for Chinese Language.
 *   Watch quality Chinese television programmes or videos together -Make use of objects in your environment such as road signs and advertisements to engage your child in Chinese Language conversations. 
 *   Build up your child’s confidence by encouraging them to speak the language and not correct their mistakes excessively. 
 *   Encourage your child to learn through meaningful language games, like Chinese word cards(字宝宝)
+
+
+
+
+| Useful Links |  |
+| -------- | -------- |
+| SLS Website:     | [https://learning.moe.edu.sg](https://learning.moe.edu.sg/)     |
+| Bi-weekly Magazine: | [https://www.ezhishi.net/Contents/](https://www.ezhishi.net/Contents/) |
+
