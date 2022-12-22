@@ -4,9 +4,7 @@ permalink: /our-curriculum/Instructional-Programme/mother-tongue-language/
 description: ""
 third_nav_title: Instructional Programme
 ---
-### **Mother Tongue Languages**
-
-#### **Chinese Language**
+### **Chinese Language**
 
 <b style="color:#016C62; font-size:20px;">OUR VISION</b><br>
 Critical Thinkers with a passion for the Chinese Language.
@@ -38,10 +36,7 @@ Create an environment where students develop a love for Chinese Language.
 *   Encourage your child to learn through meaningful language games, like Chinese word cards(字宝宝)
 
 
-
-
 | Useful Links |  |
 | -------- | -------- |
 | SLS Website:     | [https://learning.moe.edu.sg](https://learning.moe.edu.sg/)     |
 | Bi-weekly Magazine: | [https://www.ezhishi.net/Contents/](https://www.ezhishi.net/Contents/) |
-
