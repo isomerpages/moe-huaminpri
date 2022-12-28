@@ -8,7 +8,9 @@ description: |-
   Website: http://www.huaminpri.moe.edu.sg
 image: /images/School Logo Version 2022 Aug.jpg
 permalink: /
-notification: ""
+notification: Dear Visitor, we are currently in the midst of updating the
+  website. Some pages might have some bugs and we seek your understanding and
+  sorry for the inconvenience caused
 sections:
   - hero:
       background: /images/groupimage.png
