@@ -24,4 +24,6 @@ Mrs Grace Ang | HOD Aesthetics | grace_tok_sen_aye@schools.gov.sg
 |Mr Jeff Chang | HOD ICT | chang_jin_peng@schools.gov.sg|
 Mdm Goh Meow Sim | School Staff Developer | goh_meow_sim@schools.gov.sg |
 Ms Karen Soon | Year Head (Lower Pri Level) | soon_li_ming_karen@schools.gov.sg|
-Mrs Gajan | Year Head (Upper Pri Level)|thelagavathi_balakrishnan@schools.gov.sg|
+Mrs Gajan | Year Head (Middle Pri Level)|thelagavathi_balakrishnan@schools.gov.sg|
+Ms Banu | Year Head (Upper Pri Level)|ilfana_banu_kuthubudeen@schools.gov.sg|
+Ms Vani | LH Math | vanitha_parada_raju@schools.gov.sg
