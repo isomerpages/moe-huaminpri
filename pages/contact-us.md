@@ -21,7 +21,6 @@ contacts:
   - content:
       - phone: +65 6752 9004
       - email: ""
-      - other: <a href="https://www.form.gov.sg/5d2e8516ca362b00110a9427">Feedback
-          Form</a>
+      - other: ""
     title: General Enquiries & Feedback
 ---
