@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/DSC03196.jpg
+      background: /images/groupimage.png
       key_highlights:
         - title: About Huamin Primary
           description: Check out More about Huamin
@@ -43,4 +43,3 @@ sections:
       button: Find out more about our cca
       url: /our-curriculum/Co-Curricular-Activities/overview/
 ---
-

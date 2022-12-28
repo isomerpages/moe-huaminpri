@@ -28,21 +28,27 @@ The broad aims of mathematics education in Singapore are to enable students to:
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">OVERARCHING AIM</b><br>
 To ensure that all students will achieve a level of mastery of mathematics that will serve them well in life, and for those who have the interest and ability, to pursue mathematics at the highest possible level.
-<hr>
-<b style="color:#016C62; font-size:18px; line-height: 3;">Members of Department</b><br>
-<b style="font-size:17px;">Mr David Lim<br>Head of Department</b><br>
-Email: david_lim_kok_san@schools.gov.sg<br><br>
-<b style="font-size:17px;">Miss Vanitha Parada Raju<br>Lead Teacher</b><br>
-Email: vanitha_parada_raju@schools.gov.sg
-
-<p style="font-size:17px;line-height: 1.24; font-weight:bold;">Mdm Jessie Tan<br>Lead Teacher<br><br>
-Mrs Velmurugan Pramageetha<br>Senior Teacher<br><br>
-Mrs Suan Poh Leng Pearlyn
-<br>Senior Teacher<br></p>
-	
-<img src="/images/maths.png" alt="maths" style="width:360px;height:240px;margin-top:15px;">
 
 <hr>
 <br><b style="color:#016C62; font-size:20px; line-height: 3;">ACHIEVEMENTS</b><br>
 <b style="font-size:17px;">Certificates of Achievements</b><br>
 Certificates are awarded to commend students of various values and habits achieved to boost the students’ self esteem and emphasize the importance of the various values.
+
+<b>Singapore Mathematics Olympiad for Primary Schools 2022</b><br>
+
+| Name of Student | Class | Type of Award |
+| -------- | -------- | -------- |
+| Idam Haziq Bin Mohammad Hanafi | 6 Respect     | Certificate of Participation |
+| Sheryl Wee Shi Ting | 6 Respect | Certificate of Participation |
+| Jarreth Eng Rui Tjie | 6 Respect | Certificate of Participation |
+| Lim Shi Hui Samantha | 6 Integrity | Bronze |
+| Cayden Toh Yu Hao | 6 Courage | Certificate of Participation |
+| Ng Hui Yun | 6 Courage | Certificate of Participation |
+| Peh Peng Cheng | 6 Excellence | Certificate of Participation | 
+| Pua Ren Jie | 6 Excellence | Certificate of Participation |
+| Thang Yee Le, Eden | 6 Excellence | Certificate of Participation |
+| Goh Wen Xuan | 6 Excellence | Certificate of Participation |
+
+<br><b style="color:#016C62; font-size:20px; line-height: 3;">List of Approved Calculators</b><br>
+
+![](/images/calculators.png)
