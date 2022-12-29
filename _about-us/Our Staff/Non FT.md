@@ -13,18 +13,21 @@ third_nav_title: Our Staff
 |Miss Irfana Banu d/o Kuthubudeen | Year Head of Upper Primary |
 |Miss Kat Quek| HOD of CCE |
 | Mrs Chan, Stephanie Tu | Level Head of Chinese Language | 
-|Mrs Pramageetha Velmurugan| FAJT | 
-|Miss Nurain Binte Mohamad Hussain| 
 |Mdm Nurlizawati Bte Ramlan| AED/Counselling |
-| Mdm Lli Mahirah Binte Ma'arof | 
 |Miss Chen Shili, Tracia| AED/SEN | 
 |Ms Norashikin Binte Ali| AED/SEN | 
-| Mr Thian Jiahui |
-| Mdm Teng Siew Kien | FAJ School Counsellor |
 |Mdm Mashita Binte Takim| FAJ SEN Officer | 
+| Mdm Teng Siew Kien | FAJ School Counsellor |
+|Mrs Pramageetha Velmurugan| FAJT |
+| Ms Irene Kwok Kwee Yoon | FAJT |
+| Mrs Roberta Irene Piadasa | FAJT |
+| Mrs Wong Choo Lat | FAJT |
+| Mdm Cheng Huey Feng | FAJT | 
+| Mdm Sharmila Bte Mohd Ismail | FAJT |
 |Miss Ivy Chew Bian Bian | RT |
 | Ms Toh Pei Yan Pauline | RT | 
 | Ms Ding Hui | RT |
 |Miss Blossom Yo Swee Hoon|
 | Mrs Yeo, Cheng Sing Yee, Ethel |
-| 
+| Mdm Lli Mahirah Binte Ma'arof | 
+| Mr Thian Jiahui |
