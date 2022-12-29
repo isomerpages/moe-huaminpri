@@ -26,4 +26,15 @@ Mdm Goh Meow Sim | School Staff Developer | goh_meow_sim@schools.gov.sg |
 Ms Karen Soon | Year Head (Lower Pri Level) | soon_li_ming_karen@schools.gov.sg|
 Mrs Gajan | Year Head (Middle Pri Level)|thelagavathi_balakrishnan@schools.gov.sg|
 Ms Banu | Year Head (Upper Pri Level)|ilfana_banu_kuthubudeen@schools.gov.sg|
-Ms Vani | LH Math | vanitha_parada_raju@schools.gov.sg|
+Ms Vani | LH of Math | vanitha_parada_raju@schools.gov.sg|
+Ms Stephanie Tu | LH of Chinese Language | |
+Ms Sarah Seah | LH of Science | |
+Mdm Kasimah | SH of Malay Language | |
+Ms Kanmani | SH of CCE | |
+Mrs Katherine Faroek | SH of Aesthetics | |
+Mr Chia Chong Seng | SH of PE/CCA | |
+Mr Tham Kuan Yew, Albert | SH Discipline & Student Well-being | |
+Mr Joshua Kum | SH Discipline & Student Leadership | |
+Ms Tan Hui Jun | Asst Year Head (Lower Primary Level) | |
+Mrs Maya | Asst Year Head (Middle Primary Level | |
+Mrs Ng-Lai Xiao Xin | Asst Year Head (Upper Primary Level) | |
