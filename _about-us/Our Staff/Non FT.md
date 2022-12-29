@@ -12,7 +12,9 @@ third_nav_title: Our Staff
 |Mrs Gajan,Thelagavathi d/o Balakrishnan| Year Head of Middle Primary | 
 |Miss Irfana Banu d/o Kuthubudeen | Year Head of Upper Primary |
 |Miss Kat Quek| HOD of CCE |
-| Mrs Chan, Stephanie Tu | Level Head of Chinese Language | 
+| Mrs Chan, Stephanie Tu | Level Head of Chinese Language |
+| Mr John Chia Wei Min | CAJT |
+| Mr Alex Ng Zhi Qiang | CAJT |
 |Mdm Nurlizawati Bte Ramlan| AED/Counselling |
 |Miss Chen Shili, Tracia| AED/SEN | 
 |Ms Norashikin Binte Ali| AED/SEN | 
@@ -24,6 +26,12 @@ third_nav_title: Our Staff
 | Mrs Wong Choo Lat | FAJT |
 | Mdm Cheng Huey Feng | FAJT | 
 | Mdm Sharmila Bte Mohd Ismail | FAJT |
+| Mrs Claire Fong, Claire Goh Si Ying | FAJT |
+| Mdm Ng Wai Heng | FAJT |
+| Mr Lim Boon Jit | FAJT | 
+| Mr Kong Chee Meng | FAJT |
+| Mdm Deborah Tsung Chung Ying | FAJT | 
+| Mdm Tan Chor Hoon | FAJT |
 |Miss Ivy Chew Bian Bian | RT |
 | Ms Toh Pei Yan Pauline | RT | 
 | Ms Ding Hui | RT |
