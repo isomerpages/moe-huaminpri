@@ -21,4 +21,10 @@ The adoption of a flexible syllabus, inclusion of various interesting and engagi
 ![](/images/Tamil.png)
 
 <b style="color:#016C62; font-size:22px;">Achievements</b><br>
-<img src="/images/Artboard%201.png" alt="TL Achievements" style="float:left; width:350px; height:525px;">
+
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
