@@ -20,9 +20,9 @@ At MK@Huamin, we believe in providing opportunities for children to be physical
 
 Check out MK@Huamin’s centre-based programmes:
 * [OutdoorLearning, "Shine with PRAISE“](https://huaminpri.moe.edu.sg/moe-kindergarten/The-MK-Huaminites-Experience/shine-with-praise/)
-* [StoriesAlive!](https://huaminpri.moe.edu.sg/mk-at-huamin/the-mk-at-huaminites-experience/stories-alive)
-* [HealthyBody](https://huaminpri.moe.edu.sg/mk-at-huamin/the-mk-at-huaminites-experience/healthy-body)
-* [Yes!Day](https://huaminpri.moe.edu.sg/mk-at-huamin/the-mk-at-huaminites-experience/yes-day)
+* [StoriesAlive!](https://huaminpri.moe.edu.sg/moe-kindergarten/The-MK-Huaminites-Experience/stories-alive/)
+* [HealthyBody](https://huaminpri.moe.edu.sg/moe-kindergarten/The-MK-Huaminites-Experience/healthy-body/)
+* [Yes!Day](https://huaminpri.moe.edu.sg/moe-kindergarten/The-MK-Huaminites-Experience/yes-day/)
 
 <b style="color:#038C7F; font-size:22px;">HI-LIGHT Programme</b><br>
 The HI-Light Programme supports the holistic development of MOE Kindergarten children through an integrated approach to learning.<br>
