@@ -27,4 +27,38 @@ The adoption of a flexible syllabus, inclusion of various interesting and engagi
 
 | | Name of Student | Class  | Award | 
 | -------- | -------- | -------- | -------- |
-| Fancy Dress | Mageshkanna Akil Kanna | 1 Excellence | Certificate of Participation
+| Fancy Dress | Mageshkanna Akil Kanna | 1 Excellence | Certificate of Participation |
+| Fancy Dress | Sharunaa D/O R Naresh | 2 Respect | Certificate of Participation |
+| Story Telling | Renesh D/O Nakkeeran | 3 Integrity | Certification of Participation |
+| Story Telling | Sriinishaa D/O Nakkeeran | 4 Courage | Certification of Participation |
+| Oratorical | Venugopal Krishanth | 6 Respect | Certification of Participation |
+
+<b style="color:#038C7F; font-size:17px; ">2021<br>Semester 2</b><br>
+
+| Kolam Ayer CC | Name of Student | Class  | Award | 
+| -------- | -------- | -------- | -------- |
+| Oratorical | Jessica D/O Robin | 5 Excellence | Certification of Participation |
+
+<b style="color:#038C7F; font-size:17px; ">2019<br>Semester 1</b><br>
+
+| Chong Pang CC | Name of Student | Class  | Award | 
+| -------- | -------- | -------- | -------- |
+| Oratorical | Sanjay Raj Kumar | 6 Respect | Consolation |
+
+| Telok Blangah CC | Name of Student | Class  | Award | 
+| -------- | -------- | -------- | -------- |
+| Singing | Nimshi Steven | 5 Harmony | Consolation |
+| Story Telling | Jessica D/O Robin | 5 Excellence | Consolation |
+| Story Telling | Nevish Steven | 3 Respect | Certification of Participation |
+| Story Telling | Kiruthish Jagannathanath | 3 Excellence | Certification of Participation |
+| Singing | Varsha | 5 Integrity | Certification of Participation |
+| Singing | Sankar Anupama Riddhi | 6 Harmony | Certification of Participation |
+
+<b style="color:#038C7F; font-size:17px; ">Semester 2</b><br>
+<b><u>Periyar Vizha 2019 - Tamil Language Competitions</u></b>
+
+|  | Name of Student | Class  | Award | 
+| -------- | -------- | -------- | -------- |
+| Art | Divakaran Pavatharini | 4 Integrity | Third |
+| Singing | Kiruthish Jagannathanath | 3 Excellence | Certification of Participation |
+| Singing | Sarish Rian Kalal Mahran | 3 Excellence | Certification of Participation |
