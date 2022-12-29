@@ -72,6 +72,9 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| - |
 
 | Class Name | Name of Teachers | Email Address |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
+| Respect | Ms Ong Pei Ling<br>Mdm Liu Weijie | - |
+| Intergrity | Ms Katherine Lim<br>Ms Eunice Grace Chan<br>Mdm Mislimah Binte Misti | - |
+| Courage | Mr Ong Qian Wei<br>Mrs Ng-Lai Xiao Xin<br>Mr Yap Heng Yeow | - |
+| Harmony | Mr John Chia<br>Miss Woon Hui Ting<br>Mr David Lim | - |
+| Excellence | Mdm Siti Rafeah Kasbi<br>Mr Alex Ng | - |
+| Sincerity | Mr Shaik Muzzafar Shaik Kumar Omar Fraij<br>Ms Pramageetha Velmurugan | - | 
