@@ -22,9 +22,9 @@ The adoption of a flexible syllabus, inclusion of various interesting and engagi
 
 <b style="color:#016C62; font-size:22px;">Achievements</b><br>
 
+<b style="color:#038C7F; font-size:17px; ">2022<br>Semester 1</b><br>
+<b><u>Association of Singapore Tamil Writers</u></b>
 
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
+| | Name of Student | Class  | Award | 
+| -------- | -------- | -------- | -------- |
+| Fancy Dress | Mageshkanna Akil Kanna | 1 Excellence | Certificate of Participation
