@@ -19,7 +19,7 @@ Our MK curriculum comprises 2 flagship programmes, the HI-Light Programme an
 At MK@Huamin, we believe in providing opportunities for children to be physically active, learn in a real world context and develop a variety of skills that prepare them not only for the classroom, but also for life. We also believe in inculcating positive values and learning dispositions in children.
 
 Check out MK@Huamin’s centre-based programmes:
-* [OutdoorLearning, "Shine with PRAISE“](https://huaminpri.moe.edu.sg/mk-at-huamin/the-mk-at-huaminites-experience/shine-with-praise)
+* [OutdoorLearning, "Shine with PRAISE“](https://huaminpri.moe.edu.sg/moe-kindergarten/The-MK-Huaminites-Experience/shine-with-praise/)
 * [StoriesAlive!](https://huaminpri.moe.edu.sg/mk-at-huamin/the-mk-at-huaminites-experience/stories-alive)
 * [HealthyBody](https://huaminpri.moe.edu.sg/mk-at-huamin/the-mk-at-huaminites-experience/healthy-body)
 * [Yes!Day](https://huaminpri.moe.edu.sg/mk-at-huamin/the-mk-at-huaminites-experience/yes-day)
