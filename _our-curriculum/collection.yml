@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - EBooks.md
       - Instructional Programme/.keep
       - Instructional Programme/English Language.md
       - Instructional Programme/Mathematics.md
@@ -21,3 +20,4 @@ collections:
       - Co Curricular Activities/Club, Societies and Uniform Groups.md
       - Co Curricular Activities/CCA Achievements.md
       - Co Curricular Activities/CCA Timetable for 2023.md
+      - EBooks.md
