@@ -52,4 +52,26 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| - |
 | Respect | Mdm Tan Kwee Tin, Jessie | - |
 | Integrity | Mrs Chris Shie<br>Miss Lim Shi Hui, Iris | - |
 | Courage | Mrs Yong, Sim Jie Lin<br>Mrs Nio, Loh Kai Yin Jutina | - |
-| Harmony | Mrs Chang, Low Si Min Cheryl<br>
+| Harmony | Mrs Chang, Low Si Min Cheryl<br>Ms Siti Nur Aishah Bte Suparjo | - |
+| Excellence | Mr Huang Yuhan Lionel<br>Siti Kamariah Bte Ismail, Mrs Shaiful | - |
+| Sincerity | Mrs Lam, Carolyn Cheong Yee Li<br>Miss Vanitha d/o Parada Raju | - |
+
+### **Form Teachers of Primary 5**
+
+| Class Name | Name of Teachers | Email Address |
+| -------- | -------- | -------- |
+| Respect | Mr Kevin Tan<br>Mrs Vishnu, Hemalatha d/o Karunanithi | - |
+| Integrity | Ms Angela Merici<br>Mr Chia Chong Seng | - |
+| Courage | Dr K S Jaswinder Khosa @ Jessi Siva<br>Miss Neo Yipei | - |
+| Harmony | Mrs Kanchana D/O Suppiah<br>Mr Pang Biao Bin | - |
+| Excellence | Mdm Siti Rafeah Kasbi<br> Mr Alex Ng | - |
+| Sincerity 1 | Mr Khairil Azar Abdul Rahim<br> Ms Claire Fong | - |
+| Sincerity 2 | Ms Irene Kwok<br>Mr Wong Choo Lat | - |
+
+### **Form Teachers of Primary 6**
+
+| Class Name | Name of Teachers | Email Address |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
