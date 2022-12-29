@@ -20,8 +20,6 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| - |
 
 ### **Form Teachers of Primary 2**
 
-
-
 | Class Name | Name of Teachers | Email Address |
 | -------- | -------- | -------- |
 |Respect| Ms Zahara Bte Shahak<br>Miss Wong Zi'En | - |
@@ -29,5 +27,29 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| - |
 | Courage | Mrs Foo, Carlene Yeo<br>Mdm Sanisah Bte Rahim | - |
 | Harmony | Mdm Siti Zainab Bte Bujang<br>Ms Ong Bok Hoon | - |
 | Excellence | Miss Vivian Teo Li Yu<br>Miss Kanmani D/O Mariyappan | - |
-| 
+| Sincerity | Ms Latifah Bte Mohamed Yazid<br>Mr Shafie Bin Hussein | - |
+| Trust | Ms Tay May May, Junity<br>Mr Bernard, Ng Kok Hui | - |
+| Majestic | Miss Hemalarsvini<br>Mrs Yeo Beng Neo, Catherine<br>Miss Low Lay Choo | - |
+| Innovation | Mrs Liang, Tan Lin Jun Sharon<br>Mdm Goh Meow Sim | - |
 
+### **Form Teachers of Primary 3**
+
+| Class Name | Name of Teachers | Email Address |
+| -------- | -------- | -------- |
+| Respect | Miss Khoo Xin Hui Myra<br>Mr Tham Kuan Yew, Albert | - |
+| Integrity | Mdm Suan Poh Leng, Pearlyn<br>Mdm Yulleana binte Jamal | - |
+| Courage | Mr Leow Wei Yuan<br>Mdm Fang Mei Teng | - |
+| Harmony | Miss Ong Xin Hong<br>Mdm Lilian Ng Yue Yuen | - |
+| Excellence | Miss Du Yiling<br>Mr Bernard Sew Chun Wah | - |
+| Sincerity | Mr Chong Swee Phan<br>Mrs Junesh, Menachi Shanmugan | - |
+| Trust | Mr Lin Jin Xiang<br>Mdm Sarah Seah Lee Chean | - |
+| Majestic | Mdm Siti Noor Khadijah Binte Othman<br>Mdm Kasimah Bte Kassim<br>Mr Kum Han Wen, Joshua | - |
+
+### **Form Teachers of Primary 4**
+
+| Class Name | Name of Teachers | Email Address |
+| -------- | -------- | -------- |
+| Respect | Mdm Tan Kwee Tin, Jessie | - |
+| Integrity | Mrs Chris Shie<br>Miss Lim Shi Hui, Iris | - |
+| Courage | Mrs Yong, Sim Jie Lin<br>Mrs Nio, Loh Kai Yin Jutina | - |
+| Harmony | Mrs Chang, Low Si Min Cheryl<br>
