@@ -15,11 +15,6 @@ third_nav_title: Our Staff
 | Mrs Chan, Stephanie Tu | Level Head of Chinese Language |
 | Mr John Chia Wei Min | CAJT |
 | Mr Alex Ng Zhi Qiang | CAJT |
-|Mdm Nurlizawati Bte Ramlan| AED/Counselling |
-|Miss Chen Shili, Tracia| AED/SEN | 
-|Ms Norashikin Binte Ali| AED/SEN | 
-|Mdm Mashita Binte Takim| FAJ SEN Officer | 
-| Mdm Teng Siew Kien | FAJ School Counsellor |
 |Mrs Pramageetha Velmurugan| FAJT |
 | Ms Irene Kwok Kwee Yoon | FAJT |
 | Mrs Roberta Irene Piadasa | FAJT |
