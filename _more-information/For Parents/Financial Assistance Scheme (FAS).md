@@ -20,7 +20,7 @@ Please approach the School Admin Centre should you require the hardcopy applicat
 
 | Eligibility Criteria | Benefits | 
 | -------- | -------- |
-| Gross Household Income not exceeding $2,750<br><br>OR <br><br>Per Capita Income\* not exceeding $690     | 100% subsidy of school and standard miscellaneous fees<br><br>Free textbooks and school attire at Primary and Secondary level; $1200 bursary at JC/CI level<br>Transport subsidy:  <br><br><u>(a) For primary school students taking school bus:</u> 65% of school bus fares<br><br><u>(b) For students at all levels taking public transport:</u> $204 in transport credit per annum     |
+| Gross Household Income not exceeding $3,000<br><br>OR <br><br>Per Capita Income\* not exceeding $300     | 100% subsidy of school and standard miscellaneous fees<br><br>Free textbooks and school attire at Primary and Secondary level; $1200 bursary at JC/CI level<br>Transport subsidy:  <br><br><u>(a) For primary school students taking school bus:</u> 65% of school bus fares<br><br><u>(b) For students at all levels taking public transport:</u> $204 in transport credit per annum     |
 | | |
 
 \*PCI is computed based on GHI divided by the number of household members which include the student, his/her unmarried siblings, parents and grandparents living at the same address. Other relatives who are dependent on the family and live at the same residential address may be included on a case-by-case basis.<br>
