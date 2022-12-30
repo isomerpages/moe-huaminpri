@@ -20,6 +20,7 @@ Huamin is made up of three Consortiums, each comprising two levels. The rational
 
 ![](/images/SDT.png)
 
+
 #### **Our Philosophies of Education**
 <p style="text-align:left;">
 <b style="color:#016C62;">The Lower Consortium (P1 - P2)</b><br>
