@@ -30,8 +30,8 @@ third_nav_title: Our Staff
 | Mdm Tan Chor Hoon | FAJT |
 |Miss Ivy Chew Bian Bian | RT |
 | Ms Toh Pei Yan Pauline | RT | 
-| Ms Ding Hui | RT |
-|Miss Blossom Yo Swee Hoon|
-| Mrs Yeo, Cheng Sing Yee, Ethel |
-| Mdm Lli Mahirah Binte Ma'arof | 
-| Mr Thian Jiahui |
+| Ms Ding Hui | RT | 
+|Miss Blossom Yo Swee Hoon| RT
+| Mrs Yeo, Cheng Sing Yee, Ethel | EO
+| Mdm Lli Mahirah Binte Ma'arof |  EO
+| Mr Thian Jiahui | EO
