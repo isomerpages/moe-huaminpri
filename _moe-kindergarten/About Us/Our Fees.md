@@ -17,3 +17,7 @@ MK fees are also payable during the June and December holidays.
 If your child is a Singapore Citizen, they may qualify for financial assistance under the [Kindergarten Fee Assistance Scheme (KiFAS)](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#KIFAS). KiFAS is provided by the Early Childhood Development Agency (ECDA) and applies only to MK school fees.
 
 ![](/images/MKFees.png)
+
+Links to MK Uniform Supplier Page: <br>
+[Beau Voix Uniform (Beau Voix)](https://beauvoix.com/preschool/) <br>
+[Jeep Sing Fashion (Jeep Sing)](https://jeepsinguniform.com/)

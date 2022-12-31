@@ -19,4 +19,4 @@ The three colours of the logo – orange, teal and magenta - represent the educa
 
 The design of the interlocking components in the logo highlights the close partnerships forged between the educators, families and the community to provide an enriching learning experience.
 
-Get to know our [Team of Passionate MK@Huamin Educators](https://huaminpri.moe.edu.sg/mk-at-huamin/about-us/our-team)!
+Get to know our [Team of Passionate MK@Huamin Educators](https://huaminpri.moe.edu.sg/moe-kindergarten/About-Us/Our-Team/our-team/)!

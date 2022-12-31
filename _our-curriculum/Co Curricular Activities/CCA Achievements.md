@@ -15,13 +15,14 @@ third_nav_title: Co Curricular Activities
 | 2018 | <u><b>Hockey</b></u><br>North Zone Jr Boys - 3rd<br>North Zone Sr Boys - 3rd<br>National Jr Boys - 3rd<br>National Sr Girls - 3rd<br><br><u><b>Floorball</b></u><br>National Jr Boys - 2nd Round<br><br><u><b>Badminton</b></u><br>Pines Cup Girls’ Doubles - 4th |
 
 #### **Performing Arts**
+
 | SYF Achievements |  |
 | -------- | -------- | 
-| 2022 |  |
 | 2020 | SYF 2020 were cancelled due to Covid19 |
 | 2018 | <u><b>Angklung and Kulintang Ensemble</b></u><br>Certificate of Accomplishment<br><br><u><b>International Dance</b></u><br>Certificate of Accomplishment<br><br><u><b>Chinese Dance</b></u><br>Certificate of Accomplishment<br><br><u><b>Indian Dance</b></u><br>Certificate of Accomplishment<br><br><u><b>Guitar Ensemble</b></u><br>Certificate of Accomplishment |
 
 #### **Visual Arts**
+
 | SYF Achievements |  |
 | -------- | -------- | 
 | 2021 |Certificate of Recognition<br>Virtual On-Site Exhibition Category A, B & C |
