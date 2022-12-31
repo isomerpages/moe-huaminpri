@@ -18,7 +18,7 @@ Huamin is made up of three Consortiums, each comprising two levels. The rational
 
 #### **Composition of Student Development Team**
 
-![](/images/SDT(2023).png)
+![](/images/SDT_2023.png)
 
 #### **Our Philosophies of Education**
 <p style="text-align:left;">

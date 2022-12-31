@@ -15,3 +15,5 @@ third_nav_title: Our Staff
 |Mdm Ain | |
 |Mdm Rosnah Binte Othman | |
 |Mdm Selvia Binti Tayyib | |
+| Mdm Sia Gek Hong<br><b><i style="color:#016C62;font-size:14px;">MK Operations Support Officer </i></b> | |
+| Mdm Phua Bee Tee<br><b><i style="color:#016C62;font-size:14px;">MK Operations Support Officer </i></b> | | 
