@@ -16,7 +16,11 @@ third_nav_title: Our Staff
 |**Ms Nur Farah Nadia**<br><b><i style="color:#016C62;font-size:14px;">ICT Teacher</i></b>|nur\_farah_nadia@huamin.edu.sg|
 |**Mr Muhammad Hadi Bin Muhammad Rostam**<br><b><i style="color:#016C62;font-size:14px;">ICT Support Engineer</i></b>|muhammad_hadi@huamin.edu.sg|
 
-</b>Incoming Staff - 6 March 2023</b>
+
+
+<b style="color:#016C62; font-size:20px;">Incoming Staff - 6 March 2023</b><br>
+
+
 | Name of Staff | Email Address | 
 | -------- | -------- |
 |**Mr Hien Htut Thura**<br><b><i style="color:#016C62;font-size:14px;">ICT Teacher</i></b>|Hien@huamin.edu.sg |
