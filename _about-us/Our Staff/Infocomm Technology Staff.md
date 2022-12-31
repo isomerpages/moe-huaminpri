@@ -9,7 +9,7 @@ third_nav_title: Our Staff
 
 | Name of Staff | Email Address | 
 | -------- | -------- |
-| **Mr Lim Andrew** <br><b><i style="color:#016C62; font-size:14px;">ICT Associate</i></b>| lim_mic_andrew@schools.gov.sg     | 
+| **Mr Lim Michiharu Andrew** <br><b><i style="color:#016C62; font-size:14px;">ICT Associate</i></b>| lim_mic_andrew@schools.gov.sg     | 
 |**Mr Seow Jia Shen Shawn**<br><b><i style="color:#016C62; font-size:14px;">ICT Trainer</i></b>| seow_jia_shen_shawn@schools.gov.sg|
 |**Mr Chew Edwin**<br><b><i style="color:#016C62;font-size:14px;">Senior Desktop Engineer</i></b> | chew_edwin@schools.gov.sg
 |**Ms Jessica Soong Yuan Ting**<br><b><i style="color:#016C62;font-size:14px;">ICT Teacher </i></b>|jessica_soong@huamin.edu.sg|
