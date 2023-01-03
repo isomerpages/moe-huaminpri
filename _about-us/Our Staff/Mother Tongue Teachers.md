@@ -17,7 +17,6 @@ Email: tu\_meng-chi@schools.gov.sg<br>
 |Miss Tan Hui Jun|
 |Mrs Ng-Lai Xiao Xin|
 |Mr Bernard Ng Kok Hui|
-|Mdm Pearly Yeo
 |Mrs Beverly Yeoh
 |Miss Ng Pei Yin
 |Mdm Neo Yipei
@@ -41,7 +40,7 @@ Email: kasimah\_kassim@schools.gov.sg<br>
 |Mdm Helmeleya Mohd Jamil|
 |Mr Shafie Hussein|
 |Mdm Yulleana Jamal|
-|Mr Hamsah Mohd Ismail|
+
 
 <b style="color:#016C62; font-size:26px;">Tamil Language </b><br>
 <b style="color:black;">Mrs Menachi Junesh</b><br>
