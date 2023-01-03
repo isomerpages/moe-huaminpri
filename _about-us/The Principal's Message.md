@@ -5,14 +5,13 @@ description: ""
 ---
 ### **Principal's Message**
 
-<img src="/images/MdmLoe.png" alt="Mdm Loe" style="float:left;margin-right:25px;width:350px;height:515px;">It is indeed an honor and delight for me to take over the principalship from Mdm Noorismawaty Ismail. Under her leadership, Huamin has lived up to its Motto, 'Aspire to Excel' and grown from strength to strength. I would like to wish her the best in her new undertakings on behalf of our staff and stakeholders.
-
-In Huamin Primary, to nurture all students to be their best, the school sets out to create a happy learning place, where students learn to love and love to learn. Learning in a safe and empowering environment is fundamental to a child's growth. From as early as in Primary 1, teachers use the acronym 'STAR’ (Sense of curiosity, Tenacity in Learning, Agile & Flexible and Responsible) to guide our students to overcome challenges with a positive mindset in their daily school life and experiences. 
-
-Focusing on developing these positive learning dispositions in our students is key to developing positive learning attitudes for life. As a school, we strive to forge strong partnerships with parents to create a caring culture to bring out the best in your child.
-
-My teachers and I look forward to working with you and your child in the new school year and building upon the school's progress. We will continue to nurture a strong culture of care and excellence in the school community. On this note, I would like to warmly welcome all students, especially our new Primary 1 cohort in 2022, for an exciting time of learning and growth.<br>
-Wishing you the best for 2022, and let’s look forward to a great year ahead!
-
+<img src="/images/MdmLoe2023.jpg" alt="Mdm Loe 2023" style="float:left; width: 300px; height: 450px;">At Huamin Primary School, we recognise our students as unique individuals with strengths and interests. Underscored by the school value 'Everyone is Special' and the belief that 'Every student can learn, and want to learn,' all staff role-modeled support for student well-being in daily routines and school programmes. The school intentionally adopts the tagline 'A Happy Learning Place where students Love to Learn and Learn to Love' to undergird the importance of quality Teacher-Student Relationships and Student-Student Relationships.
+<br>
+Education is a lifelong journey. Our vision is to develop every Huaminite to become a self-directed learner and a passionate contributor. By providing our students with a myriad of quality learning experiences, we aim for them to discover the joy of learning and develop good Huaminite habits anchored on HEART values. Learning through the experiences, our students will build resilience, learn to work as a team, and put others before themselves.
+<br>
+To achieve this vision and prepare them to be future-ready, it takes a community of stakeholders with shared goals and values to help our Huaminities grow and glow. As partners-in-education, your strong partnership based on mutual understanding, respect, and trust will help Huaminities realize the school's motto, "Aspire to Excel"!
+<br>
 Sincerely yours,<br>
 Mdm Loe Lai Pink
+<br>
+Principal
