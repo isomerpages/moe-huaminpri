@@ -34,8 +34,8 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| - |
 
 ### **Form Teachers of Primary 3**
 
-| Class Name | Name of Teachers | Email Address |
-| -------- | -------- | -------- |
+| Class Name | Name of Teachers 
+| -------- | -------- 
 | Respect | Miss Khoo Xin Hui Myra<br>Mr Tham Kuan Yew, Albert | - |
 | Integrity | Mdm Suan Poh Leng, Pearlyn<br>Mdm Yulleana binte Jamal | - |
 | Courage | Mr Leow Wei Yuan<br>Mdm Fang Mei Teng | - |
