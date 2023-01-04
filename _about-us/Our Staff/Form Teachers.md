@@ -8,9 +8,9 @@ third_nav_title: Our Staff
 
 | Class Name | Name of Teachers | Email Address |
 | -------- | -------- | -------- |
-| Respect     | Mdm Lee Hwee Koong Annie<br>Mdm Hamidah Bte Hamid| - |
-|Integrity| Miss Ong Jiayu Alicia<br>Miss Chelsea Lim Yee Chin | - |
-|Courage|Mrs Tham-Zhang Wen Jun<br>Mrs Adams, Helmeleya Binte Mohd Jamil|helmeleya\_a@schools.gov.sg|
+| Respect     | Mdm Lee Hwee Koong Annie<br>Mdm Hamidah Bte Hamid| lee\_hwee\_koong\_annie@schools.gov.sg<br>hamidah\_hamid@schools.gov.sg |
+|Integrity| Miss Ong Jiayu Alicia<br>Miss Chelsea Lim Yee Chin | ong\_jiayu\_alicia@schools.gov.sg<br>lim\_yee\_chin\_a@schools.gov.sg |
+|Courage|Mrs Tham-Zhang Wen Jun<br>Mrs Adams, Helmeleya Binte Mohd Jamil| zhang\_wenjun@schools.gov.sg<br>helmeleya\_a@schools.gov.sg |
 |Harmony|Mdm Siti Raudha Bte Kamarudin<br>Miss Ng Pei Yin| - |
 |Excellence|Miss Kho Kai Siew<br>Miss Tan Hui Jun| - |
 Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| - |
