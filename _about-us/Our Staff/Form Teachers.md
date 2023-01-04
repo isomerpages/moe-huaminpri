@@ -6,7 +6,7 @@ third_nav_title: Our Staff
 ---
 ### **Form Teachers of Primary 1**
 
-| Class Name | Name of Teachers | |
+| Class Name | Name of Teachers | Email Address |
 | -------- | -------- | -------- |
 | Respect     | Mdm Lee Hwee Koong Annie<br>Mdm Hamidah Bte Hamid| - |
 |Integrity| Miss Ong Jiayu Alicia<br>Miss Chelsea Lim Yee Chin | - |
@@ -20,7 +20,7 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| - |
 
 ### **Form Teachers of Primary 2**
 
-| Class Name | Name of Teachers | 
+| Class Name | Name of Teachers | Email Address |
 | -------- | -------- | -------- |
 |Respect| Ms Zahara Bte Shahak<br>Miss Wong Zi'En | - |
 | Integrity | Miss Tay Gek Siang<br>Mrs Yeoh, Beverly Ng Li Min | - |
@@ -34,7 +34,7 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| - |
 
 ### **Form Teachers of Primary 3**
 
-| Class Name | Name of Teachers | |
+| Class Name | Name of Teachers | Email Address |
 | -------- | -------- | -------- |
 | Respect | Miss Khoo Xin Hui Myra<br>Mr Tham Kuan Yew, Albert | - |
 | Integrity | Mdm Suan Poh Leng, Pearlyn<br>Mdm Yulleana binte Jamal | - |
@@ -47,7 +47,7 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| - |
 
 ### **Form Teachers of Primary 4**
 
-| Class Name | Name of Teachers | |
+| Class Name | Name of Teachers | Email Address |
 | -------- | -------- | -------- |
 | Respect | Mdm Tan Kwee Tin, Jessie | - |
 | Integrity | Mrs Chris Shie<br>Miss Lim Shi Hui, Iris | - |
@@ -58,7 +58,7 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| - |
 
 ### **Form Teachers of Primary 5**
 
-| Class Name | Name of Teachers | |
+| Class Name | Name of Teachers | Email Address |
 | -------- | -------- | -------- |
 | Respect | Mr Kevin Tan<br>Mrs Vishnu, Hemalatha d/o Karunanithi | - |
 | Integrity | Ms Angela Merici<br>Mr Chia Chong Seng | - |
@@ -70,7 +70,7 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| - |
 
 ### **Form Teachers of Primary 6**
 
-| Class Name | Name of Teachers | |
+| Class Name | Name of Teachers | Email Address |
 | -------- | -------- | -------- |
 | Respect | Ms Ong Pei Ling<br>Mdm Liu Weijie | - |
 | Intergrity | Ms Katherine Lim<br>Ms Eunice Grace Chan<br>Mdm Mislimah Binte Misti | - |
