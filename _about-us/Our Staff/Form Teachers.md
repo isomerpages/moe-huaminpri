@@ -6,8 +6,8 @@ third_nav_title: Our Staff
 ---
 ### **Form Teachers of Primary 1**
 
-| Class Name | Name of Teachers |
-| -------- | -------- | 
+| Class Name | Name of Teachers | |
+| -------- | -------- | -------- |
 | Respect     | Mdm Lee Hwee Koong Annie<br>Mdm Hamidah Bte Hamid| - |
 |Integrity| Miss Ong Jiayu Alicia<br>Miss Chelsea Lim Yee Chin | - |
 |Courage|Mrs Tham-Zhang Wen Jun<br>Mrs Adams, Helmeleya Binte Mohd Jamil|helmeleya\_a@schools.gov.sg|
@@ -21,7 +21,7 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| - |
 ### **Form Teachers of Primary 2**
 
 | Class Name | Name of Teachers | 
-| -------- | -------- | 
+| -------- | -------- | -------- |
 |Respect| Ms Zahara Bte Shahak<br>Miss Wong Zi'En | - |
 | Integrity | Miss Tay Gek Siang<br>Mrs Yeoh, Beverly Ng Li Min | - |
 | Courage | Mrs Foo, Carlene Yeo<br>Mdm Sanisah Bte Rahim | - |
@@ -34,8 +34,8 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| - |
 
 ### **Form Teachers of Primary 3**
 
-| Class Name | Name of Teachers 
-| -------- | -------- 
+| Class Name | Name of Teachers | |
+| -------- | -------- | -------- |
 | Respect | Miss Khoo Xin Hui Myra<br>Mr Tham Kuan Yew, Albert | - |
 | Integrity | Mdm Suan Poh Leng, Pearlyn<br>Mdm Yulleana binte Jamal | - |
 | Courage | Mr Leow Wei Yuan<br>Mdm Fang Mei Teng | - |
@@ -47,8 +47,8 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| - |
 
 ### **Form Teachers of Primary 4**
 
-| Class Name | Name of Teachers |
-| -------- | -------- | 
+| Class Name | Name of Teachers | |
+| -------- | -------- | -------- |
 | Respect | Mdm Tan Kwee Tin, Jessie | - |
 | Integrity | Mrs Chris Shie<br>Miss Lim Shi Hui, Iris | - |
 | Courage | Mrs Yong, Sim Jie Lin<br>Mrs Nio, Loh Kai Yin Jutina | - |
@@ -58,8 +58,8 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| - |
 
 ### **Form Teachers of Primary 5**
 
-| Class Name | Name of Teachers | 
-| -------- | -------- | 
+| Class Name | Name of Teachers | |
+| -------- | -------- | -------- |
 | Respect | Mr Kevin Tan<br>Mrs Vishnu, Hemalatha d/o Karunanithi | - |
 | Integrity | Ms Angela Merici<br>Mr Chia Chong Seng | - |
 | Courage | Dr K S Jaswinder Khosa @ Jessi Siva<br>Miss Neo Yipei | - |
@@ -70,8 +70,8 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| - |
 
 ### **Form Teachers of Primary 6**
 
-| Class Name | Name of Teachers | 
-| -------- | -------- |
+| Class Name | Name of Teachers | |
+| -------- | -------- | -------- |
 | Respect | Ms Ong Pei Ling<br>Mdm Liu Weijie | - |
 | Intergrity | Ms Katherine Lim<br>Ms Eunice Grace Chan<br>Mdm Mislimah Binte Misti | - |
 | Courage | Mr Ong Qian Wei<br>Mrs Ng-Lai Xiao Xin<br>Mr Yap Heng Yeow | - |
