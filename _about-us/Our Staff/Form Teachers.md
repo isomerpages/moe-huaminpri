@@ -11,7 +11,7 @@ third_nav_title: Our Staff
 | Respect     | Mdm Lee Hwee Koong Annie<br>Mdm Hamidah Bte Hamid| lee\_hwee\_koong\_annie@schools.gov.sg<br>hamidah\_hamid@schools.gov.sg |
 |Integrity| Miss Ong Jiayu Alicia<br>Miss Chelsea Lim Yee Chin | ong\_jiayu\_alicia@schools.gov.sg<br>lim\_yee\_chin\_a@schools.gov.sg |
 |Courage|Mrs Tham-Zhang Wen Jun<br>Mrs Adams, Helmeleya Binte Mohd Jamil| zhang\_wenjun@schools.gov.sg<br>helmeleya\_a@schools.gov.sg |
-|Harmony|Mdm Siti Raudha Bte Kamarudin<br>Miss Ng Pei Yin| - |
+|Harmony|Mdm Siti Raudha Bte Kamarudin<br>Miss Ng Pei Yin| siti\_raudha\_kamarudin@schools.gov.sg<br>ng\_pei\_yin@schools.gov.sg |
 |Excellence|Miss Kho Kai Siew<br>Miss Tan Hui Jun| - |
 Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| - |
 |Trust|Ms Connie Chua Mong Lin<br>Miss Katherine Faroek| - |
