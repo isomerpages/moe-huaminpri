@@ -4,6 +4,7 @@ permalink: /about-us/Our-Staff/teachers-leaders/
 description: ""
 third_nav_title: Our Staff
 ---
+### **Huamin Lead Teachers**
 
 **Name** | **Designation** |
 | -------- | -------- | 
@@ -16,4 +17,3 @@ third_nav_title: Our Staff
 |Mr Pang Biao Bin|Senior Teacher for Music|
 |Mdm Katherine Lim|Senior Teacher for Science|
 |Mr Lin Jin Xiang|Senior Teacher for PE|
-
