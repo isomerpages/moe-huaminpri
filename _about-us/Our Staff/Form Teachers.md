@@ -64,7 +64,7 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad
 | Integrity | Ms Angela Merici<br>Mr Chia Chong Seng | angela\_merici\_john@schools.gov.sg<br>chia\_chong\_seng@schools.gov.sg |
 | Courage | Dr K S Jaswinder Khosa @ Jessi Siva<br>Miss Neo Yipei | k\_s\_jaswinder\_khosa@schools.gov.sg<br>neo\_yipei@schools.gov.sg |
 | Harmony | Mrs Kanchana D/O Suppiah<br>Mr Pang Biao Bin | Kanchana\_Suppiah@schools.gov.sg<br>pang\_biao\_bin@schools.gov.sg |
-| Excellence | Mdm Siti Rafeah Kasbi<br> Mr Alex Ng | siti\_rafeah\_kasbi@schools.gov.sg<br>ng\_zhiqiang\_alex@schools.gov.sg |
+| Excellence | Ms Wong Man Ping<br>Mdm Grace Ang | Wong\_Man\_Ping@schools.gov.sg<br>Grace\_Tok\_Sen\_Aye@schools.gov.sg |
 | Sincerity 1 | Mr Khairil Azar Abdul Rahim<br> Ms Claire Fong | khairil\_azar\_abdul\_rahim@schools.gov.sg<br>Claire\_Fong@schools.gov.sg |
 | Sincerity 2 | Ms Irene Kwok<br>Mr Wong Choo Lat | irene\_kwok\_kwee\_yoon@schools.gov.sg<br>Wong\_Choo\_Lat@schools.gov.sg |
 
