@@ -32,4 +32,4 @@ third_nav_title: Our Staff
 |Miss Blossom Yo Swee Hoon| RT
 | Mrs Yeo, Cheng Sing Yee, Ethel | EO | cheng\_sing\_yee\_ethel@schools.gov.sg |
 | Mdm Ili Mahirah Binte Ma'arof |  EO | Ili\_Mahirah\_Maarof@schools.gov.sg | 
-| Mr Thian Jiahui | EO | thian\_jiahui@schools.gov.sg | 
+| Mr Thian Jiahui | EO | thian\_jiahui@schools.gov.sg |
