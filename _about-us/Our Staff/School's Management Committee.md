@@ -27,7 +27,7 @@ Ms Karen Soon | Year Head (Lower Pri Level) | soon_li_ming_karen@schools.gov.sg|
 Mrs Gajan | Year Head (Middle Pri Level)|thelagavathi_balakrishnan@schools.gov.sg|
 Ms Banu | Year Head (Upper Pri Level)|ilfana_banu_kuthubudeen@schools.gov.sg|
 Ms Vani | LH of Math | vanitha_parada_raju@schools.gov.sg|
-Ms Stephanie Tu | LH of Chinese Language | |
+Ms Stephanie Tu | LH of Chinese Language | tu\_meng-chi@schools.gov.sg |
 Ms Sarah Seah | LH of Science | |
 Mdm Kasimah | SH of Malay Language | |
 Ms Kanmani | SH of CCE | |
