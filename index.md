@@ -13,7 +13,7 @@ notification: Dear Visitor, we are currently in the midst of updating the
   sorry for the inconvenience caused
 sections:
   - hero:
-      background: /images/groupimage.png
+      background: /images/heroimg.png
       key_highlights:
         - title: About Huamin Primary
           description: Check out More about Huamin
