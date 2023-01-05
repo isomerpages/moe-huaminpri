@@ -24,8 +24,8 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad
 | -------- | -------- | -------- |
 |Respect| Ms Zahara Bte Shahak<br>Miss Wong Zi'En | zahara\_shahak@schools.gov.sg<br>Wong\_Zien@schools.gov.sg |
 | Integrity | Miss Tay Gek Siang<br>Mrs Yeoh, Beverly Ng Li Min | tay\_gek\_siang@schools.gov.sg<br>ng\_li\_min\_beverly@schools.gov.sg |
-| Courage | Mrs Foo, Carlene Yeo<br>Mdm Sanisah Bte Rahim | - |
-| Harmony | Mdm Siti Zainab Bte Bujang<br>Ms Ong Bok Hoon | - |
+| Courage | Mrs Foo, Carlene Yeo<br>Mdm Sanisah Bte Rahim | carlene\_yeo@schools.gov.sg<br>sanisah\_rahim@schools.gov.sg |
+| Harmony | Mdm Siti Zainab Bte Bujang<br>Ms Ong Bok Hoon | siti\_zainab\_bujang@schools.gov.sg<br>ONG\_BOK\_HOON@schools.gov.sg |
 | Excellence | Miss Vivian Teo Li Yu<br>Miss Kanmani D/O Mariyappan | - |
 | Sincerity | Ms Latifah Bte Mohamed Yazid<br>Mr Shafie Bin Hussein | - |
 | Trust | Ms Tay May May, Junity<br>Mr Bernard, Ng Kok Hui | - |
