@@ -51,7 +51,7 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad
 | -------- | -------- | -------- |
 | Respect | Mdm Tan Kwee Tin, Jessie | tan\_kwee\_tin@schools.gov.sg |
 | Integrity | Mrs Chris Shie<br>Miss Lim Shi Hui, Iris | tan\_kwee\_tin@schools.gov.sg<br>iris\_lim\_shi\_hui@schools.gov.sg |
-| Courage | Mrs Yong, Sim Jie Lin<br>Mrs Nio, Loh Kai Yin Jutina | - |
+| Courage | Mrs Yong, Sim Jie Lin<br>Mrs Nio, Loh Kai Yin Jutina | sim\_jie\_lin@schools.gov.sg<br>loh\_kai\_yin@schools.gov.sg |
 | Harmony | Mrs Chang, Low Si Min Cheryl<br>Ms Siti Nur Aishah Bte Suparjo | - |
 | Excellence | Mr Huang Yuhan Lionel<br>Siti Kamariah Bte Ismail, Mrs Shaiful | - |
 | Sincerity | Mrs Lam, Carolyn Cheong Yee Li<br>Miss Vanitha d/o Parada Raju | - |
