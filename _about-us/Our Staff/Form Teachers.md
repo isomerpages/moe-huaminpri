@@ -60,13 +60,13 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad
 
 | Class Name | Name of Teachers | Email Address |
 | -------- | -------- | -------- |
-| Respect | Mr Kevin Tan<br>Mrs Vishnu, Hemalatha d/o Karunanithi | <br>hemalatha\_karunanithi@schools.gov.sg |
+| Respect | Mr Kevin Tan<br>Mrs Vishnu, Hemalatha d/o Karunanithi | Tan\_Chin\_Choo@schools.gov.sg<br>hemalatha\_karunanithi@schools.gov.sg |
 | Integrity | Ms Angela Merici<br>Mr Chia Chong Seng | angela\_merici\_john@schools.gov.sg<br>chia\_chong\_seng@schools.gov.sg |
 | Courage | Dr K S Jaswinder Khosa @ Jessi Siva<br>Miss Neo Yipei | k\_s\_jaswinder\_khosa@schools.gov.sg<br>neo\_yipei@schools.gov.sg |
-| Harmony | Mrs Kanchana D/O Suppiah<br>Mr Pang Biao Bin | - |
-| Excellence | Mdm Siti Rafeah Kasbi<br> Mr Alex Ng | - |
-| Sincerity 1 | Mr Khairil Azar Abdul Rahim<br> Ms Claire Fong | - |
-| Sincerity 2 | Ms Irene Kwok<br>Mr Wong Choo Lat | - |
+| Harmony | Mrs Kanchana D/O Suppiah<br>Mr Pang Biao Bin | Kanchana\_Suppiah@schools.gov.sg<br>pang\_biao\_bin@schools.gov.sg |
+| Excellence | Mdm Siti Rafeah Kasbi<br> Mr Alex Ng | siti\_rafeah\_kasbi@schools.gov.sg<br>ng\_zhiqiang\_alex@schools.gov.sg |
+| Sincerity 1 | Mr Khairil Azar Abdul Rahim<br> Ms Claire Fong | khairil\_azar\_abdul\_rahim@schools.gov.sg<br>Claire\_Fong@schools.gov.sg |
+| Sincerity 2 | Ms Irene Kwok<br>Mr Wong Choo Lat | irene\_kwok\_kwee\_yoon@schools.gov.sg<br>Wong\_Choo\_Lat@schools.gov.sg |
 
 ### **Form Teachers of Primary 6**
 
