@@ -36,8 +36,8 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad
 
 | Class Name | Name of Teachers | Email Address |
 | -------- | -------- | -------- |
-| Respect | Miss Khoo Xin Hui Myra<br>Mr Tham Kuan Yew, Albert | - |
-| Integrity | Mdm Suan Poh Leng, Pearlyn<br>Mdm Yulleana binte Jamal | - |
+| Respect | Miss Khoo Xin Hui Myra<br>Mr Tham Kuan Yew, Albert | khoo\_xin\_hui\_myra@schools.gov.sg<br>albert\_tham@schools.gov.sg |
+| Integrity | Mdm Suan Poh Leng, Pearlyn<br>Mdm Yulleana binte Jamal | Suan\_Poh\_Leng\_Pearlyn@schools.gov.sg<br>Yulleana\_Jamal@schools.gov.sg |
 | Courage | Mr Leow Wei Yuan<br>Mdm Fang Mei Teng | - |
 | Harmony | Miss Ong Xin Hong<br>Mdm Lilian Ng Yue Yuen | - |
 | Excellence | Miss Du Yiling<br>Mr Bernard Sew Chun Wah | - |
