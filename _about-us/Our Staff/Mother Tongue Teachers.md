@@ -11,9 +11,9 @@ third_nav_title: Our Staff
 Email: tu\_meng-chi@schools.gov.sg<br>
 
 
-|Members of the Department |  |
-| -------- | -------- | 
-|Mrs Jutina Nio (Senior Teacher)|  | 
+|Members of the Department |
+| -------- |
+|Mrs Jutina Nio (Senior Teacher)|
 |Miss Tan Hui Jun|
 |Mrs Ng-Lai Xiao Xin|
 |Mr Bernard Ng Kok Hui|
