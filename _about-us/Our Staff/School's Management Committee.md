@@ -7,7 +7,7 @@ third_nav_title: Our Staff
 ### **The School's Management Committee**
 
 
-| Name | Job Position | Email |
+| Name | Job Position | Email Address |
 | -------- | -------- | -------- |
 | Mdm Loe Lai Pink     | Principal     | loe_lai_pink@schools.gov.sg   |
 |Mrs Corinne Kwan | Vice Principal| Corinne_Anne_BALAKRISHNAN@schools.gov.sg|
@@ -27,14 +27,14 @@ Ms Karen Soon | Year Head (Lower Pri Level) | soon_li_ming_karen@schools.gov.sg|
 Mrs Gajan | Year Head (Middle Pri Level)|thelagavathi_balakrishnan@schools.gov.sg|
 Ms Banu | Year Head (Upper Pri Level)|ilfana_banu_kuthubudeen@schools.gov.sg|
 Ms Vani | LH of Math | vanitha_parada_raju@schools.gov.sg|
-Ms Stephanie Tu | LH of Chinese Language | |
-Ms Sarah Seah | LH of Science | |
-Mdm Kasimah | SH of Malay Language | |
-Ms Kanmani | SH of CCE | |
-Mrs Katherine Faroek | SH of Aesthetics | |
-Mr Chia Chong Seng | SH of PE/CCA | |
-Mr Tham Kuan Yew, Albert | SH Discipline & Student Well-being | |
-Mr Joshua Kum | SH Discipline & Student Leadership | |
-Ms Tan Hui Jun | Asst Year Head (Lower Primary Level) | |
-Mrs Maya | Asst Year Head (Middle Primary Level | |
-Mrs Ng-Lai Xiao Xin | Asst Year Head (Upper Primary Level) | |
+Ms Stephanie Tu | LH of Chinese Language | tu\_meng-chi@schools.gov.sg |
+Ms Sarah Seah | LH of Science | seah\_lee\_chean@schools.gov.sg |
+Mdm Kasimah | SH of Malay Language | kasimah\_kassim@schools.gov.sg |
+Ms Kanmani | SH of CCE | kanmani\_mariyappan@schools.gov.sg |
+Mrs Katherine Faroek | SH of Aesthetics | tong_pink_ling_katherine@schools.gov.sg |
+Mr Chia Chong Seng | SH of PE/CCA | chia\_chong\_seng@schools.gov.sg |
+Mr Tham Kuan Yew, Albert | SH Discipline & Student Well-being | albert\_tham@schools.gov.sg |
+Mr Joshua Kum | SH Discipline & Student Leadership | kum\_han\_wen@schools.gov.sg |
+Ms Tan Hui Jun | Asst Year Head (Lower Primary Level) | tan\_hui\_jun@schools.gov.sg |
+Mrs Maya | Asst Year Head (Middle Primary Level | siti\_kamariah\_ismail@schools.gov.sg |
+Mrs Ng-Lai Xiao Xin | Asst Year Head (Upper Primary Level) | lai\_xiao\_xin@schools.gov.sg |
