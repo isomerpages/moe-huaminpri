@@ -29,8 +29,8 @@ Ms Banu | Year Head (Upper Pri Level)|ilfana_banu_kuthubudeen@schools.gov.sg|
 Ms Vani | LH of Math | vanitha_parada_raju@schools.gov.sg|
 Ms Stephanie Tu | LH of Chinese Language | tu\_meng-chi@schools.gov.sg |
 Ms Sarah Seah | LH of Science | |
-Mdm Kasimah | SH of Malay Language | |
-Ms Kanmani | SH of CCE | |
+Mdm Kasimah | SH of Malay Language | kasimah\_kassim@schools.gov.sg |
+Ms Kanmani | SH of CCE | kanmani\_mariyappan@schools.gov.sg |
 Mrs Katherine Faroek | SH of Aesthetics | tong_pink_ling_katherine@schools.gov.sg |
 Mr Chia Chong Seng | SH of PE/CCA | chia\_chong\_seng@schools.gov.sg |
 Mr Tham Kuan Yew, Albert | SH Discipline & Student Well-being | albert\_tham@schools.gov.sg |
