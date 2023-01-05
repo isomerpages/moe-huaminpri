@@ -40,7 +40,7 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad
 | Integrity | Mdm Suan Poh Leng, Pearlyn<br>Mdm Yulleana binte Jamal | Suan\_Poh\_Leng\_Pearlyn@schools.gov.sg<br>Yulleana\_Jamal@schools.gov.sg |
 | Courage | Mr Leow Wei Yuan<br>Mdm Fang Mei Teng | leow\_wei\_yuan@schools.gov.sg<br>fang\_mei\_teng@schools.gov.sg |
 | Harmony | Miss Ong Xin Hong<br>Mdm Lilian Ng Yue Yuen | Ong\_Xin\_Hong@schools.gov.sg<br>lilian\_ng\_yue\_yuen@schools.gov.sg |
-| Excellence | Miss Du Yiling<br>Mr Bernard Sew Chun Wah | - |
+| Excellence | Miss Du Yiling<br>Mr Bernard Sew Chun Wah | du\_yiling@schools.gov.sg<br>bernard\_sew\_chun\_wah@schools.gov.sg |
 | Sincerity | Mr Chong Swee Phan<br>Mrs Junesh, Menachi Shanmugan | - |
 | Trust | Mr Lin Jin Xiang<br>Mdm Sarah Seah Lee Chean | - |
 | Majestic | Mdm Siti Noor Khadijah Binte Othman<br>Mdm Kasimah Bte Kassim<br>Mr Kum Han Wen, Joshua | - |
