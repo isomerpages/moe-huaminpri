@@ -60,7 +60,7 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad
 
 | Class Name | Name of Teachers | Email Address |
 | -------- | -------- | -------- |
-| Respect | Mr Kevin Tan<br>Mrs Vishnu, Hemalatha d/o Karunanithi | - |
+| Respect | Mr Kevin Tan<br>Mrs Vishnu, Hemalatha d/o Karunanithi | <br>hemalatha\_karunanithi@schools.gov.sg |
 | Integrity | Ms Angela Merici<br>Mr Chia Chong Seng | - |
 | Courage | Dr K S Jaswinder Khosa @ Jessi Siva<br>Miss Neo Yipei | - |
 | Harmony | Mrs Kanchana D/O Suppiah<br>Mr Pang Biao Bin | - |
