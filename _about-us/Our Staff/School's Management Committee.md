@@ -32,9 +32,9 @@ Ms Sarah Seah | LH of Science | |
 Mdm Kasimah | SH of Malay Language | |
 Ms Kanmani | SH of CCE | |
 Mrs Katherine Faroek | SH of Aesthetics | |
-Mr Chia Chong Seng | SH of PE/CCA | |
-Mr Tham Kuan Yew, Albert | SH Discipline & Student Well-being | |
-Mr Joshua Kum | SH Discipline & Student Leadership | |
-Ms Tan Hui Jun | Asst Year Head (Lower Primary Level) | |
-Mrs Maya | Asst Year Head (Middle Primary Level | |
-Mrs Ng-Lai Xiao Xin | Asst Year Head (Upper Primary Level) | |
+Mr Chia Chong Seng | SH of PE/CCA | chia\_chong\_seng@schools.gov.sg |
+Mr Tham Kuan Yew, Albert | SH Discipline & Student Well-being | albert\_tham@schools.gov.sg |
+Mr Joshua Kum | SH Discipline & Student Leadership | kum\_han\_wen@schools.gov.sg |
+Ms Tan Hui Jun | Asst Year Head (Lower Primary Level) | tan\_hui\_jun@schools.gov.sg |
+Mrs Maya | Asst Year Head (Middle Primary Level |  |
+Mrs Ng-Lai Xiao Xin | Asst Year Head (Upper Primary Level) | lai\_xiao\_xin@schools.gov.sg |
