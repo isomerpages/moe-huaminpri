@@ -74,7 +74,7 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad
 | -------- | -------- | -------- |
 | Respect | Ms Ong Pei Ling<br>Mdm Liu Weijie | ong\_pei\_ling@schools.gov.sg<br>liu\_weijie@schools.gov.sg |
 | Intergrity | Ms Katherine Lim<br>Ms Eunice Grace Chan<br>Mdm Mislimah Binte Misti | lim\_poh\_ling\_katherine@schools.gov.sg<br>mislimah\_misti@schools.gov.sg |
-| Courage | Mr Ong Qian Wei<br>Mrs Ng-Lai Xiao Xin<br>Mr Yap Heng Yeow | - |
+| Courage | Mr Ong Qian Wei<br>Mrs Ng-Lai Xiao Xin<br>Mr Yap Heng Yeow | ong\_qian\_wei@schools.gov.sg<br>lai\_xiao\_xin@schools.gov.sg<br>yap\_heng\_yeow@schools.gov.sg |
 | Harmony | Mr John Chia<br>Miss Woon Hui Ting<br>Mr David Lim | - |
 | Excellence | Mdm Siti Rafeah Kasbi<br>Mr Alex Ng | - |
 | Sincerity | Mr Shaik Muzzafar Shaik<br>Ms Pramageetha Velmurugan | - |
