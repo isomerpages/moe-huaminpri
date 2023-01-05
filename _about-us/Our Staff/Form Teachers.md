@@ -26,11 +26,11 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad
 | Integrity | Miss Tay Gek Siang<br>Mrs Yeoh, Beverly Ng Li Min | tay\_gek\_siang@schools.gov.sg<br>ng\_li\_min\_beverly@schools.gov.sg |
 | Courage | Mrs Foo, Carlene Yeo<br>Mdm Sanisah Bte Rahim | carlene\_yeo@schools.gov.sg<br>sanisah\_rahim@schools.gov.sg |
 | Harmony | Mdm Siti Zainab Bte Bujang<br>Ms Ong Bok Hoon | siti\_zainab\_bujang@schools.gov.sg<br>ONG\_BOK\_HOON@schools.gov.sg |
-| Excellence | Miss Vivian Teo Li Yu<br>Miss Kanmani D/O Mariyappan | - |
-| Sincerity | Ms Latifah Bte Mohamed Yazid<br>Mr Shafie Bin Hussein | - |
-| Trust | Ms Tay May May, Junity<br>Mr Bernard, Ng Kok Hui | - |
-| Majestic | Miss Hemalarsvini<br>Mrs Yeo Beng Neo, Catherine<br>Miss Low Lay Choo | - |
-| Innovation | Mrs Liang, Tan Lin Jun Sharon<br>Mdm Goh Meow Sim | - |
+| Excellence | Miss Vivian Teo Li Yu<br>Miss Kanmani D/O Mariyappan | Vivian\_Teo\_Li\_Yu@schools.gov.sg<br>kanmani\_mariyappan@schools.gov.sg |
+| Sincerity | Ms Latifah Bte Mohamed Yazid<br>Mr Shafie Bin Hussein | latifah\_mohamed\_yazid@schools.gov.sg<br>Shafie\_Hussein@schools.gov.sg |
+| Trust | Ms Tay May May, Junity<br>Mr Bernard, Ng Kok Hui | tay\_may\_may@schools.gov.sg<br>ng\_kok\_hui@schools.gov.sg |
+| Majestic | Miss Hemalarsvini<br>Mrs Yeo Beng Neo, Catherine<br>Miss Low Lay Choo | hemalarsvini@schools.gov.sg<br>catherine\_yeo\_beng\_neo@schools.gov.sg |
+| Innovation | Mrs Liang, Tan Lin Jun Sharon<br>Mdm Goh Meow Sim | tan\_lin\_jun\_sharon@schools.gov.sg<br>goh\_meow\_sim@schools.gov.sg |
 
 ### **Form Teachers of Primary 3**
 
