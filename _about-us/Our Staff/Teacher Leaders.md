@@ -6,10 +6,11 @@ third_nav_title: Our Staff
 ---
 ### **Huamin Lead Teachers**
 
-**Name** | **Designation** |
-| -------- | -------- | 
-| Dr Jessi Siva     | Lead Teacher for English Language   | 
-|Mdm Jessie Tan Kwee Tin | Lead Teacher for Mathematics
+
+| Name | Job Position | Email Address |
+| -------- | -------- | -------- |
+| Dr Jessi Siva | Lead Teacher for English Language | k\_s\_jaswinder\_khosa@schools.gov.sg |
+|Mdm Jessie Tan Kwee Tin | Lead Teacher for Mathematics |  |
 |Ms Angela Merici John|Senior Teacher for English Language
 |Ms Loh Kai Yin, Jutina|Senior Teacher for Chinese Language
 |Mdm Sanisah Bte Rahim|Senior Teacher for Malay Language|
