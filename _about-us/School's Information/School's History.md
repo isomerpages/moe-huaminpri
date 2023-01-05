@@ -12,5 +12,4 @@ Mr Foo Chee Meng was the first principal when the school started in 1989. In Dec
 
 Huamin is in the N6 Cluster Schools, which is under the able guidance of our Superintendent, Mrs Edelweis Neo.
 
-
-![](/images/schools%20history.png)
+![](/images/schools%20history(updated).png)
