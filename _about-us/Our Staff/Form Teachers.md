@@ -13,7 +13,7 @@ third_nav_title: Our Staff
 |Courage|Mrs Tham-Zhang Wen Jun<br>Mrs Adams, Helmeleya Binte Mohd Jamil| zhang\_wenjun@schools.gov.sg<br>helmeleya\_a@schools.gov.sg |
 |Harmony|Mdm Siti Raudha Bte Kamarudin<br>Miss Ng Pei Yin| siti\_raudha\_kamarudin@schools.gov.sg<br>ng\_pei\_yin@schools.gov.sg |
 |Excellence|Miss Kho Kai Siew<br>Miss Tan Hui Jun| Kho\_Kai\_Siew@schools.gov.sg<br>tan\_hui\_jun@schools.gov.sg |
-Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad@schools.gov.sg<br> |
+Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad@schools.gov.sg<br>chang_jin_peng@schools.gov.sg |
 |Trust|Ms Connie Chua Mong Lin<br>Miss Katherine Faroek| - |
 |Majestic|Mdm Ashini Prasad<br>Ms Lee Geok Ching Joyce| - |
 |Innovation|Mdm Kerk Lih Jun<br>Mdm Hanisah Binte Sarip|kerk\_lih\_jun@schools.gov.sg<br>|
