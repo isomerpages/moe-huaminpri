@@ -22,7 +22,7 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad
 
 | Class Name | Name of Teachers | Email Address |
 | -------- | -------- | -------- |
-|Respect| Ms Zahara Bte Shahak<br>Miss Wong Zi'En | - |
+|Respect| Ms Zahara Bte Shahak<br>Miss Wong Zi'En | zahara\_shahak@schools.gov.sg<br> |
 | Integrity | Miss Tay Gek Siang<br>Mrs Yeoh, Beverly Ng Li Min | - |
 | Courage | Mrs Foo, Carlene Yeo<br>Mdm Sanisah Bte Rahim | - |
 | Harmony | Mdm Siti Zainab Bte Bujang<br>Ms Ong Bok Hoon | - |
