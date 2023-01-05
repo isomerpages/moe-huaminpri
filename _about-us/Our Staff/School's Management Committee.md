@@ -7,7 +7,7 @@ third_nav_title: Our Staff
 ### **The School's Management Committee**
 
 
-| Name | Job Position | Email |
+| Name | Job Position | Email Address |
 | -------- | -------- | -------- |
 | Mdm Loe Lai Pink     | Principal     | loe_lai_pink@schools.gov.sg   |
 |Mrs Corinne Kwan | Vice Principal| Corinne_Anne_BALAKRISHNAN@schools.gov.sg|
