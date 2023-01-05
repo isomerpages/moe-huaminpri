@@ -10,7 +10,7 @@ third_nav_title: Our Staff
 | Name | Job Position | Email Address |
 | -------- | -------- | -------- |
 | Dr Jessi Siva | Lead Teacher for English Language | k\_s\_jaswinder\_khosa@schools.gov.sg |
-|Mdm Jessie Tan Kwee Tin | Lead Teacher for Mathematics |  |
+|Mdm Jessie Tan Kwee Tin | Lead Teacher for Mathematics | tan\_kwee\_tin@schools.gov.sg |
 |Ms Angela Merici John|Senior Teacher for English Language
 |Ms Loh Kai Yin, Jutina|Senior Teacher for Chinese Language
 |Mdm Sanisah Bte Rahim|Senior Teacher for Malay Language|
