@@ -27,9 +27,9 @@ third_nav_title: Our Staff
 | Mdm Deborah Tsung Chung Ying | FAJT | Deborah\_Tsung@schools.gov.sg | 
 | Mdm Tan Chor Hoon | FAJT | Tan\_Chor\_Hoon@schools.gov.sg | 
 |Miss Ivy Chew Bian Bian | RT | Ivy\_Chew\_Bian\_Bian@schools.gov.sg |
-| Ms Toh Pei Yan Pauline | RT | a
+| Ms Toh Pei Yan Pauline | RT | 
 | Ms Ding Hui | RT | 
 |Miss Blossom Yo Swee Hoon| RT
-| Mrs Yeo, Cheng Sing Yee, Ethel | EO
-| Mdm Lli Mahirah Binte Ma'arof |  EO
-| Mr Thian Jiahui | EO
+| Mrs Yeo, Cheng Sing Yee, Ethel | EO | cheng\_sing\_yee\_ethel@schools.gov.sg |
+| Mdm Ili Mahirah Binte Ma'arof |  EO | Ili\_Mahirah\_Maarof@schools.gov.sg | 
+| Mr Thian Jiahui | EO | thian\_jiahui@schools.gov.sg | 
