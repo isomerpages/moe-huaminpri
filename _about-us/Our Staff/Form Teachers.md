@@ -49,7 +49,7 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad
 
 | Class Name | Name of Teachers | Email Address |
 | -------- | -------- | -------- |
-| Respect | Mdm Tan Kwee Tin, Jessie | - |
+| Respect | Mdm Tan Kwee Tin, Jessie | tan\_kwee\_tin@schools.gov.sg |
 | Integrity | Mrs Chris Shie<br>Miss Lim Shi Hui, Iris | - |
 | Courage | Mrs Yong, Sim Jie Lin<br>Mrs Nio, Loh Kai Yin Jutina | - |
 | Harmony | Mrs Chang, Low Si Min Cheryl<br>Ms Siti Nur Aishah Bte Suparjo | - |
