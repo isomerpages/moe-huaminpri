@@ -16,7 +16,7 @@ third_nav_title: Our Staff
 Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad@schools.gov.sg<br>chang_jin_peng@schools.gov.sg |
 |Trust|Ms Connie Chua Mong Lin<br>Miss Katherine Faroek| chua\_mong\_lin\_connie@schools.gov.sg<br>tong_pink_ling_katherine@schools.gov.sg |
 |Majestic|Mdm Ashini Prasad<br>Ms Lee Geok Ching Joyce| ashini\_prasad@schools.gov.sg<br>Lee\_Geok\_Ching\_Joyce@schools.gov.sg |
-|Innovation|Mdm Kerk Lih Jun<br>Mdm Hanisah Binte Sarip|kerk\_lih\_jun@schools.gov.sg<br> |
+|Innovation|Mdm Kerk Lih Jun<br>Mdm Hanisah Binte Sarip|kerk\_lih\_jun@schools.gov.sg<br>hanisah\_sarip@schools.gov.sg |
 
 ### **Form Teachers of Primary 2**
 
