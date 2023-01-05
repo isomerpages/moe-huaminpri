@@ -31,7 +31,7 @@ Ms Stephanie Tu | LH of Chinese Language | tu\_meng-chi@schools.gov.sg |
 Ms Sarah Seah | LH of Science | |
 Mdm Kasimah | SH of Malay Language | |
 Ms Kanmani | SH of CCE | |
-Mrs Katherine Faroek | SH of Aesthetics | |
+Mrs Katherine Faroek | SH of Aesthetics | tong_pink_ling_katherine@schools.gov.sg |
 Mr Chia Chong Seng | SH of PE/CCA | chia\_chong\_seng@schools.gov.sg |
 Mr Tham Kuan Yew, Albert | SH Discipline & Student Well-being | albert\_tham@schools.gov.sg |
 Mr Joshua Kum | SH Discipline & Student Leadership | kum\_han\_wen@schools.gov.sg |
