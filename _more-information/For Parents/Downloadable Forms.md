@@ -24,4 +24,6 @@ third_nav_title: For Parents
 <b>User Guide for Parents: </b>[GPA eSubmission User Guide for Parents](/files/GPA%20eSubmission%20User%20Guide%20for%20Parents.pdf)
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">NEU PC PLUS Programme</b><br>
-[NEU PC Plus IMDA FBB Service Application Form(9 Apr2020)]()
+[NEU PC Plus IMDA FBB Service Application Form(9 Apr2020)](/files/NEU%20PC%20Plus%20IMDA%20FBB%20Service%20Application%20Form.pdf) <br>
+[NPP Application Form for MOE SPED FAS](/files/NPP-Application-Form-for-MOE-SPED-FAS1.pdf)<br>
+[NPP Application Form for NON-MOE SPED FAS](/files/NPP-Application-Form-for-NON-MOE-SPED-FAS.pdf)
