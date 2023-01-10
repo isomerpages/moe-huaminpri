@@ -30,3 +30,4 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more info
 | a. Science | b. Character and Citizenship Education (CCE)
 
 <b style="color:#016C62; font-size:18px;">Sexuality Education Lessons:</b><br>
+[Lesson Plan PDF - Primary 5 and Primary 6](/files/Sexuality%20Education%20Lessons.pdf)
