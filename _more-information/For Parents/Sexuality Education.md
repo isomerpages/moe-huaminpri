@@ -32,6 +32,10 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more info
 <b style="color:#016C62; font-size:18px;">Sexuality Education Lessons:</b><br>
 [Lesson Plan PDF - Primary 5 and Primary 6](/files/Sexuality%20Education%20Lessons.pdf)
 
+6.         The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have tograpple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources. 
+
+7.         Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
+
 <b style="color:#016C62; font-size:18px;">Information for Parents:</b><br>
 
 8.         Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
