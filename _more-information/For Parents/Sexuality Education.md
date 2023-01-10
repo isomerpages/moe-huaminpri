@@ -19,10 +19,6 @@ third_nav_title: For Parents
 (iii) Make responsible decisions for yourself, your family and society; and<br>
 (iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education) for more information on MOE Sexuality Education.
+You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
 
-* Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers. <br>
-* Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://huaminpri.moe.edu.sg/qql/slot/u369/Parents/Sexuality%20Edu%20Opt%20Out%20Form/Huamin%20Parent%20Opt%20Out%20form%202022.pdf). The completed opt-out form is to be submitted by 01/10/2022.
-* Parents can contact the school at **huamin\_ps@moe.edu.sg** or contact us at 67529004 for discussion or to seek clarification about the school’s sexuality education programme. <br>
-* Parents who wish to attend the school sexuality education programmes should contact the school to make the necessary arrangements.
