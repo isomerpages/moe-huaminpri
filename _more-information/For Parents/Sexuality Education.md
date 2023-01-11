@@ -25,12 +25,14 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more info
 
 4.         Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
-| 5. The subjects that<br> incorporate topics on sexuality include: |  |
-| -------- | -------- |
-| a. Science | b. Character and Citizenship Education (CCE)
+5. The subjects that incorporate topics on sexuality include: 
+<br> a. Science <br>b. Character and Citizenship Education (CCE)<br>
 
 <b style="color:#016C62; font-size:18px;">Sexuality Education Lessons:</b><br>
-[Lesson Plan PDF - Primary 5 and Primary 6](/files/Sexuality%20Education%20Lessons.pdf)
+![](/images/P5s1.png)
+![](/images/P5s2.png)
+![](/images/P6s1.png)
+![](/images/P6s2.png)
 
 6.         The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have tograpple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources. 
 
