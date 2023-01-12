@@ -13,18 +13,18 @@ Email: tu\_meng-chi@schools.gov.sg<br>
 
 |Members of the Department | Email Address |
 | -------- | -------- |
-|Mrs Jutina Nio (Senior Teacher)|
-|Miss Tan Hui Jun|
-|Mrs Ng-Lai Xiao Xin|
-|Mr Bernard Ng Kok Hui|
-|Mrs Beverly Yeoh
-|Miss Ng Pei Yin
-|Mdm Neo Yipei
-|Mdm Liu Weijie
-|Mdm Zhang Xinyuan
-|Miss Lim Yee Chin, Chelsea
-|Miss Iris Lim Shi Hui
-|Miss Wong Zi’en
+|Mrs Jutina Nio (Senior Teacher)| loh\_kai\_yin@schools.gov.sg |
+|Miss Tan Hui Jun| tan\_hui\_jun@schools.gov.sg |
+|Mrs Ng-Lai Xiao Xin| lai\_xiao\_xin@schools.gov.sg |
+|Mr Bernard Ng Kok Hui| ng\_kok\_hui@schools.gov.sg |
+|Mrs Beverly Yeoh | ng\_li\_min\_beverly@schools.gov.sg |
+|Miss Ng Pei Yin | ng\_pei\_yin@schools.gov.sg |
+|Mdm Neo Yipei | neo\_yipei@schools.gov.sg |
+|Mdm Liu Weijie | liu\_weijie@schools.gov.sg |
+|Mdm Zhang Xinyuan | zhang\_xinyuan@schools.gov.sg |
+|Miss Lim Yee Chin, Chelsea | lim\_yee\_chin\_a@schools.gov.sg |
+|Miss Iris Lim Shi Hui | iris\_lim\_shi\_hui@schools.gov.sg |
+|Miss Wong Zi’en | Wong\_Zien@schools.gov.sg | 
 
 <b style="color:#016C62; font-size:26px;">Malay Language </b><br>
 **Mdm Kasimah Kassim**<br>
