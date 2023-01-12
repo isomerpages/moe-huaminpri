@@ -34,12 +34,12 @@ Email: kasimah\_kassim@schools.gov.sg<br>
 
 |Members of the Department |  Email Address |
 | -------- | -------- | 
-|Mdm Sanisah Rahim (Senior Teacher)|
-|Mdm Hamidah Hamid|
-|Mdm Siti Nur Aishah Suparjo|
-|Mdm Helmeleya Mohd Jamil|
-|Mr Shafie Hussein|
-|Mdm Yulleana Jamal|
+|Mdm Sanisah Rahim (Senior Teacher)| sanisah\_rahim@schools.gov.sg |
+|Mdm Hamidah Hamid| hamidah\_hamid@schools.gov.sg |
+|Mdm Siti Nur Aishah Suparjo| siti\_nur\_aishah\_suparjo@schools.gov.sg |
+|Mdm Helmeleya Mohd Jamil| helmeleya\_a@schools.gov.sg | 
+|Mr Shafie Hussein| Shafie\_Hussein@schools.gov.sg |
+|Mdm Yulleana Jamal| Yulleana\_Jamal@schools.gov.sg |
 
 
 <b style="color:#016C62; font-size:26px;">Tamil Language </b><br>
