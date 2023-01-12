@@ -50,6 +50,6 @@ Email: menachi\_shanmugan@moe.edu.sg<br>
 
 |Members of the Department |  Email Address |
 | -------- | -------- | 
-|Mrs Thelagavathi Gajan|
-|Mrs Hemalatha Vishnu|
-|Miss Hemalarsvini|
+|Mrs Thelagavathi Gajan| thelagavathi\_balakrishnan@schools.gov.sg |
+|Mrs Hemalatha Vishnu| hemalatha\_karunanithi@schools.gov.sg |
+|Miss Hemalarsvini| hemalarsvini@schools.gov.sg |
