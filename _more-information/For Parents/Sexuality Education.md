@@ -29,7 +29,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more info
 <br> a. Science <br>b. Character and Citizenship Education (CCE)<br>
 
 <b style="color:#016C62; font-size:18px;">Sexuality Education Lessons:</b><br>
-![](/images/P5s1.png)
+![](/images/p9ws1.png)
 ![](/images/P5s2.png)
 ![](/images/p8ws1.png)
 ![](/images/p7s2.png)
