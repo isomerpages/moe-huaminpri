@@ -20,7 +20,7 @@ third_nav_title: For Parents
 | Primary 6 FDN | [P6 FDN Booklist of 2023](/files/P6%20FDN%20BOOKLIST%202023.pdf) | 
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">Group Personal Accident (GPA) Product Fact</b><br>
-**Fact Sheet:** [Group Personal Accident (GPA) Product Fact Sheet for 2022(updated Sep 2022)](/files/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf) <br>
+**Fact Sheet:** [Product Fact Sheet Year 2023](/files/Product%20Fact%20Sheet%20Year%202023.pdf) <br>
 <b>User Guide for Parents: </b>[GPA eSubmission User Guide for Parents](/files/GPA%20eSubmission%20User%20Guide%20for%20Parents.pdf)
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">NEU PC PLUS Programme</b><br>
