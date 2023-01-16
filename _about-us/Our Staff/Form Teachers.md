@@ -65,7 +65,7 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad
 | Courage | Dr K S Jaswinder Khosa @ Jessi Siva<br>Miss Neo Yipei | k\_s\_jaswinder\_khosa@schools.gov.sg<br>neo\_yipei@schools.gov.sg |
 | Harmony | Mrs Kanchana D/O Suppiah<br>Mr Pang Biao Bin | kanchana\_suppiah@schools.gov.sg<br>pang\_biao\_bin@schools.gov.sg |
 | Excellence | Ms Wong Man Ping<br>Mdm Grace Ang | wong\_man\_ping@schools.gov.sg<br>grace\_tok\_sen\_aye@schools.gov.sg |
-| Sincerity 1 | Mr Khairil Azar Abdul Rahim<br> Ms Claire Fong | khairil\_azar\_abdul\_rahim@schools.gov.sg<br>claire\_fong@schools.gov.sg |
+| Sincerity 1 | Mr Khairil Azar Abdul Rahim<br> Mrs Claire Fong | khairil\_azar\_abdul\_rahim@schools.gov.sg<br>claire\_fong@schools.gov.sg |
 | Sincerity 2 | Ms Irene Kwok<br>Mrs Wong Choo Lat | irene\_kwok\_kwee\_yoon@schools.gov.sg<br>wong\_choo\_lat@schools.gov.sg |
 
 ### **Form Teachers of Primary 6**
