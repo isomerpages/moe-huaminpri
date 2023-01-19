@@ -9,7 +9,9 @@ third_nav_title: Our Team
 | Class | Form Teachers&#160;&#160;&#160;&#160;&#160;&#160; | Email Address
 | -------- | -------- | -------- |
 | Harmony (AM) | Ms Jenna | jenna\_teh@moe.edu.sg |
-| Joy (AM) | Ms Hanisah<br>Ms Farisah |nurasyiqin\_hanisah\_yusof@moe.edu.sg<br>nurfarisah\_muhammad\_rashid@moe.edu.sg | 
+| Joy (AM) | Ms Hanisah<br>Ms Farisah |nurasyiqin\_hanisah\_yusof@moe.edu.sg<br>nurfarisah\_muhammad\_rashid@moe.edu.sg |
+| Joy (PM) | Ms Hanisah | nurasyiqin\_hanisah\_yusof@moe.edu.sg |
+| 
 
 <b style="color:#038C7F;font-size:20px">Chinese Language Class Teachers</b><br>
 
