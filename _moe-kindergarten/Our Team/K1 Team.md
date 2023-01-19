@@ -34,7 +34,6 @@ Saga PM|Ms Itryna|tho\_en\_qi\_itryna@moe.edu.sg|
 
 <b style="color:#038C7F;font-size:20px">Tamil Language Class Teachers</b><br>
 
-| Name of Teacher | Email |
-| -------- | -------- |
-| Aasiriye Priya     | e\_sugidapriyaa@moe.edu.sg     |
-
+Class | Name of Teacher | Email |
+| -------- | -------- | -------- |
+துளசி (AM)<br>துளசி (PM)| <br>Aasiriye Priya     | <br>e\_sugidapriyaa@moe.edu.sg     |
