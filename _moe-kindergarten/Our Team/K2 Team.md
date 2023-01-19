@@ -20,9 +20,9 @@ third_nav_title: Our Team
 
 | Class | Name of Teacher | Email Address |
 | -------- | -------- | -------- |
-| 薰衣草班 (AM)<br>(Harmony AM & Joy AM) | 张老师 | zhang\_shangyu@moe.edu.sg |
-| 薰衣草班 (PM)<br>(All K1 PM) | 王老师 | wang\_ying\_b@moe.edu.sg |
-| 百合花班 (AM)<br>(Hope AM & Love AM) | 彭老师 | peng\_xia@moe.edu.sg |
+| 幸运草班 (AM)<br>(Angsana AM & Saga AM) | 任老师 | ren\_kexian@moe.edu.sg |
+| 百合花班 (AM)<br>(Tembusu AM & Casuarina AM) | 苏老师 | su\_huahui@moe.edu.sg |
+| 百合花班 (PM)<br>(All K2 PM) | 李老师 | li\_shuqin@moe.edu.sg |
 
 <b style="color:#038C7F;font-size:20px">Malay Language Class Teachers</b><br>
 
