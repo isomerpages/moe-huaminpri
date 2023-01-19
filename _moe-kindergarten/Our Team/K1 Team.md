@@ -28,7 +28,7 @@ third_nav_title: Our Team
 
 | Class | Name of Teacher | Email Address |
 | -------- | -------- | -------- |
-| Pandan (AM)<br>(Harmony AM & Joy AM)<br>Pandan (PM) (Joy PM)| <br><br>Cikgu Reena | <br><br>siti\_nurramreena\_ramli@moe.edu.sg |
+| Pandan (AM)<br>(Harmony AM & Joy AM)<br>Pandan (PM) (Joy PM)| <br>Cikgu Reena | <br>siti\_nurramreena\_ramli@moe.edu.sg |
 | Serai (AM) <br>(Hope AM & Love AM) | Cikgu Hilwa | hilwa\_mohamed\_sulaiman@moe.edu.sg |
 | Serai (PM)<br>(Hope PM & Love PM)| Cikgu Farhanah | nurul\_farhanah\_iskandar@moe.edu.sg |
 
