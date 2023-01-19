@@ -10,7 +10,10 @@ third_nav_title: Our Team
 | -------- | -------- | -------- | 
 | Angsana AM | Ms Hanah | noor\_farhanah\_mohamad\_majeed@moe.edu.sg |
 | Saga AM | Ms Itryna<br>Ms Mariah | tho\_en\_qi\_itryna@moe.edu.sg<br>mariah\_amanina\_mohammad\_amin@moe.edu.sg |
-| 
+| Saga PM | Ms Itryna | tho\_en\_qi\_itryna@moe.edu.sg |
+| Tembusu AM | Ms Boyang | han\_boyang@moe.edu.sg |
+| Tembusu PM | Ms Mariah | mariah\_amanina\_mohammad\_amin@moe.edu.sg |
+| Casuarina AM | Ms Sakinah<br>Ms Guganeshwari | nur\_sakinah\_akbar\_ali@moe.edu.sg<br>guganeshwari\_rangaswamy@moe.edu.sg | 
 
 <b style="color:#038C7F;font-size:20px">Chinese Language Class Teachers</b><br>
 
