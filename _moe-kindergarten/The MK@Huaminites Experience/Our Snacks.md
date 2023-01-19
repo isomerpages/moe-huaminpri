@@ -11,4 +11,4 @@ MOE Kindergarten serves snacks every day. The snacks, comprising a food item and
 Snacks are served mid-session, e.g. approximately between 9.30am - 10.30am or 2.30pm - 3.30pm depending on the timetable.
 
 ![](/images/our_snacks.png)
-![](/images/snack_menu.jpeg)
+![](/images/snack_menu2023.jpeg)
