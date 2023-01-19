@@ -28,9 +28,10 @@ Saga PM|Ms Itryna|tho\_en\_qi\_itryna@moe.edu.sg|
 
 | Class | Name of Teacher | Email Address |
 | -------- | -------- | -------- |
-| Dahlia (AM)<br>(Angsana AM & Casuarina AM)<br>Melati (PM)<br>(Casuarina PM)| <br><br><br><br>Cikgu Hilwa | <br><br><br><br>hilwa\_mohamed\_sulaiman@moe.edu.sg |
-| Mawar<br>(Tembusu AM & Saga AM)| Cikgu Reena | siti\_nurramreena\_ramli@moe.edu.sg | 
-| Cempaka (PM)<br>(Tembusu PM & Saga PM) | Cikgu Farhanah | nurul\_farhanah\_iskandar@moe.edu.sg |
+| Pandan (AM)<br>(Harmony AM & Joy AM)|<br>Cikgu Reena | <br><br>siti\_nurramreena\_ramli@moe.edu.sg |
+|Pandan (PM)<br>(Joy PM)|<br>Cikgu Reena |<br>siti\_nurramreena\_ramli@moe.edu.sg |
+| Serai (AM) <br>(Hope AM & Love AM) | <br>Cikgu Hilwa | <br>hilwa\_mohamed\_sulaiman@moe.edu.sg |
+| Serai (PM)
 
 <b style="color:#038C7F;font-size:20px">Tamil Language Class Teachers</b><br>
 
