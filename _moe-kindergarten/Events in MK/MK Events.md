@@ -4,7 +4,6 @@ permalink: /moe-kindergarten/events-in-mk/mk-events/
 description: ""
 third_nav_title: Events in MK
 ---
-
 <b style="font-size:24px;">2023 </b> Term 1<br>
 * 4 Jan. [First Day of School for K2s](https://www.facebook.com/huaminprimaryschool/posts/pfbid02PhBBHMMkGm3cyBHT3xvBqiqJshVsRA3Ffcgirk9CrFMDPk1RSwobSjM8npHZJEWKl)<br>
 * 3 Jan. [First Day of School for K1s](https://www.facebook.com/huaminprimaryschool/posts/pfbid033r6o41Z1pr9PaHf7xbqnVpLsPdux119T7HTCPMqfTZk7t5xrXPKwRpAXXYxbGMZGl)
@@ -32,6 +31,6 @@ third_nav_title: Events in MK
 
 <b style="font-size:24px;">2022 </b> Term 1<br>
 * 11 Mar. LIFE@MK (for K1)<br>
-* 18 Feb. [Total](https://www.facebook.com/huaminprimaryschool/posts/373946208064381) [Defence](https://www.facebook.com/huaminprimaryschool/posts/373946208064381) [Day](https://www.facebook.com/huaminprimaryschool/posts/373946208064381)<br>
+* 18 Feb. [Total Defence Day](https://www.facebook.com/huaminprimaryschool/posts/373946208064381)<br>
 * 31 Jan. [Chinese New Year Celebration](https://m.facebook.com/story.php?story_fbid=363013315824337&id=100063470141051)<br>
 * 4 Jan. [First Day of School](https://www.facebook.com/huaminprimaryschool/posts/347099677415701)
