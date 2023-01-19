@@ -30,7 +30,7 @@ third_nav_title: Our Team
 | -------- | -------- | -------- |
 | Dahlia (AM)<br>(Angsana AM & Saga AM) | <br>Cikgu Hilwa | <br>hilwa\_mohamed\_sulaiman@moe.edu.sg |
 | Dahlia (PM) <br>(Saga PM) | Cikgu Reena | siti\_nurramreena\_ramli@moe.edu.sg |
-| Mawar (AM)<br>(Tembusu AM & Casuarina AM)<br>Mawar (PM)<br>(Tembusu PM & Casuarina PM) | Cikgu Farhanah | nurul\_farhanah\_iskandar@moe.edu.sg |
+| Mawar (AM)<br>(Tembusu AM & Casuarina AM)<br>Mawar (PM)<br>(Tembusu PM & Casuarina PM) | <br>Cikgu Farhanah | <br>nurul\_farhanah\_iskandar@moe.edu.sg |
 
 <b style="color:#038C7F;font-size:20px">Tamil Language Class Teachers</b><br>
 
