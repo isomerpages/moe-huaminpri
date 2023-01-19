@@ -6,7 +6,7 @@ third_nav_title: Our Team
 ---
 ### **K1 Team**
 
-| Class | Form Teachers&#160;&#160;&#160;&#160;&#160;&#160; | Email Address
+| Class | Form Teachers | Email Address
 | -------- | -------- | -------- |
 | Harmony (AM) | Ms Jenna | jenna\_teh@moe.edu.sg |
 | Joy (AM) | Ms Hanisah<br>Ms Farisah |nurasyiqin\_hanisah\_yusof@moe.edu.sg<br>nurfarisah\_muhammad\_rashid@moe.edu.sg |
