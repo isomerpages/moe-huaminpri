@@ -6,14 +6,10 @@ third_nav_title: Our Team
 ---
 ### **K1 Team**
 
-| Class | Form Teachers | Email Address
+| Class | Form Teachers&#160;&#160;&#160;&#160;&#160;&#160; | Email Address
 | -------- | -------- | -------- |
-| Angsana AM     | Ms Hanah | noor\_farhanah\_mohamad\_majeed@moe.edu.sg|
-|Casuarina AM & PM| Ms Sakinah<br>Ms Guganeshwari|nur\_sakinah\_akbar\_ali@moe.edu.sg<br>guganeshwari\_rangaswamy@moe.edu.sg|
-|Tembusu AM|Ms Boyang|han\_boyang@moe.edu.sg|
-|Tembusu PM|Ms Mariah<br>Ms Boyang|mariah\_amanina\_mohammad\_amin@moe.edu.sg<br>han\_boyang@moe.edu.sg|
-|Saga AM|Ms Itryna<br>Ms Mariah|tho\_en\_qi\_itryna@moe.edu.sg<br>mariah\_amanina\_mohammad\_amin@moe.edu.sg|
-Saga PM|Ms Itryna|tho\_en\_qi\_itryna@moe.edu.sg|
+| Harmony (AM) | Ms Jenna | jenna\_teh@moe.edu.sg |
+| Joy (AM) | Ms Hanisah<br>Ms Farisah |nurasyiqin\_hanisah\_yusof@moe.edu.sg<br>nurfarisah\_muhammad\_rashid@moe.edu.sg | 
 
 <b style="color:#038C7F;font-size:20px">Chinese Language Class Teachers</b><br>
 
