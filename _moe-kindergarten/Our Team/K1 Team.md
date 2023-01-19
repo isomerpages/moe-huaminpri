@@ -26,12 +26,12 @@ Saga PM|Ms Itryna|tho\_en\_qi\_itryna@moe.edu.sg|
 
 <b style="color:#038C7F;font-size:20px">Malay Language Class Teachers</b><br>
 
-| Class | Name of Teacher | Email Address |
+| Class | Name of Teacher&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  | Email Address |
 | -------- | -------- | -------- |
-| Pandan (AM)<br>(Harmony AM & Joy AM)|<br>Cikgu Reena | <br><br>siti\_nurramreena\_ramli@moe.edu.sg |
+| Pandan (AM)<br>(Harmony AM & Joy AM)|<br><br>Cikgu Reena | <br><br>siti\_nurramreena\_ramli@moe.edu.sg |
 |Pandan (PM)<br>(Joy PM)|<br>Cikgu Reena |<br>siti\_nurramreena\_ramli@moe.edu.sg |
-| Serai (AM) <br>(Hope AM & Love AM) | <br>Cikgu Hilwa | <br>hilwa\_mohamed\_sulaiman@moe.edu.sg |
-| Serai (PM)
+| Serai (AM) <br>(Hope AM & Love AM) | <br><br>Cikgu Hilwa | <br><br>hilwa\_mohamed\_sulaiman@moe.edu.sg |
+| Serai (PM) <br>(Hope PM & Love PM)| <br>Cikgu Farhanah | <br><br>nurul\_farhanah\_iskandar@moe.edu.sg |
 
 <b style="color:#038C7F;font-size:20px">Tamil Language Class Teachers</b><br>
 
