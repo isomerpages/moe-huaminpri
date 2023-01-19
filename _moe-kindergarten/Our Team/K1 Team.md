@@ -13,7 +13,7 @@ third_nav_title: Our Team
 
 <b style="color:#038C7F;font-size:20px">Chinese Language Class Teachers</b><br>
 
-| Class | Name of Teacher&#160;&#160;&#160; | Email Address |
+| Class | Name of Teacher | Email Address |
 | -------- | -------- | -------- |
 | 薰衣草班 (AM)<br>(Harmony AM & Joy AM) | 张老师 | zhang\_shangyu@moe.edu.sg |
 | 薰衣草班 (PM)<br>(All K1 PM) | 王老师 | wang\_ying\_b@moe.edu.sg |
@@ -21,7 +21,7 @@ third_nav_title: Our Team
 
 <b style="color:#038C7F;font-size:20px">Malay Language Class Teachers</b><br>
 
-| Class | Name of Teacher&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  | Email Address |
+| Class | Name of Teacher | Email Address |
 | -------- | -------- | -------- |
 | Pandan (AM)<br>(Harmony AM & Joy AM)|Cikgu Reena | siti\_nurramreena\_ramli@moe.edu.sg |
 |Pandan (PM)<br>(Joy PM)|Cikgu Reena |siti\_nurramreena\_ramli@moe.edu.sg |
