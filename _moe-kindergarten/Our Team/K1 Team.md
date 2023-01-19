@@ -17,12 +17,10 @@ Saga PM|Ms Itryna|tho\_en\_qi\_itryna@moe.edu.sg|
 
 <b style="color:#038C7F;font-size:20px">Chinese Language Class Teachers</b><br>
 
-| Class | Name of Teacher | Email Address |
+| <p>Class</p> | <p style="padding-right:10px;">Name of Teacher</p> | <p>Email Address</p> |
 | -------- | -------- | -------- |
-| 幸运草班(AM)<br>(Angsana AM & Casuarina AM)     | 任老师     | ren\_kexian@moe.edu.sg     |
-| 薰衣草 (AM)<br>(Tembusu AM & Saga AM) | 王老师<br>苏老师 | wang\_ying\_b@moe.edu.sg<br>su\_huahui@moe.edu.sg|
-|幸运草班 (PM)<br>(Casuarina PM)| 苏老师 | su\_huahui@moe.edu.sg |
-薰衣草 (PM)<br>(Tembusu PM & Saga PM) | 王老师 | wang\_ying\_b@moe.edu.sg |
+| 薰衣草班 (AM)<br>(Harmony AM & Joy AM) | <br><br>张老师 | <br><br>zhang\_shangyu@moe.edu.sg |
+| 薰衣草班 (PM)<br>(All K1 PM) | <br><br>
 
 <b style="color:#038C7F;font-size:20px">Malay Language Class Teachers</b><br>
 
