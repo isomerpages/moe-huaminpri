@@ -32,4 +32,4 @@ third_nav_title: Our Team
 
 Class | Name of Teacher | Email |
 | -------- | -------- | -------- |
-துளசி (AM)<br>துளசி (PM)| Aasiriye Priya     | e\_sugidapriyaa@moe.edu.sg     |
+துளசி (AM)<br>துளசி (PM)| Aasiriye Priya | e\_sugidapriyaa@moe.edu.sg     |
