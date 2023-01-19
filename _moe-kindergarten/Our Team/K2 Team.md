@@ -14,7 +14,7 @@ third_nav_title: Our Team
 | Tembusu (AM) | Ms Boyang | han\_boyang@moe.edu.sg |
 | Tembusu (PM) | Ms Mariah | mariah\_amanina\_mohammad\_amin@moe.edu.sg |
 | Casuarina (AM) | Ms Sakinah<br>Ms Guganeshwari | nur\_sakinah\_akbar\_ali@moe.edu.sg<br>guganeshwari\_rangaswamy@moe.edu.sg | 
-| Casuarina (AM) | Ms Sakinah | nur\_sakinah\_akbar\_ali@moe.edu.sg | 
+| Casuarina (PM) | Ms Sakinah | nur\_sakinah\_akbar\_ali@moe.edu.sg | 
 
 <b style="color:#038C7F;font-size:20px">Chinese Language Class Teachers</b><br>
 
