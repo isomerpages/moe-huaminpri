@@ -20,11 +20,6 @@ From 1 Jul 2022, there are two appointed suppliers for MK uniform: [Beau Voix U
 <b style="color:#038C7F; font-size:22px;">Sale of uniform is available on/at:</b><br>
 1.Supplier’s website <br>
 2.Supplier’s retail store <br>
-3.On-site at MK@Huamin during Orientation for 2023 Intake on 11 Nov 2022 (once-off on-site sale).
-
-* Try-out of uniform is not allowed
-* Please check on the sizes beforehand
-* Exchange of sizes can be done with the respective supplier within 7 working days of purchase (terms & conditions apply)
 
 <b style="color:#038C7F; font-size:22px;">Hair</b><br>
 Your child's hair must be well-kept and tidy.
