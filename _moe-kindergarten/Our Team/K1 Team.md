@@ -8,9 +8,9 @@ third_nav_title: Our Team
 
 | Class | Form Teachers | Email Address
 | -------- | -------- | -------- |
-| Harmony (AM) | Ms Jenna | jenna\_teh@moe.edu.sg |
-| Joy (AM) | Ms Hanisah<br>Ms Farisah |nurasyiqin\_hanisah\_yusof@moe.edu.sg<br>nurfarisah\_muhammad\_rashid@moe.edu.sg |
-| Joy (PM) | Ms Hanisah | nurasyiqin\_hanisah\_yusof@moe.edu.sg |
+| Harmony AM | Ms Jenna | jenna\_teh@moe.edu.sg |
+| Joy AM | Ms Hanisah<br>Ms Farisah |nurasyiqin\_hanisah\_yusof@moe.edu.sg<br>nurfarisah\_muhammad\_rashid@moe.edu.sg |
+| Joy PM | Ms Hanisah | nurasyiqin\_hanisah\_yusof@moe.edu.sg |
 | Hope AM | Ms Hirah | nur\_dakhirah\_jamaludin@moe.edu.sg |
 | Hope PM | Ms Farisah | nurfarisah\_muhammad\_rashid@moe.edu.sg |
 | Love AM | Ms Amy | cheong\_fenghua@moe.edu.sg |
