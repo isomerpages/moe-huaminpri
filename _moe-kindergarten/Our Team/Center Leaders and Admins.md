@@ -4,7 +4,7 @@ permalink: /moe-kindergarten/Our-Team/center-leaders-and-admins/
 description: ""
 third_nav_title: Our Team
 ---
-### **Center Leaders and Admins**
+### **Centre Leaders and Admins**
 
 | Name of Staff | Email Address | 
 | -------- | -------- | 
