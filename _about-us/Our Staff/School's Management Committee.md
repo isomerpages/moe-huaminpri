@@ -36,5 +36,5 @@ Mr Chia Chong Seng | SH of PE/CCA | chia\_chong\_seng@schools.gov.sg |
 Mr Tham Kuan Yew, Albert | SH Discipline & Student Well-being | albert\_tham@schools.gov.sg |
 Mr Joshua Kum | SH Discipline & Student Leadership | kum\_han\_wen@schools.gov.sg |
 Ms Tan Hui Jun | Asst Year Head (Lower Primary Level) | tan\_hui\_jun@schools.gov.sg |
-Mrs Maya | Asst Year Head (Middle Primary Level | siti\_kamariah\_ismail@schools.gov.sg |
+Mrs Shaiful, Siti Kamariah Binti Ismail | Asst Year Head (Middle Primary Level | siti\_kamariah\_ismail@schools.gov.sg |
 Mrs Ng-Lai Xiao Xin | Asst Year Head (Upper Primary Level) | lai\_xiao\_xin@schools.gov.sg |
