@@ -36,3 +36,14 @@ In order to attain the full benefits from the value of homework, Huaminites shou
 *   Ensure that homework assignments are brought home to be completed and not left in school.
 *   Manage time well to ensure that homework is completed and submitted on time.
 *   Give his/her best effort in completing the homework.
+
+
+<b>6. What Parents/ Legal Guardians Should Do</b><br>
+Parents/ legal guardians can consider doing the following to support their child/ward in their learning:
+
+*   Check the Student Handbook daily to view the homework assignment for the day.
+*   Provide a home environment conducive for studying and completion of homework.
+*   Supervise and provide support for your child’s/ward’s learning.
+*   Reinforce good study habits and attitudes.
+*   Work in partnership with teachers to support your child’s/ward’s learning and development.
+*   Remind and ensure your child/ward completes school homework first before other things.
