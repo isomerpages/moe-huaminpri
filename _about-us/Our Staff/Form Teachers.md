@@ -29,7 +29,7 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad
 | Excellence | Miss Vivian Teo Li Yu<br>Miss Kanmani D/O Mariyappan | vivian\_teo\_li\_yu@schools.gov.sg<br>kanmani\_mariyappan@schools.gov.sg |
 | Sincerity | Ms Latifah Bte Mohamed Yazid<br>Mr Shafie Bin Hussein | latifah\_mohamed\_yazid@schools.gov.sg<br>shafie\_hussein@schools.gov.sg |
 | Trust | Ms Tay May May, Junity<br>Mr Bernard, Ng Kok Hui | tay\_may\_may@schools.gov.sg<br>ng\_kok\_hui@schools.gov.sg |
-| Majestic | Miss Hemalarsvini<br>Mrs Yeo Beng Neo, Catherine<br>Miss Low Lay Choo | hemalarsvini@schools.gov.sg<br>catherine\_yeo\_beng\_neo@schools.gov.sg |
+| Majestic | Miss Hemalarsvini<br>Mrs Yeo Beng Neo, Catherine<br>Miss Low Lay Choo | hemalarsvini@schools.gov.sg<br>catherine\_yeo\_beng\_neo@schools.gov.sg<br>low\_lay\_choo@schools.gov.sg |
 | Innovation | Mrs Liang, Tan Lin Jun Sharon<br>Mdm Goh Meow Sim | tan\_lin\_jun\_sharon@schools.gov.sg<br>goh\_meow\_sim@schools.gov.sg |
 
 ### **Form Teachers of Primary 3**
@@ -75,6 +75,6 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad
 | Respect | Ms Ong Pei Ling<br>Mdm Liu Weijie | ong\_pei\_ling@schools.gov.sg<br>liu\_weijie@schools.gov.sg |
 | Intergrity | Ms Katherine Lim<br>Ms Eunice Grace Chan<br>Mdm Mislimah Binte Misti | lim\_poh\_ling\_katherine@schools.gov.sg<br>chan\_eunice\_grace@schools.gov.sg<br>mislimah\_misti@schools.gov.sg |
 | Courage | Mr Ong Qian Wei<br>Mrs Ng-Lai Xiao Xin<br>Mr Yap Heng Yeow | ong\_qian\_wei@schools.gov.sg<br>lai\_xiao\_xin@schools.gov.sg<br>yap\_heng\_yeow@schools.gov.sg |
-| Harmony | Mr John Chia<br>Miss Woon Hui Ting<br>Mr David Lim | chia\_wei\_min@schools.gov.sg<br>woon\_hui\_ting@schools.gov.sg |
+| Harmony | Mr John Chia<br>Miss Woon Hui Ting<br>Mr David Lim | chia\_wei\_min@schools.gov.sg<br>woon\_hui\_ting@schools.gov.sg<br>david\_lim\_kok\_san@schools.gov.sg |
 | Excellence | Mdm Siti Rafeah Kasbi<br>Mr Alex Ng | siti\_rafeah\_kasbi@schools.gov.sg<br>ng\_zhiqiang\_alex@schools.gov.sg |
 | Sincerity | Mr Shaik Muzzafar Shaik<br>Ms Pramageetha Velmurugan | shaikh\_muzaffar\_shaikh@schools.gov.sg<br>pramageetha\_Velmurugan@schools.gov.sg |
