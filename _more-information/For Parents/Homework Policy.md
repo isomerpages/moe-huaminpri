@@ -24,3 +24,15 @@ The school is mindful about students’ overall well-being. We want to ensure t
 Teachers will work with students to find out the reasons for any non-submission and/or non- completion of homework. If need be, teachers would contact the parent/ legal guardian to inform and seek support. Please take note that non-submission of homework for recalcitrants may constitute a minor offence.
 
 If the child/ward is medically excused from school for an extended length of time, arrangements will be made on how the child/ward can be supported with homework and other areas of academic needs.
+
+<b>5. What Huaminites Should Do</b><br>
+In order to attain the full benefits from the value of homework, Huaminites should do the following on a daily basis:
+
+*   Refer to the homework whiteboard in the classroom for homework assignments.
+*   Record the homework assignments in the Student Handbook with the estimated completion time written.
+
+*   Seek clarification on the given homework before going back home.
+
+*   Ensure that homework assignments are brought home to be completed and not left in school.
+*   Manage time well to ensure that homework is completed and submitted on time.
+*   Give his/her best effort in completing the homework.
