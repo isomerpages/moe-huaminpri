@@ -17,3 +17,5 @@ third_nav_title: Our Staff
 |**Mr Xavier Seah Zheng Wei**<br><b><i style="color:#016C62;font-size:14px;">ICT Assistant</i></b>|Xavier@huamin.edu.sg|
 |**Ms Chua Li Wen**<br><b><i style="color:#016C62;font-size:14px;">ICT Support Engineer</i></b>|Chua_Li_Wen@huamin.edu.sg|
 |**Ms Tee Jing Wen**<br><b><i style="color:#016C62;font-size:14px;">ICT Support Engineer</i></b>| Tee_Jing_Wen@huamin.edu.sg|
+|**Mr Brandon Koh**<br><b><i style="color:#016C62;font-size:14px;">ICT Executive</i></b>|Brandon@huamin.edu.sg|
+|**Jad Jufri**<br><b><i style="color:#016C62;font-size:14px;">ICT Executive</i></b>|jad@huamin.edu.sg|
