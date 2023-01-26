@@ -47,3 +47,5 @@ Parents/ legal guardians can consider doing the following to support their child
 *   Reinforce good study habits and attitudes.
 *   Work in partnership with teachers to support your child’s/ward’s learning and development.
 *   Remind and ensure your child/ward completes school homework first before other things.
+
+**We seek the understanding, support and collaboration of parents/ legal guardians as our partners- in-education to ensure that homework is seen as an important component in the teaching and learning process.**
