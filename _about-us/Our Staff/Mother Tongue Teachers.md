@@ -24,7 +24,7 @@ Email: tu\_meng-chi@schools.gov.sg<br>
 |Ms Woon Hui Ting | woon_hui_ting@schools.gov.sg |
 |Miss Lim Yee Chin, Chelsea | lim_yee_chin_a@schools.gov.sg |
 |Mrs Iris Tan | iris_lim_shi_hui@schools.gov.sg |
-|Miss Wong Zi’en | Wong\_Zien@schools.gov.sg | 
+|Miss Wong Zi’en | Wong_Zien@schools.gov.sg | 
 
 <b style="color:#016C62; font-size:26px;">Malay Language </b><br>
 **Mdm Kasimah Kassim**<br>
@@ -34,12 +34,13 @@ Email: kasimah\_kassim@schools.gov.sg<br>
 
 |Members of the Department |  Email Address |
 | -------- | -------- | 
-|Mdm Sanisah Rahim (Senior Teacher)| sanisah\_rahim@schools.gov.sg |
-|Mdm Hamidah Hamid| hamidah\_hamid@schools.gov.sg |
-|Mdm Siti Nur Aishah Suparjo| siti\_nur\_aishah\_suparjo@schools.gov.sg |
-|Mdm Helmeleya Mohd Jamil| helmeleya\_a@schools.gov.sg | 
-|Mr Shafie Hussein| Shafie\_Hussein@schools.gov.sg |
-|Mdm Yulleana Jamal| Yulleana\_Jamal@schools.gov.sg |
+|Mdm Sanisah Rahim (Senior Teacher)| sanisah_rahim@schools.gov.sg |
+|Mdm Hamidah Hamid| hamidah_hamid@schools.gov.sg |
+|Mdm Siti Nur Aishah Suparjo| siti_nur_aishah_suparjo@schools.gov.sg |
+|Mdm Helmeleya Mohd Jamil| helmeleya_a@schools.gov.sg | 
+|Mr Shafie Hussein| Shafie_Hussein@schools.gov.sg |
+|Mdm Yulleana Jamal| Yulleana_Jamal@schools.gov.sg |
+|Mdm Hanisah Binte Sarip| Hanisah_sarip@schools.gov.sg|
 
 
 <b style="color:#016C62; font-size:26px;">Tamil Language </b><br>
