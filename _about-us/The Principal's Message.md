@@ -11,7 +11,8 @@ Education is a lifelong journey. Our vision is to develop every Huaminite to bec
 <br>
 To achieve this vision and prepare them to be future-ready, it takes a community of stakeholders with shared goals and values to help our Huaminities grow and glow. As partners-in-education, your strong partnership based on mutual understanding, respect, and trust will help Huaminities realize the school's motto, "Aspire to Excel"!
 <br>
-Sincerely yours,<br>
+<br>
+**Sincerely yours,<br>
 Mdm Loe Lai Pink
 <br>
-Principal
+Principal**
