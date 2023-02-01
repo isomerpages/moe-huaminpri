@@ -50,5 +50,4 @@ Certificates are awarded to commend students of various values and habits achiev
 | Goh Wen Xuan | 6 Excellence | Certificate of Participation |
 
 <br><b style="color:#016C62; font-size:20px; line-height: 3;">List of Approved Calculators</b><br>
-Please see the link 
 [https://www.seab.gov.sg/home/examinations/approved-calculators](https://www.seab.gov.sg/home/examinations/approved-calculators)
