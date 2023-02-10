@@ -14,3 +14,6 @@ The Letters are arranged according to serial numbers issued by the Admin Centre.
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">Newsletter</b><br>
 [HMPS - Term 1 (2023) School Newsletter](/files/HMPS%20Term%201%202023%20School%20Newsletter.pdf)
+
+### **Info Day Related**
+1. [Primary 4 Info Day 3 Feb 2023](/files/P4%20Info%20Day%202023_3%20Feb%202023.pdf)
