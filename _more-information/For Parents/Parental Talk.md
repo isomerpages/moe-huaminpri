@@ -10,7 +10,7 @@ third_nav_title: For Parents
 English Curriculum Briefing <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LKTp3C1-SsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </br>
 Mother Tongue Curriculum Briefing <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CacjRMxucdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></b>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CacjRMxucdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></br>
 
 Science Curriculum Briefing <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pvQBV2WjOf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </br>
