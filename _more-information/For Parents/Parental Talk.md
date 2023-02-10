@@ -6,6 +6,10 @@ third_nav_title: For Parents
 ---
 ### **Parental Talk**
 
+
+<b style="color:#016C62; font-size:20px; line-height: 3;">P4 Info Day  3 Feb 2023</b><br>
+1. [Primary 4 Main Slides Info Day 3 Feb 2023](/files/P4%20Info%20Day%202023_3%20Feb%202023.pdf)
+
 <b style="color:#016C62; font-size:20px; line-height: 3;">Parent Kit - Starting School Right</b><br>
 [Parent Kit - Starting School Right](/files/Parent%20Kit%20-%20Starting%20School%20Right%20Jan%202020.pdf)
 
