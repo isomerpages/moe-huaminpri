@@ -2,7 +2,6 @@ collections:
   more-information:
     output: true
     order:
-      - For Parents/Level Information.md
       - For Parents/Useful Tips for Parents.md
       - For Parents/.keep
       - For Parents/Covid19 Related Matters by MOE.md
