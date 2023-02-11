@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Primary Education/Primary 6 (2023).md
       - Primary Education/.keep
       - Instructional Programme/.keep
       - Instructional Programme/English Language.md
