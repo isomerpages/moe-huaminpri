@@ -72,7 +72,7 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad
 
 | Class Name | Name of Teachers | Email Address |
 | -------- | -------- | -------- |
-| Respect | Ms Ong Pei Ling<br>Mdm Liu Weijie | ong\_pei\_ling@schools.gov.sg<br>liu\_weijie@schools.gov.sg |
+| Respect | Ms Ong Pei Ling<br>Mdm Liu Weijie | ong\_pei\_ling@schools.gov.sg<br>liu_weijie@schools.gov.sg |Mrs Mumtaj Menon-Ibrahim | mumtaj_mohamed_ibrahim@schools.gov.sg
 | Intergrity | Ms Katherine Lim<br>Ms Eunice Grace Chan<br>Mdm Mislimah Binte Misti | lim\_poh\_ling\_katherine@schools.gov.sg<br>chan\_eunice\_grace@schools.gov.sg<br>mislimah\_misti@schools.gov.sg |
 | Courage | Mr Ong Qian Wei<br>Mrs Ng-Lai Xiao Xin<br>Mr Yap Heng Yeow | ong\_qian\_wei@schools.gov.sg<br>lai\_xiao\_xin@schools.gov.sg<br>yap\_heng\_yeow@schools.gov.sg |
 | Harmony | Mr John Chia<br>Miss Woon Hui Ting<br>Mr David Lim | chia\_wei\_min@schools.gov.sg<br>woon\_hui\_ting@schools.gov.sg<br>david\_lim\_kok\_san@schools.gov.sg |
