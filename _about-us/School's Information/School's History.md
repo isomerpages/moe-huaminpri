@@ -4,7 +4,7 @@ permalink: /about-us/Schools-Information/schools-history/
 description: ""
 third_nav_title: School's Information
 ---
-The original government-aided Hua Mien School, established in 1945, was situated at 226, Jalan Ulu Sembawang. The old School closed after 41 years of existence in 1986 to make way for future development. Classes were first held in the premises at Northland Primary School in 1988 while waiting for the new school building to be ready.
+The original government-aided Hua Mien School, established in 1945, was situated at 226, Jalan Ulu Sembawang. The old School relocated to the premises of Northland Primary School in 1988 while waiting for the new school building to be ready.
 
 After 3 years of waiting, Hua Mien School finally reopened its doors in Yishun New Town under the new name - Huamin Primary School in 1989. Huamin Primary School was officially opened on 22 November 1991 by MP for Sembawang GRC, A/P Ho Peng Kee.
 
