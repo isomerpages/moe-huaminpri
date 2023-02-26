@@ -4,6 +4,8 @@ permalink: /more-information/For-Parents/p32023/
 description: ""
 third_nav_title: For Parents
 ---
+<b style="color:#016C62; font-size:20px; line-height: 3;">P3 Classroom Experience Feb 2023</b><br>
+
 <b style="color:#016C62; font-size:20px; line-height: 3;">P3 Curriculum Briefing Feb 2023</b><br>
 English Curriculum Briefing <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LKTp3C1-SsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
