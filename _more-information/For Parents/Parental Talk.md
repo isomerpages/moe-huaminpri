@@ -5,35 +5,6 @@ description: ""
 third_nav_title: For Parents
 ---
 ### **Materials for Parents**
-<b style="color:#016C62; font-size:20px; line-height: 3;">P3 Curriculum Briefing Feb 2023</b><br>
-English Curriculum Briefing <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LKTp3C1-SsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Mother Tongue Curriculum Briefing <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CacjRMxucdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-Science Curriculum Briefing <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pvQBV2WjOf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-
-Math Curriculum Briefing <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G_l4OQ5tUAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<b style="color:#016C62; font-size:20px; line-height: 3;">P4 Info Day  3 Feb 2023</b><br>
-1. [Primary 4 Main Slides Info Day 3 Feb 2023](/files/P4%20Info%20Day%202023_3%20Feb%202023.pdf)
-2. [4 Respect Classroom Talk Feb 2023](/files/4R%20FT%20Slides%202023.pdf)
-3. [4 Integrity Classroom Talk Feb 2023](/files/4I%20FT%20Slides%202023.pdf)
-4. [4 Courage Classroom Talk Feb 2023](/files/4C%20FT%20Slides%202023.pdf)
-5. [4 Harmony Classroom Talk Feb 2023](/files/4H%20FT%20Slides%202023.pdf)
-6. [4 Excellence Classroom Talk Feb 2023](/files/4E%20FT%20Slides%202023.pdf)
-7. [4 Sincerity Classroom Talk Feb 2023](/files/4S%20FT%20Slides%202023.pdf)
-
-<b style="color:#016C62; font-size:20px; line-height: 3;">P6 Curriculum Briefing Feb 2023</b><br>
-1. [Primary 6 Info Day - School Hall Main Slides](/files/P6%20Info%20Day%202023_PG&SchWebsite.pdf)
-2. [6 Respect Info Day - Classroom Slides](/files/6R%20FT%20Slides%202023_Website.pdf)
-3. [6 Integrity Info Day - Classroom Slides](/files/6I%20FT%20Slides%202023_Website.pdf)
-4. [6 Courage Info Day - Classroom Slides](/files/6C%20FT%20Slides%202023_Website.pdf)
-5. [6 Harmony Info Day - Classroom Slides](/files/6H%20FT%20Slides%202023_Website.pdf)
-6. [6 Excellence Info Day - Classroom Slides](/files/6E%20FT%20Slides%202023_Website.pdf)
-7. [6 SIncerity Info Day - Classroom Slides](/files/6S%20FT%20Slides%202023_Website.pdf)
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">Parent Kit - Starting School Right</b><br>
 [Parent Kit - Starting School Right](/files/Parent%20Kit%20-%20Starting%20School%20Right%20Jan%202020.pdf)
