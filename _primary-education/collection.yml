@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Additional Support Programmes/.keep
+      - Co Curricular Activities/Sports CCA.md
       - Co Curricular Activities/Overview.md
       - Co Curricular Activities/.keep
       - Curriculum Subjects/Tamil Language.md
