@@ -2,11 +2,11 @@ collections:
   more-information:
     output: true
     order:
-      - For Parents/Primary 2 2023.md
+      - For Parents/.keep
       - For Parents/Primary 1 2023.md
+      - For Parents/Primary 2 2023.md
       - For Parents/ELearning Timetable 2023.md
       - For Parents/Useful Tips for Parents.md
-      - For Parents/.keep
       - For Parents/Covid19 Related Matters by MOE.md
       - For Parents/Downloadable Forms.md
       - For Parents/Parental Talk.md
