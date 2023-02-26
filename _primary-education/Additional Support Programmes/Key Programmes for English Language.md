@@ -1,9 +1,10 @@
 ---
 title: Key Programmes for English Language
-permalink: /our-curriculum/Instructional-Programme/english-language-key-programmes/
+permalink: /our-curriculum/KPEL/
 description: ""
 third_nav_title: Additional Support Programmes
 ---
+
 
 
 

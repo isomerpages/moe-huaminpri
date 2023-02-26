@@ -1,9 +1,10 @@
 ---
 title: Primary 5 2023
-permalink: /more-information/For-Parents/p52023/
+permalink: /2023p5/
 description: ""
 third_nav_title: Info Day
 ---
+
 
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">P5 Curriculum Briefing Feb 2023</b><br>

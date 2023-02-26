@@ -1,9 +1,10 @@
 ---
 title: Malay Language
-permalink: /our-curriculum/Instructional-Programme/malay-language/
+permalink: /our-curriculum/ML/
 description: ""
 third_nav_title: Our Curriculum
 ---
+
 
 
 ### **Malay Language**

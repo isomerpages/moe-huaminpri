@@ -1,9 +1,10 @@
 ---
 title: Aesthetics
-permalink: /our-curriculum/Instructional-Programme/aesthetics/
+permalink: /our-curriculum/Aes/
 description: ""
 third_nav_title: Our Curriculum
 ---
+
 
 
 ### **Aesthetics**

@@ -1,9 +1,10 @@
 ---
 title: Mathematics
-permalink: /our-curriculum/Instructional-Programme/mathematics/
+permalink: /our-curriculum/Math/
 description: ""
 third_nav_title: Our Curriculum
 ---
+
 
 
 ### **Mathematics**

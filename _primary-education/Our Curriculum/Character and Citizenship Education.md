@@ -1,9 +1,10 @@
 ---
 title: Character and Citizenship Education
-permalink: /our-curriculum/Instructional-Programme/character-citizenship-education/
+permalink: /our-curriculum/CCE/
 description: ""
 third_nav_title: Our Curriculum
 ---
+
 
 
 ### **Character and Citizenship Education**

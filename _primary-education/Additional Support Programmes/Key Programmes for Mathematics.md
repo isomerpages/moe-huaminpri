@@ -1,9 +1,10 @@
 ---
 title: Key Programmes for Mathematics
-permalink: /our-curriculum/Instructional-Programme/key-programmes-for-maths/
+permalink: /our-curriculum/KPM/
 description: ""
 third_nav_title: Additional Support Programmes
 ---
+
 
 
 

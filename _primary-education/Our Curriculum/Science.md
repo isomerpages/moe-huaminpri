@@ -1,9 +1,10 @@
 ---
 title: Science
-permalink: /our-curriculum/Instructional-Programme/science/
+permalink: /our-curriculum/Sci/
 description: ""
 third_nav_title: Our Curriculum
 ---
+
 
 
 ### **Science**

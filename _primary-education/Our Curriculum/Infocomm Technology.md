@@ -1,9 +1,10 @@
 ---
 title: Infocomm Technology
-permalink: /our-curriculum/Instructional-Programme/infocomm-technology/
+permalink: /our-curriculum/ICT/
 description: ""
 third_nav_title: Our Curriculum
 ---
+
 
 
 ### **Infocomm Technology**

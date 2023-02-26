@@ -1,9 +1,10 @@
 ---
 title: Primary 3 2023
-permalink: /more-information/For-Parents/p32023/
+permalink: /2023p3/
 description: ""
 third_nav_title: Info Day
 ---
+
 
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">P3 Classroom Experience Feb 2023</b><br>

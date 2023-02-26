@@ -1,9 +1,10 @@
 ---
 title: Chinese Language
-permalink: /our-curriculum/Instructional-Programme/chinese-language/
+permalink: /our-curriculum/CL/
 description: ""
 third_nav_title: Our Curriculum
 ---
+
 
 
 

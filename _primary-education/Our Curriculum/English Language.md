@@ -1,9 +1,10 @@
 ---
 title: English Language
-permalink: /our-curriculum/Instructional-Programme/english-language/
+permalink: /our-curriculum/EL/
 description: ""
 third_nav_title: Our Curriculum
 ---
+
 
 
 ### **English Language**

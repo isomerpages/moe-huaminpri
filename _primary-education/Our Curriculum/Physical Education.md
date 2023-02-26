@@ -1,9 +1,10 @@
 ---
 title: Physical Education
-permalink: /our-curriculum/Instructional-Programme/physical-education/
+permalink: /our-curriculum/PE/
 description: ""
 third_nav_title: Our Curriculum
 ---
+
 
 
 ### **Physical Education**

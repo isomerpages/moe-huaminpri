@@ -1,9 +1,10 @@
 ---
 title: Tamil Language
-permalink: /our-curriculum/Instructional-Programme/tamil-language/
+permalink: /our-curriculum/TL/
 description: ""
 third_nav_title: Our Curriculum
 ---
+
 
 
 ### **Tamil Language**

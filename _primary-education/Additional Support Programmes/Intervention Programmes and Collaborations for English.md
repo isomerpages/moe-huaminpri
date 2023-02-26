@@ -1,9 +1,10 @@
 ---
 title: Intervention Programmes and Collaborations for English
-permalink: /our-curriculum/Instructional-Programme/intervention-programmes-collab-english/
+permalink: /our-curriculum/IPCE/
 description: ""
 third_nav_title: Additional Support Programmes
 ---
+
 
 
 
