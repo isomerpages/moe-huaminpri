@@ -1,0 +1,4 @@
+collections:
+  info-day:
+    output: true
+    order: []
