@@ -6,15 +6,6 @@ third_nav_title: For Parents
 ---
 ### **Materials for Parents**
 
-<b style="color:#016C62; font-size:20px; line-height: 3;">P4 Info Day  3 Feb 2023</b><br>
-1. [Primary 4 Main Slides Info Day 3 Feb 2023](/files/P4%20Info%20Day%202023_3%20Feb%202023.pdf)
-2. [4 Respect Classroom Talk Feb 2023](/files/4R%20FT%20Slides%202023.pdf)
-3. [4 Integrity Classroom Talk Feb 2023](/files/4I%20FT%20Slides%202023.pdf)
-4. [4 Courage Classroom Talk Feb 2023](/files/4C%20FT%20Slides%202023.pdf)
-5. [4 Harmony Classroom Talk Feb 2023](/files/4H%20FT%20Slides%202023.pdf)
-6. [4 Excellence Classroom Talk Feb 2023](/files/4E%20FT%20Slides%202023.pdf)
-7. [4 Sincerity Classroom Talk Feb 2023](/files/4S%20FT%20Slides%202023.pdf)
-
 <b style="color:#016C62; font-size:20px; line-height: 3;">P6 Curriculum Briefing Feb 2023</b><br>
 1. [Primary 6 Info Day - School Hall Main Slides](/files/P6%20Info%20Day%202023_PG&SchWebsite.pdf)
 2. [6 Respect Info Day - Classroom Slides](/files/6R%20FT%20Slides%202023_Website.pdf)
