@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Additional Support Programmes/.keep
+      - Co Curricular Activities/CCA Achievements.md
       - Co Curricular Activities/Club, Societies and Uniform Groups.md
       - Co Curricular Activities/Performing Arts.md
       - Co Curricular Activities/Sports CCA.md
