@@ -3,16 +3,16 @@ collections:
     output: true
     order:
       - Our Curriculum/.keep
-      - Our Curriculum/Tamil Language.md
-      - Our Curriculum/Malay Language.md
+      - Our Curriculum/English Language.md
+      - Our Curriculum/Mathematics.md
+      - Our Curriculum/Science.md
       - Our Curriculum/Chinese Language.md
-      - Our Curriculum/Infocomm Technology.md
-      - Our Curriculum/Physical Education.md
+      - Our Curriculum/Malay Language.md
+      - Our Curriculum/Tamil Language.md
       - Our Curriculum/Aesthetics.md
       - Our Curriculum/Character and Citizenship Education.md
-      - Our Curriculum/Science.md
-      - Our Curriculum/Mathematics.md
-      - Our Curriculum/English Language.md
+      - Our Curriculum/Physical Education.md
+      - Our Curriculum/Infocomm Technology.md
       - Info Day/.keep
       - Info Day/Primary 1 2023.md
       - Info Day/Primary 2 2023.md
