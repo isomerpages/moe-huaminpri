@@ -1,7 +1,0 @@
-collections:
-  our-curriculum:
-    output: true
-    order:
-      - School Curriculum Programmes/.keep
-      - Instructional Programme/.keep
-      - Co Curricular Activities/.keep
