@@ -1,5 +1,5 @@
 collections:
-  info-day:
+  primary-education:
     output: true
     order:
       - Primary 6 2023.md
