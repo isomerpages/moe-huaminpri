@@ -1,0 +1,35 @@
+collections:
+  primary-education:
+    output: true
+    order:
+      - Our Curriculum/.keep
+      - Our Curriculum/English Language.md
+      - Our Curriculum/Mathematics.md
+      - Our Curriculum/Science.md
+      - Our Curriculum/Chinese Language.md
+      - Our Curriculum/Malay Language.md
+      - Our Curriculum/Tamil Language.md
+      - Our Curriculum/Aesthetics.md
+      - Our Curriculum/Character and Citizenship Education.md
+      - Our Curriculum/Physical Education.md
+      - Our Curriculum/Infocomm Technology.md
+      - Info Day/.keep
+      - Info Day/Primary 1 2023.md
+      - Info Day/Primary 2 2023.md
+      - Info Day/Primary 3 2023.md
+      - Info Day/Primary 4 2023.md
+      - Info Day/Primary 5 2023.md
+      - Info Day/Primary 6 2023.md
+      - Additional Support Programmes/.keep
+      - Additional Support Programmes/Intervention Programmes and Collaborations
+        for English.md
+      - Additional Support Programmes/Key Programmes for English Language.md
+      - Additional Support Programmes/Key Programmes for Mathematics.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/CCA Timetable for 2023.md
+      - Co Curricular Activities/Overview.md
+      - Co Curricular Activities/CCA Achievements.md
+      - Co Curricular Activities/Club, Societies and Uniform Groups.md
+      - Co Curricular Activities/Performing Arts.md
+      - Co Curricular Activities/Sports CCA.md
+      - EBooks.md
