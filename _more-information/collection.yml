@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/Primary 1 2023.md
       - For Parents/Primary 2 2023.md
       - For Parents/Primary 3 2023.md
       - For Parents/Primary 4 2023.md
