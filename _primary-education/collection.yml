@@ -2,10 +2,10 @@ collections:
   primary-education:
     output: true
     order:
-      - Info Day/Primary 6 2023.md
-      - Info Day/Primary 5 2023.md
-      - Info Day/Primary 4 2023.md
-      - Info Day/Primary 3 2023.md
-      - Info Day/Primary 2 2023.md
-      - Info Day/Primary 1 2023.md
       - Info Day/.keep
+      - Info Day/Primary 1 2023.md
+      - Info Day/Primary 2 2023.md
+      - Info Day/Primary 3 2023.md
+      - Info Day/Primary 4 2023.md
+      - Info Day/Primary 5 2023.md
+      - Info Day/Primary 6 2023.md
