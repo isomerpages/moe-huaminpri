@@ -2,6 +2,7 @@ collections:
   primary-education:
     output: true
     order:
+      - EBooks.md
       - Our Curriculum/.keep
       - Our Curriculum/Tamil Language.md
       - Our Curriculum/Malay Language.md
