@@ -15,15 +15,21 @@ links:
         url: /about-us/Learning-for-Life-Programme/school-learning-for-life/
       - title: Open House 2023
         url: /about-us/open-house-2023/
-  - title: Our Curriculum
-    url: /our-curriculum/Instructional-Programme/english-language/
+  - title: Primary Education
+    collection: primary-education
+  - title: MK@Huamin
+    url: /moe-kindergarten/whats-on/
     sublinks:
-      - title: Our Instructional Programme
-        url: /our-curriculum/Instructional-Programme/english-language/
-      - title: Co-Curricular Activities
-        url: /our-curriculum/Co-Curricular-Activities/overview/
-      - title: E-Books
-        url: /our-curriculum/e-books/
+      - title: What's On
+        url: /moe-kindergarten/whats-on/
+      - title: About Us
+        url: /moe-kindergarten/About-Us/our-vision-and-mission/
+      - title: Our Team
+        url: /moe-kindergarten/About-Us/Our-Team/our-team/
+      - title: The MK@Huaminites Experience
+        url: /moe-kindergarten/The-MK-Huaminites-Experience/the-mk-experience/
+      - title: MK Events
+        url: /moe-kindergarten/events-in-mk/mk-events/
   - title: Successes
     url: /success/2021
     sublinks:
@@ -48,16 +54,3 @@ links:
         url: /more-information/contact-us/
       - title: Safe Management Measures
         url: /more-information/safe-management-measures
-  - title: MK@Huamin
-    url: /moe-kindergarten/whats-on/
-    sublinks:
-      - title: What's On
-        url: /moe-kindergarten/whats-on/
-      - title: About Us
-        url: /moe-kindergarten/About-Us/our-vision-and-mission/
-      - title: Our Team
-        url: /moe-kindergarten/About-Us/Our-Team/our-team/
-      - title: The MK@Huaminites Experience
-        url: /moe-kindergarten/The-MK-Huaminites-Experience/the-mk-experience/
-      - title: MK Events
-        url: /moe-kindergarten/events-in-mk/mk-events/
