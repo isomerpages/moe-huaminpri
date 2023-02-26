@@ -2,5 +2,6 @@ collections:
   info-day:
     output: true
     order:
+      - Primary 3 2023.md
       - Primary 2 2023.md
       - Primary 1 2023.md
