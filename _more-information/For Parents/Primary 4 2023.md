@@ -9,4 +9,8 @@ third_nav_title: For Parents
 
 **Respective Classroom Slides** <br>
 [4 Respect Classroom Slides](/files/4%20Respect%20FT%20Slides%20V2.pdf)<br>
-
+[4 Integrity Classroom Slides](/files/4%20Integrity%20FT%20Slides%20V2.pdf) <br>
+[4 Courage Classroom Slides](/files/4%20Courage%20FT%20Slides%20V2.pdf) <br>
+[4 harmony Classroom Slides](/files/4%20Harmony%20FT%20Slides.pdf) <br>
+[4 Excellence Classroom Slides](/files/4%20Excellence%20FT%20Slides%20V2.pdf) <br>
+[4 Sincerity Classroom Slides](/files/4%20Sincerity%20FT%20Slides%20V2.pdf)
