@@ -38,7 +38,7 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad
 | -------- | -------- | -------- |
 | Respect | Miss Khoo Xin Hui Myra<br>Mr Tham Kuan Yew, Albert | khoo\_xin\_hui\_myra@schools.gov.sg<br>albert\_tham@schools.gov.sg |
 | Integrity | Mdm Suan Poh Leng, Pearlyn<br>Mdm Yulleana binte Jamal | suan\_poh\_leng\_Pearlyn@schools.gov.sg<br>yulleana\_jamal@schools.gov.sg |
-| Courage | Mr Leow Wei Yuan<br>Miss Rachel Chua Su-Ann<br>Mdm Ding Hui | leow\_wei\_yuan@schools.gov.sg<br>rachel_chua_su-ann@schools.gov.sg <br> Ding_hui_A@schools.gov.sg|
+| Courage | Mr Leow Wei Yuan<br>Miss Rachel Chua Su-Ann<br>Mdm Ding Hui | leow\_wei\_yuan@schools.gov.sg<br>rachel_chua_suann@schools.gov.sg <br> Ding_hui_A@schools.gov.sg|
 | Harmony | Miss Ong Xin Hong<br>Mdm Lilian Ng Yue Yuen | ong\_xin\_hong@schools.gov.sg<br>lilian\_ng\_yue\_yuen@schools.gov.sg |
 | Excellence | Miss Du Yiling<br>Mr Bernard Sew Chun Wah | du\_yiling@schools.gov.sg<br>bernard\_sew\_chun\_wah@schools.gov.sg |
 | Sincerity | Mr Chong Swee Phan<br>Mrs Junesh, Menachi Shanmugan | chong\_swee\_phan@schools.gov.sg<br>menachi\_shanmugan@schools.gov.sg |
