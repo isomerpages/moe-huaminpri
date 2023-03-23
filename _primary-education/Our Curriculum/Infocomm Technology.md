@@ -4,9 +4,6 @@ permalink: /our-curriculum/ICT/
 description: ""
 third_nav_title: Our Curriculum
 ---
-
-
-
 ### **Infocomm Technology**
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">OUR VISION</b><br>
@@ -36,9 +33,3 @@ Technology is therefore being used intentionally to:
 * embed scaffold for learning
 
 In Huamin Primary, students also learn about Cyber Wellness. It aims to equip students to become discerning & responsible ICT users. This is in alignment with our school value of being “Responsible and Respectful.” Some of the topics taught in these lessons are signs of cyberbullying, dangers of game addiction and proper netiquette.
-
-Some instances where we
-
-* Leverage on ICT for more engaged learning
-
-* Prepare students to be self-directed learners who are ready for the future

@@ -2,7 +2,6 @@
 title: Letters to Parents
 permalink: /more-information/For-Parents/letters-to-parents/
 description: ""
-third_nav_title: For Parents
 ---
 ### **Letters to Parents**
 
@@ -14,3 +13,5 @@ The Letters are arranged according to serial numbers issued by the Admin Centre.
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">Newsletter</b><br>
 [HMPS - Term 1 (2023) School Newsletter](/files/HMPS%20Term%201%202023%20School%20Newsletter.pdf)
+<br>
+[HMPS - Term 2 (2023) School Newsletter](/files/HMPS%20Term%202%202023%20School%20Newsletter.pdf)
