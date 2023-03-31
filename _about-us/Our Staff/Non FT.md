@@ -13,7 +13,7 @@ third_nav_title: Our Staff
 |Miss Irfana Banu d/o Kuthubudeen | Year Head of Upper Primary | ilfana\_banu\_kuthubudeen@schools.gov.sg
 |Miss Kat Quek| HOD of CCE | quek\_li\_ching\_a@schools.gov.sg |
 | Mrs Chan, Stephanie Tu | Level Head of Chinese Language | tu\_meng-chi@schools.gov.sg | 
-| Mdm Teng Siew Kien | FAJ School Counsellor | Teng\_Siew\_Kien@schools.gov.sg | 
+| Mdm Teng Siew Kien | School Counsellor | Teng\_Siew\_Kien@schools.gov.sg | 
 |Mrs Pramageetha Velmurugan| | Pramageetha\_Velmurugan@schools.gov.sg | 
 | Ms Irene Kwok Kwee Yoon |  | irene\_kwok\_kwee\_yoon@schools.gov.sg | 
 | Mrs Roberta Irene Piadasa | | roberta\_irene\_piadasa@schools.gov.sg | 
