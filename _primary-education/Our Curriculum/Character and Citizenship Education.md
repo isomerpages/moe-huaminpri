@@ -85,3 +85,4 @@ NE Ambassadors are selected from each class to share updates on current affairs 
 
 **Internationalisation Programme** <br>
 The Internationalisation Programme aims to inculcate a deeper sense of belonging and understanding for Singapore with the school’s international students as well as their families through yearly programmes run by the school. This includes tea-appreciation ceremony, heritage learning journeys and even workshops.
+![](/images/ccesl8.jpg)
