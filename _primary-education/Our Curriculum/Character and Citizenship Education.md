@@ -36,10 +36,7 @@ Recognising and nurturing the unique heart, body and soul of every student so as
 A structured leadership programme is implemented to develop students’ leadership potential and educate them on the various skills and qualities of good leadership. The 7 Huaminite Habits are used as a guideline for these student leadership workshops. <br> <br>
 The student leadership programmes are guided by the school’s Student Leadership Framework which looks into developing them through the three tiers of student leadership: Tier 1 (Lead Self), Tier 2 (Lead Peer) and Tier 3 (Lead School).  <br><br>
 Student leaders are also appraised by themselves, peers and teachers. These evaluations help them to become better leaders. Students are encouraged to practise leadership through prefectorial committee, class committee and house committee.
-![](/images/ccesl1.jpg)
-
-
-
+![](/images/ccesl1.jpg) <br>
 **I**&nbsp;**♥**&nbsp;**Seven Huaminite Habits (SH2)**
 
 This is a character programme to inculcate positive habits in every Huaminite so they are equipped with the essential and practical skills beyond their primary school education.
@@ -51,8 +48,6 @@ iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 v.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Listen to Understand, then be understood <br>
 vi.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To do your Best <br>
 vii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To contribute passionately <br>
-
-
 **Customised Social Skills Lessons**
 
 Social Skills lessons are incorporated into FTGP curriculum to better help students manage their SEL competencies and interactions with others. Students are taught explicit steps to apply a targeted social skill. For example, the school adopts Social Skill ‘Use an appropriate voice level’, apart from going through what this particular social skill is in designated FTGP periods, &nbsp;the implementation of Volume Meter school-wide also allows students to self-regulate their voice level and learn to speak at an appropriate level at various settings.
@@ -60,3 +55,4 @@ Social Skills lessons are incorporated into FTGP curriculum to better help stude
 ![](/images/ccesl3.jpg)
 ![](/images/ccesl4.jpg)
 ![](/images/ccesl5.jpg)
+![](/images/ccesl6.jpg)
