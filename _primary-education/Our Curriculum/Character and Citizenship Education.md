@@ -56,3 +56,5 @@ vii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 **Customised Social Skills Lessons**
 
 Social Skills lessons are incorporated into FTGP curriculum to better help students manage their SEL competencies and interactions with others. Students are taught explicit steps to apply a targeted social skill. For example, the school adopts Social Skill ‘Use an appropriate voice level’, apart from going through what this particular social skill is in designated FTGP periods, &nbsp;the implementation of Volume Meter school-wide also allows students to self-regulate their voice level and learn to speak at an appropriate level at various settings.
+![](/images/ccesl2.jpg)
+![](/images/ccesl3.jpg)
