@@ -86,3 +86,10 @@ NE Ambassadors are selected from each class to share updates on current affairs 
 **Internationalisation Programme** <br>
 The Internationalisation Programme aims to inculcate a deeper sense of belonging and understanding for Singapore with the school’s international students as well as their families through yearly programmes run by the school. This includes tea-appreciation ceremony, heritage learning journeys and even workshops.
 ![](/images/ccesl8.jpg)
+
+
+
+**Friend of Singa Ambassador (FOS) Programme** <br>
+In the hope to create a kinder and more caring community within Huamin, we started our collaboration with Singapore Kindness Movement since 2016 on the Friend of Singa (FOS) programme.&nbsp; Selected student ambassadors will complete a kindness project within their school to promote the values of kindness and graciousness through the Design Thinking Approach. Through the activities planned and executed, we hope to inculcate courteous behaviour amongst our students.
+![](/images/ccesl9.jpg)
+![](/images/ccesl10.jpg)
