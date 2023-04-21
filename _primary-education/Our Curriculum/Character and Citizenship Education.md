@@ -124,5 +124,3 @@ Using different readers, teachers spark an exciting sense of curiosity in studen
 Through fuss-free activities like thought tracking, letter writing, student-in-role and hot seat, students use the information and data collected to discuss and reflect on the challenges posed, with the teachers playing the role of a facilitator. These help to equip students with the knowledge, skills and values that will enable them to become effective citizens, workers and leaders in the 21st century.
 
 The tone of the lessons is also student-centric, allowing students the opportunities to use reasoning skills to brainstorm, discuss and overcome the challenges posed during the sessions, making them reflective in the process as well.
-
-_D.i.E. has been suspended for the time-being due to the current Covid-19 situation. (Photographs and videos are from pre-Covid-19)_
