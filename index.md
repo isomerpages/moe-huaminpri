@@ -8,12 +8,10 @@ description: |-
   Website: http://www.huaminpri.moe.edu.sg
 image: /images/School Logo Version 2022 Aug.jpg
 permalink: /
-notification: Dear Visitor, we are currently in the midst of updating the
-  website. Some pages might have some bugs and we seek your understanding and
-  sorry for the inconvenience caused
+notification: ""
 sections:
   - hero:
-      background: /images/heroimg.png
+      background: /images/homepagebanner20230425.gif
       key_highlights:
         - title: About Huamin Primary
           description: Check out More about Huamin
