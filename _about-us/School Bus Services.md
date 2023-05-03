@@ -35,4 +35,4 @@ Email: skyoperation15@gmail.com <br>
   width:63pt">$200.00</td><td class="xl68" align="right" width="84" style="border-top:none;border-left:none;
   width:63pt">$190.00</td><td class="xl68" align="right" width="84" style="border-top:none;border-left:none;
   width:63pt">$200.00</td></tr></tbody></table>
-	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15954.331998168429!2d103.84079408129989!3d1.4258116320079073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2ssg!4v1683084979737!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+	
