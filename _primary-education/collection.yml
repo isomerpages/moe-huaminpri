@@ -2,6 +2,7 @@ collections:
   primary-education:
     output: true
     order:
+      - For Parents/Letters to Parents.md
       - For Parents/.keep
       - Our Curriculum/.keep
       - Our Curriculum/English Language.md
