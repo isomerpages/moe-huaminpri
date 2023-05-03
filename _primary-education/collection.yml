@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - Letters to Parents.md
       - Our Curriculum/.keep
       - Our Curriculum/English Language.md
       - Our Curriculum/Mathematics.md
