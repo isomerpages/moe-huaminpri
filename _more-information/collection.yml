@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/Covid19 Related Matters by MOE.md
       - For Parents/Downloadable Forms.md
       - For Parents/Parental Talk.md
       - For Parents/News from MOE.md
