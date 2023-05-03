@@ -2,6 +2,7 @@ collections:
   success:
     output: true
     order:
+      - 2023/20230406 Infocomm DSLR.md
       - 2023/.keep
       - 2022.md
       - 2021.md
