@@ -2,6 +2,7 @@ collections:
   primary-education:
     output: true
     order:
+      - For Students.md
       - For Parents/Sexuality Education.md
       - For Parents/Cyber Wellness Connect.md
       - For Parents/Student Learning Space (SLS).md
