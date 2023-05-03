@@ -22,10 +22,12 @@ sections:
         - title: Latest MK@Huamin Events
           description: Check what's happening in MK
           url: /moe-kindergarten/events-in-mk/mk-events/
-  - infobar:
-      title: HUAMIN
-      subtitle: Welcome to
-      description: P R I M A R Y - S C H O O L
+      title: Huamin Primary School
+      subtitle: A Happy Learning Place
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
   - infopic:
       title: The Happy Learning Place
       subtitle: H u a m i n i t e s
