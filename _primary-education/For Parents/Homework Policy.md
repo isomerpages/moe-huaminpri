@@ -16,7 +16,7 @@ In Huamin Primary School, we believe that homework is beneficial to our students
 *   encourages greater ownership and responsibility for self-directed learning
 
 <b>3. Guidelines on Homework </b><br>
-The school is mindful about students’ overall well-being. We want to ensure that they have enough time to rest and take part in social/physical activities with their families or by themselves. The following table illustrates the guidelines for homework for the different levels. These guidelines may be adjusted to better customise to the learning needs of students.
+The school is mindful about students’ overall&nbsp;well-being. We want to ensure that they have enough time to rest and take part in social/physical activities with their families or by themselves. The following table illustrates the guidelines for homework for the different levels. These guidelines may be adjusted to better customise to the learning needs of students.
 
 ![](/images/Homework%20Policy%20(2023).png)
 
@@ -43,9 +43,9 @@ Parents/ legal guardians can consider doing the following to support their child
 
 *   Check the Student Handbook daily to view the homework assignment for the day.
 *   Provide a home environment conducive for studying and completion of homework.
-*   Supervise and provide support for your child’s/ward’s learning.
+*   Supervise and provide&nbsp;support for your child’s/ward’s&nbsp;learning.
 *   Reinforce good study habits and attitudes.
-*   Work in partnership with teachers to support your child’s/ward’s learning and development.
+*   Work in partnership with teachers to support your&nbsp;child’s/ward’s&nbsp;learning and development.
 *   Remind and ensure your child/ward completes school homework first before other things.
 
 **We seek the understanding, support and collaboration of parents/ legal guardians as our partners- in-education to ensure that homework is seen as an important component in the teaching and learning process.**

@@ -7,7 +7,7 @@ third_nav_title: For Parents
 ### **News from MOE**
 
 Look out for the latest news from MOE:<br>
-[News from MOE](https://www.moe.gov.sg/search?q=*&app=site_search&fq=content_type_s%3A(%22news%22)&sort=modified_dt%20desc)
+[News from MOE](https://www.moe.gov.sg/search?q=*&amp;app=site_search&amp;fq=content_type_s%3A(%22news%22)&amp;sort=modified_dt%20desc)
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">Articles from Schoolbag</b><br>
 [https://www.schoolbag.sg/story/have-schools-gone-soft](https://www.schoolbag.sg/story/have-schools-gone-soft)  
@@ -18,7 +18,7 @@ Look out for the latest news from MOE:<br>
 [https://www.schoolbag.sg/story/raising-a-teenager-is-like-flying-a-kite-learn-when-to-pull-in-or-let-go](https://www.schoolbag.sg/story/raising-a-teenager-is-like-flying-a-kite-learn-when-to-pull-in-or-let-go)
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">How to beat the bug!</b><br>
-Dear parents,   
+Dear parents,&nbsp;  
 In school, we are teaching our children about the novel coronavirus and the good personal hygiene practices to protect themselves against transmission.  
 Let us work together to role model and reinforce these good practices at home. Watch, download and share the attached GIF on how to beat the bug!
 

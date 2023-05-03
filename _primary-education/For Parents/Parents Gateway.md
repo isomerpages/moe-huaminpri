@@ -34,7 +34,7 @@ We have received feedback that some parents have encountered problems receiving 
 
 <u style="color:#016C62;">Travel Declaration Guide on Parents Gateway - 14 May 2019</u><br>
 Dear Parents/Legal Guardian,<br>
-Below is the Travel Declaration Guide for Parents. As mentioned in May Newsletter 2019, we seek your assistance to declare the travel plans of your child/ward for the upcoming June holidays. Do take note than we also require a NIL declaration if your child/ward is not travelling overseas for the holiday period. 
+Below is the Travel Declaration Guide for Parents. As mentioned in May Newsletter 2019, we seek your assistance to declare the travel plans of your child/ward for the upcoming June holidays. Do take note than we also require a NIL declaration if your&nbsp;child/ward is not travelling overseas for the holiday period.&nbsp;
 Please be informed that with effect from this year, all parents/legal guardians are required to complete the travel declaration for your child/ward via Parents Gateway (PG).
 
 [Travel Declaration Guide for Parents via Parents Gateway](/files/Travel%20Declaration%20Guide%20for%20Parents%20via%20Parents%20Gateway.pdf)

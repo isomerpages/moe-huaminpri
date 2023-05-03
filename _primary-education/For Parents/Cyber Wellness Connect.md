@@ -22,8 +22,8 @@ Cyberthreats are malicious attempts to damage or disrupt a computer network or s
 <b style="color:#016C62; font-size:18px;">Developing Your Child To Be Positive Peer Influence Online</b><br>
 Peer influence is the effect an individual can have on their friends to change their attitudes values or behaviours.Positive peer influence is one of MOE’s Cyber Wellness principles. It encourages our students to:
 
-• Be a positive role model online (e.g. share healthy and positive content, harness the affordances of technology to do good)
-• Advocate positive online behaviour(e.g. stand up for their peers online,and report cases of cyber bullying to a trusted adult/authority)<br>
+•&nbsp;Be a positive role model online&nbsp;(e.g. share healthy and positive content, harness the affordances of technology to do good)
+•&nbsp;Advocate positive online behaviour(e.g. stand up for their peers online,and report cases of cyber bullying to a trusted adult/authority)<br>
 <b style="color:#038C7F;">Reference PDF: </b><br>
 [Developing Your Child To Be A Positive Peer Influence Online](/files/Developing%20Your%20Child%20To%20Be%20A%20Positive%20Peer%20Influence%20Online.pdf)
 

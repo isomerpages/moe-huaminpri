@@ -22,4 +22,3 @@ third_nav_title: For Parents
 <b style="color:#016C62; font-size:20px; line-height: 3;">Group Personal Accident (GPA) Product Fact</b><br>
 **Fact Sheet:** [Product Fact Sheet Year 2023](/files/Product%20Fact%20Sheet%20Year%202023.pdf) <br>
 <b>User Guide for Parents: </b>[GPA eSubmission User Guide for Parents](/files/GPA%20eSubmission%20User%20Guide%20for%20Parents.pdf)
-
