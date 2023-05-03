@@ -2,8 +2,7 @@ collections:
   primary-education:
     output: true
     order:
-      - For Teachers.md
-      - For Students.md
+      - For Parents/.keep
       - For Parents/Sexuality Education.md
       - For Parents/Cyber Wellness Connect.md
       - For Parents/Student Learning Space (SLS).md
@@ -17,7 +16,8 @@ collections:
       - For Parents/Useful Tips for Parents.md
       - For Parents/ELearning Timetable 2023.md
       - For Parents/Letters to Parents.md
-      - For Parents/.keep
+      - For Teachers.md
+      - For Students.md
       - Our Curriculum/.keep
       - Our Curriculum/English Language.md
       - Our Curriculum/Mathematics.md
@@ -29,6 +29,13 @@ collections:
       - Our Curriculum/Character and Citizenship Education.md
       - Our Curriculum/Physical Education.md
       - Our Curriculum/Infocomm Technology.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/CCA Timetable for 2023.md
+      - Co Curricular Activities/Overview.md
+      - Co Curricular Activities/CCA Achievements.md
+      - Co Curricular Activities/Club, Societies and Uniform Groups.md
+      - Co Curricular Activities/Performing Arts.md
+      - Co Curricular Activities/Sports CCA.md
       - Info Day/.keep
       - Info Day/Primary 1 2023.md
       - Info Day/Primary 2 2023.md
@@ -41,11 +48,4 @@ collections:
         for English.md
       - Additional Support Programmes/Key Programmes for English Language.md
       - Additional Support Programmes/Key Programmes for Mathematics.md
-      - Co Curricular Activities/.keep
-      - Co Curricular Activities/CCA Timetable for 2023.md
-      - Co Curricular Activities/Overview.md
-      - Co Curricular Activities/CCA Achievements.md
-      - Co Curricular Activities/Club, Societies and Uniform Groups.md
-      - Co Curricular Activities/Performing Arts.md
-      - Co Curricular Activities/Sports CCA.md
       - EBooks.md
