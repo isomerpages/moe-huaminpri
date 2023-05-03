@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/Parental Talk.md
       - For Parents/News from MOE.md
       - For Parents/Financial Assistance Scheme (FAS).md
       - For Parents/Parents Gateway.md
