@@ -2,6 +2,7 @@ collections:
   primary-education:
     output: true
     order:
+      - For Parents/Homework Policy.md
       - For Parents/Parents Gateway.md
       - For Parents/Financial Assistance Scheme (FAS).md
       - For Parents/News from MOE.md
