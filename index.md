@@ -25,9 +25,9 @@ sections:
       title: Huamin Primary School
       subtitle: A Happy Learning Place
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: "Primary & Kindergarten "
+      subtitle: Latest Happenings
+      button: Click to find out more
   - infopic:
       title: The Happy Learning Place
       subtitle: H u a m i n i t e s
