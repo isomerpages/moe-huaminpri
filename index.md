@@ -24,10 +24,6 @@ sections:
           url: /moe-kindergarten/events-in-mk/mk-events/
       title: Huamin Primary School
       subtitle: A Happy Learning Place
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
   - infopic:
       title: The Happy Learning Place
       subtitle: H u a m i n i t e s
