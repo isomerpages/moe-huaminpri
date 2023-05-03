@@ -35,4 +35,3 @@ Email: skyoperation15@gmail.com <br>
   width:63pt">$200.00</td><td class="xl68" align="right" width="84" style="border-top:none;border-left:none;
   width:63pt">$190.00</td><td class="xl68" align="right" width="84" style="border-top:none;border-left:none;
   width:63pt">$200.00</td></tr></tbody></table>
-	
