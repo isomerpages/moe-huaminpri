@@ -2,6 +2,7 @@ collections:
   primary-education:
     output: true
     order:
+      - For Parents/Parental Talk.md
       - For Parents/Downloadable Forms.md
       - For Parents/Covid19 Related Matters by MOE.md
       - For Parents/Useful Tips for Parents.md
