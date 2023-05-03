@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/Sexuality Education.md
       - For Students.md
       - For Teachers.md
