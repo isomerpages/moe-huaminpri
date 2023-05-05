@@ -4,7 +4,6 @@ permalink: /our-curriculum/Co-Curricular-Activities/overview/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
 ### **Co-Curricular Activities**
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">OVERVIEW</b><br>
@@ -20,6 +19,7 @@ The School offers 17 different CCAs ranging from Sports, Aesthetics, Clubs to Un
 | Ceramics Club | International Dance | FloorBall | 
 | Library | Chinese Dance | Bowling |
 | Infocomm Club | Indian Dance | Badminton
-| Robotics Club | Anklung & Kulintang Dance
+| Robotics Club | Anklung &amp; Kulintang Dance | Basketball
 | Scrabble Club | Guitar Ensemble
-| Scouts     |      |      |
+| Scouts     |      |     |
+</b></b></b>
