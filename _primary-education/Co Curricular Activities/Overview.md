@@ -11,13 +11,13 @@ CCA programme in the school plays a key role in the holistic development of our 
   
 The School offers 17 different CCAs ranging from Sports, Aesthetics, Clubs to Uniformed Group. All P3 to P6 students are strongly encouraged to participate in at least one CCA.
 
-| <b style="color:#016C62"> Clubs, Societies, and Uniform Groups | <b style="color:#016C62"> Performing Arts | <b style="color:#016C62"> Sports |
-| -------- | -------- | -------- |
-| 	Art Club | Drama Club | Hockey | 
-| Ceramics Club | International Dance | FloorBall | 
+| **Clubs, Societies, and Uniform Groups** | **Performing Arts** | **Sports** |
+| --- | --- | --- |
+| Art Club | Drama Club | Hockey |
+| Ceramics Club | International Dance | FloorBall |
 | Library | Chinese Dance | Bowling |
-| Infocomm Club | Indian Dance | Badminton
-| Robotics Club | Anklung &amp; Kulintang Dance | Basketball
-| Scrabble Club | Guitar Ensemble
-| Scouts     |      |     |
-</b></b></b>
+| Infocomm Club | Indian Dance | Badminton |
+| Robotics Club | Anklung &amp; Kulintang Dance | Basketball |
+| Scrabble Club | Guitar Ensemble |  |
+| Scouts |  |  |
+|  |
