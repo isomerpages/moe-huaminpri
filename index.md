@@ -29,7 +29,7 @@ sections:
       image: /images/DSC03160.jpg
       alt: Image alt text
       button: learn about our curriculum
-      url: /our-curriculum/Instructional-Programme/english-language/
+      url: /our-curriculum/EL/
   - infopic:
       title: Teamwork is Our Culture
       subtitle: H u a m i n i t e s
@@ -37,5 +37,5 @@ sections:
       image: /images/DSC05001.jpg
       alt: Image alt text
       button: Find out more about our cca
-      url: /our-curriculum/Co-Curricular-Activities/overview/
+      url: /our-curriculum/Co-Curricular-Activities/cca-timetable-2023/
 ---
