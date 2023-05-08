@@ -2,6 +2,7 @@ collections:
   success:
     output: true
     order:
+      - 2023/Tamil Language Learning Festival.md
       - 2023/.keep
       - 2023/Earth Day 2023 (MK).md
       - 2023/20230406 Infocomm DSLR.md
