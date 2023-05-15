@@ -23,6 +23,13 @@ sections:
           description: Check what's happening in MK
           url: /moe-kindergarten/events-in-mk/mk-events/
   - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: HAVE A QUESTION?
+      button: "VIEW OR ASK QUESTIONS ON ASK.GOV "
+      url: https://go.ask.gov.sg/hmps
+      alt: Image alt text
+      image: /images/huaminbanner.png
+  - infopic:
       title: The Happy Learning Place
       subtitle: H u a m i n i t e s
       description: Caring Thinkers, Adventurous Learners, Passionate Contributors
