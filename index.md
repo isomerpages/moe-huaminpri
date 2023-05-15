@@ -28,6 +28,7 @@ sections:
       button: "VIEW OR ASK QUESTIONS ON ASK.GOV "
       url: https://go.ask.gov.sg/hmps
       alt: Image alt text
+      image: /images/huaminbanner.png
   - infopic:
       title: The Happy Learning Place
       subtitle: H u a m i n i t e s
