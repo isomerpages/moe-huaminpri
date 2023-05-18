@@ -12,7 +12,7 @@ third_nav_title: Our Staff
 | **Mr Lim Andrew** <br><b><i style="color:#016C62; font-size:14px;">ICT Associate</i></b>| lim_mic_andrew@schools.gov.sg     | 
 |**Mr Seow  Shawn**<br><b><i style="color:#016C62; font-size:14px;">ICT Trainer</i></b>| seow_jia_shen_shawn@schools.gov.sg|
 |**Mr Chew Edwin**<br><b><i style="color:#016C62;font-size:14px;">Senior Desktop Engineer</i></b> | chew_edwin@schools.gov.sg
-|**Mrs Danni Viel Shua**<br><b><i style="color:#016C62;font-size:14px;">Senior Desktop Engineer</i></b> | danni_viel@schools.gov.sg
+|**Mrs Danni Viel Shua**<br><b><i style="color:#016C62;font-size:14px;">Desktop Engineer</i></b> | danni_viel@schools.gov.sg
 |**Ms Tee Jing Wen**<br><b><i style="color:#016C62;font-size:14px;">Republic Polytechnic Intern<br>ICT Executive (Pri)</i></b>| tee_jing_wen@huamin.edu.sg
 |**Ms Chua Liwen**<br><b><i style="color:#016C62;font-size:14px;">Republic Polytechnic Intern<br>ICT Executive (MK)</i></b>| chua_liwen@huamin.edu.sg
 |**Mr Xavier Seah**<br><b><i style="color:#016C62;font-size:14px;">Republic Polytechnic Intern<br>ICT Trainer</i></b>| xavier@huamin.edu.sg
