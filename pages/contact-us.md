@@ -26,7 +26,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: go.ask.gov.sg/wwps
+      - other: <i>https://go.ask.gov.sg/hmps</i>
     title: Have A Question?
 feedback: https://www.form.gov.sg/5d2e8516ca362b00110a9427
 ---
