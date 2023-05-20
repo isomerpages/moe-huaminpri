@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Huamin Primary School
 locations:
   - address:
-      - " 21 Yishun Ave 11"
+      - 21 Yishun Ave 11
       - Singapore 768857
       - ""
     operating_hours:
@@ -23,4 +23,10 @@ contacts:
       - email: ""
       - other: ""
     title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: ""
+      - other: go.ask.gov.sg/wwps
+    title: Have A Question?
+feedback: https://www.form.gov.sg/5d2e8516ca362b00110a9427
 ---
