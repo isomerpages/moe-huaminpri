@@ -10,4 +10,9 @@ description: ""
 **Fax. No :**&nbsp;+6755 2455  
 
 **Have a question?**  
-Email us at huamin_ps@moe.edu.sg
+Ask and get answered on our [Q&amp;A Page](https://go.ask.gov.sg/nchs)
+<br>
+<span style="color:#999999"><em>Powered by:
+<br><img style="width:10%;float:left" src="/images/logo-askgov.png">
+
+<br></em></span>
