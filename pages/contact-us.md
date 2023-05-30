@@ -23,10 +23,5 @@ contacts:
       - email: ""
       - other: ""
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: ""
-      - other: <i>https://go.ask.gov.sg/hmps</i>
-    title: Have A Question?
 feedback: https://www.form.gov.sg/5d2e8516ca362b00110a9427
 ---
