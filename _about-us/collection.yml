@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Virtual Open House 2023/Virtual Open House 2023 Concurrent Sessions.md
+      - Virtual Open House 2023/Open House Concurrent Sessions 2023.md
       - Virtual Open House 2023/.keep
       - Contact Us.md
       - The Principal's Message.md
