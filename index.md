@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/voh23homepage.jpg
+      background: /images/virtual23.jpg
       key_highlights:
         - title: About Huamin Primary
           description: Check out More about Huamin
