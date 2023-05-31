@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Virtual Open House 2023/Open House Live Engagement 2023.md
       - Virtual Open House 2023/Open House Concurrent Sessions 2023.md
       - Virtual Open House 2023/.keep
       - Contact Us.md
