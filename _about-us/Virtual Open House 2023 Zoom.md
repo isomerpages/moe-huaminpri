@@ -3,7 +3,7 @@ title: Virtual Open House 2023 Zoom
 permalink: /voh23zoom/
 description: ""
 ---
-### **Virtual Open House 2023 Concurrent Session**
+### **Virtual Open House 2023 Concurrent Sessions**
 
 **Registration for the Concurrent sessions to hear our Huaminites share their learning experiences via Zoom on 21st July 2023 at 5pm**
 
