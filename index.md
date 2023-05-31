@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepagebanner20230425.gif
+      background: /images/voh23homepage.jpg
       key_highlights:
         - title: About Huamin Primary
           description: Check out More about Huamin

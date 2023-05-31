@@ -1,7 +1,8 @@
 ---
-title: Virtual Open House 2023 Concurrent Sessions
+title: Open House Concurrent Sessions 2023
 permalink: /voh23zoom/
 description: ""
+third_nav_title: Virtual Open House 2023
 ---
 ### **Virtual Open House 2023 Concurrent Sessions**
 

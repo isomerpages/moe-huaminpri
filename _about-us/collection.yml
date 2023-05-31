@@ -2,6 +2,10 @@ collections:
   about-us:
     output: true
     order:
+      - Virtual Open House 2023/Open House Overview.md
+      - Virtual Open House 2023/Open House Live Engagement 2023.md
+      - Virtual Open House 2023/Open House Concurrent Sessions 2023.md
+      - Virtual Open House 2023/.keep
       - Contact Us.md
       - The Principal's Message.md
       - School's Information/.keep
@@ -29,4 +33,3 @@ collections:
       - Learning for Life Programme/.keep
       - Learning for Life Programme/School's Learning for Life Programme (LLP).md
       - Learning for Life Programme/Applied Learning Programme.md
-      - Virtual Open House 2023 Concurrent Sessions.md
