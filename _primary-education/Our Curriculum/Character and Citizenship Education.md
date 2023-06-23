@@ -72,17 +72,45 @@ Students are also encouraged to use this platform to present a topic or theme of
 ![](/images/23cce04.png)
 
 **VIA in HMPS - HEAD, HEART and HAND** <br>
-Values-in-Action (VIA) activities are planned and carried out across all levels based on a 6-year plan. Students learn to serve through the 3H approach, also known as Head, Heart and Hand, whereby they apply the values, habits and skills learnt in school to the organisations that they are serving.
+Values-in-Action (VIA) activities are planned and carried out across all levels based on a 6-year VIA Plan. Students learn to serve through the 3H approach, also known as the Head, Heart and Hand approach, whereby they apply the values, habits and skills learnt in school to the organisations that they are serving.
 
+**P5 Waterway Watch Society**<br>
+To provide Huaminites with opportunities to be a “Team-player” in identifying the needs of our society and contributing it back through our small gestures, the school also works closely with NWCDC to provide authentic VIA experiences for our students
+![](/images/23cce05.png)
+
+**Bus Drivers’ Appreciation Day**<br>
+In early parts of 2023, our Lower Primary Students learnt about the contributions of the bus drivers and wrote “Thank You” cards to them to show their appreciation for their hard work and dedication in keeping the commuters safe on the roads. Students who regularly take the school buses also learnt to be well-behaved, respectful and keep themselves safe by remembering to put on their seatbelts before moving off.
+These cards were then made into garlands and were presented personally to the Yishun Tower Transit Interchange by the Head and Vice-Head Prefects personally as a gesture of our appreciation for their services.
+As for the school bus drivers, the cards were presented to them by selected Lower Primary students who commutes to school via their school buses
+![](/images/23cce06.png)
 
 **Routinized Daily Clean-up in Huamin Primary School (VIA)** <br>
-To provide Huaminites with opportunities to develop into Passionate Contributors, the school has also implemented the routinised daily clean-up programme since 2014. This is part of the Values-in-Action 6-year plan for the school.
+To provide Huaminites with opportunities to develop into Passionate Contributors, the school has also implemented the routinised daily clean-up programme since 2014. This is also part of the Values-in-Action 6-year plan for the school <br>
 
-Students are rostered to clean up their classrooms at the beginning of the day for approximately five minutes before they commence their first lesson of the day. At the end of the day just before the dismissal bell rings, they are required to clean up the classroom for another five minutes during the last period. This routine also coincides with the cleaning up routine of our school OSO staff where they make their rounds in the school compound to do a quick sweep and clean-up of the school, which makes it a whole-school clean-up routine.
+Students are rostered to clean up their classrooms at the beginning of the day for approximately five minutes before they commence their first lesson of the day. At the end of the day just before the dismissal bell rings, they are also required to clean up the classroom for another five minutes during the last period. <br>
 
-The CCE coordinator also carries out a “Cleanest Class Award” per term to affirm the class that demonstrates commitment and consistency in maintaining classroom cleanliness. There are rubrics placed in each class to spell out the expectations on what the students in the rostered cleanliness committee can do to upkeep their classrooms. Their form or subject teachers can also refer to the rubrics to do a quick assessment on the cleanliness of the classroom at any time of the day apart from their fixed clean-up routine.
+The CCE coordinator also carries out a “Cleanest Class Award” per term to affirm the class that demonstrates commitment and consistency in maintaining classroom cleanliness. There are rubrics placed in each class to spell out the expectations on what the students in the rostered cleanliness committee can do to upkeep their classrooms. Their form and subject teachers can also refer to the rubrics to do a quick assessment on the cleanliness of the classroom at any time of the day apart from their fixed clean-up routine.<br>
 
-In addition, each consortium (two levels per consortium) is rostered to clean up school areas like the canteen, foyer and field right after the recess bell. Parent volunteers from the Parent Support Group are also co-opted to perform recess duties during this period. They are involved in leading the students during the clean-up duty. They also advise and remind the students to observe proper hygiene and wash their hands before going back to class. Students have given positive reviews about this clean-up and they learn to be responsible and proactive. By engaging in everyday responsibilities, we cultivate good habits for life. Respect and consideration for others is also shown by taking care of our shared spaces like the canteen. In addition, by taking ownership of our environment, we learn to value all labour that serves a useful purpose in society.
+In addition, each consortium (two levels per consortium) is rostered to clean up school areas like the canteen, foyer, and field right after the recess bell. Parent volunteers from the Parent Support Group are also co-opted to perform recess duties during this period. They are involved in leading the students during the clean-up duty. They also advise and remind our students to observe proper hygiene and to wash their hands before going back to class. Students have given positive reviews about this clean-up, and they learn to be responsible and proactive in safekeeping the cleanliness of our surroundings. <br>
+
+By engaging in everyday responsibilities, we guide our students to cultivate good habits for life. Respect and consideration for others is also shown by taking care of our shared spaces like the canteen. In addition, by taking ownership of our environment, we learn to value all labour that serves a useful purpose in society.
+![](/images/23cce07.png)
+
+**Cleaners’ Appreciation Day**<br>
+Cleaners’ Appreciation Day is a day whereby we recognise the contribution of our school’s unsung heroes who have contributed to maintaining the cleanliness of our school compounds. The attribute of perspective-taking was emphasized during this period of time as we encouraged our students to put themselves in the shoes of others, examine the challenges that our school cleaners face, and show appreciation to them
+![](/images/23cce08.png)
+![](/images/23cce09.png)
+
+**Spring Clean @ Huamin**<br>
+As part of showing appreciation to the school cleaners, students are also roped in to carry out spring clean in their classes on the last day of every term. The last two periods are suspended for the students to clean up their personal space. Through this activity, students are given an opportunity to apply the values that they have learnt such as respect, responsibility, and teamwork. 
+
+**OUI! Programme – For Lower and Middle Consortium**<br>
+OUI Programme is planned and implemented for the Primary 1 to 3 students to cultivate and strengthen Peer Support Relationship as well as Teacher Student Relationship. This programme forms part of the FTGP Curriculum. <br>
+
+Team Bonding activities such as ‘Class Dance’, ‘Interview Your Teacher’, ‘Blow Wind Blow’ are carried out for the students to understand their peers and their teachers better, developing PSR (Peer Support and Relationship) and TSR (Teacher-student Relationship). <br>
+
+OUI! also stands for Outstanding, Uplifting and Inspiring. It is hoped that our Huamintes will continue to be OUI! to their peers!
+![](/images/23cce10.png)
 
 **Beary Best Award and Caught You Doing Great** <br>
 Beary Best Award is a recognition given out by HMPS monthly for classes which have displayed excellent behaviour, good school habits and discipline. Winning classes from the lower and middle consortium would have the privilege of having a certificate and Mr Bear in class for the month, while the upper consortium would receive a certification of recognition for their good behaviour.
