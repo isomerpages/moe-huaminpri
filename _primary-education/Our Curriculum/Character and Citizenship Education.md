@@ -20,25 +20,40 @@ Email: kanmani_mariyappan@schools.gov.sg
 
 **“Our ability to handle life's challenges is a measure of our strength of character”** <br>- Les Brown
 
+**Subject Head (Discipline and Student Well-Being)** <br>
+Mr Tham Kuan Yew, Albert <br>
+Email: albert_tham@schools.gov.sg
+
+**“Mindfulness is a capability we all possess and can cultivate”**<br>
+-Jan Chozen Bays
+
+**Subject Head (Discipline and Student Leadership)**<br>
+Mr Joshua Kum Han Wen <br>
+Email: kum_han_wen@schools.gov.sg
+
+**"Success is not how high you have climbed, but how you make a positive difference to the world"** <br>
+-Roy T. Bennett
+
+
 #### Mission
-To nurture every Huaminite into a critical thinker and passionate contributor to the school, community and country.
+To nurture every Huaminite into an active contributor and concerned citizen to the school, community and environment.
 
 #### Vision
-**Character Education (Student Development)** <br>
-Every Huaminite is a responsible and honest citizen who is capable of managing social emotionally and is capable of working well with others.
 
-**Citizenship**<br>
-Recognising and nurturing the unique heart, body and soul of every student so as to make them caring, responsible and passionate citizens of Singapore.
+Every Huaminite A Passionate Contributor
 
 #### Programme
 
-**Student Leadership Programme** <br>
-A structured leadership programme is implemented to develop students’ leadership potential and educate them on the various skills and qualities of good leadership. The 7 Huaminite Habits are used as a guideline for these student leadership workshops. <br> <br>
-The student leadership programmes are guided by the school’s Student Leadership Framework which looks into developing them through the three tiers of student leadership: Tier 1 (Lead Self), Tier 2 (Lead Peer) and Tier 3 (Lead School).  <br><br>
+**Student Leadership @ Huamin** <br>
+A structured leadership programme is implemented to develop students’ leadership potential and educate them on the various skills and qualities of good leadership. The 7 Huaminite Habits are used as a guideline for these student leadership workshops. These workshops help to develop students’ SEL competencies through fun team-bonding activities as well. <br>
+
+The student leadership programmes are guided by the school’s Student Leadership Framework which looks into developing them through the three tiers of student leadership: Tier 1 (Lead Self), Tier 2 (Lead Peer) and Tier 3 (Lead School).
+
 Student leaders are also appraised by themselves, peers and teachers. These evaluations help them to become better leaders. Students are encouraged to practise leadership through prefectorial committee, class committee and house committee.
-![](/images/ccesl1.jpg) <br>
-**I**&nbsp;**♥**&nbsp;**Seven Huaminite Habits (SH2)** <br>
-This is a character programme to inculcate positive habits in every Huaminite so they are equipped with the essential and practical skills beyond their primary school education.
+![](/images/23cce02.PNG)
+
+**I ♥ Seven Huaminite Habits (SH2)** <br>
+Seven Huaminite Habits is a character programme designed to inculcate positive habits in every Huaminite so that they are equipped with the essential and practical skills which can be applied beyond their primary school education.
 
 i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Be Proactive <br>
 ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Be Goal-Oriented <br>
@@ -47,13 +62,14 @@ iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 v.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Listen to Understand, then be understood <br>
 vi.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To do your Best <br>
 vii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To contribute passionately <br><br>
-**Customised Social Skills Lessons** <br>
-Social Skills lessons are incorporated into FTGP curriculum to better help students manage their SEL competencies and interactions with others. Students are taught explicit steps to apply a targeted social skill. For example, the school adopts Social Skill ‘Use an appropriate voice level’, apart from going through what this particular social skill is in designated FTGP periods, &nbsp;the implementation of Volume Meter school-wide also allows students to self-regulate their voice level and learn to speak at an appropriate level at various settings.
-![](/images/ccesl2.jpg)
-![](/images/ccesl3.jpg)
-![](/images/ccesl4.jpg)
-![](/images/ccesl5.jpg)
-![](/images/ccesl6.jpg)
+**Social Skills and FTGP Lessons** <br>
+Social Skills lessons are incorporated into FTGP curriculum to better help students manage their SEL competencies and interactions with others. Students are taught explicit steps to apply a targeted social skill. For example, the school adopts Social Skill ‘Use an appropriate voice level’, apart from going through what this particular social skill is in designated FTGP periods, the implementation of Volume Meter school-wide also allows students to self-regulate their voice level and learn to speak at an appropriate level at various settings. With the new CCE (FTGP) syllabus implementation, students are also given more opportunities to be engage in class discussions and presentations
+![](/images/23cce03.PNG)
+
+**Developing Huaminites’ Voices**<br>
+The Huaminities’ Voice Corner was implemented in our school recently in 2023. The idea of this corner is to promote students’ voices by garnering their views and opinions on a variety of topics for discussions to achieve better outcomes. 
+Students are also encouraged to use this platform to present a topic or theme of discussion for upcoming school events or projects. This corner is overseen and managed by our prefects.
+![](/images/23cce04.png)
 
 **VIA in HMPS - HEAD, HEART and HAND** <br>
 Values-in-Action (VIA) activities are planned and carried out across all levels based on a 6-year plan. Students learn to serve through the 3H approach, also known as Head, Heart and Hand, whereby they apply the values, habits and skills learnt in school to the organisations that they are serving.
