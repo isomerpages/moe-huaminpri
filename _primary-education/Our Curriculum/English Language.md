@@ -97,8 +97,3 @@ Alia Qaisarah Binte Mohammad Khir 	6 Courage (2023)
 
 High Ability Learners (Primary 4 – 5) <br>
 Selected students are exposed to a variety of extension activities that expose them to discussion forums through Reading Circles and Philosophy for Children. Through these sessions, students learn to extend their learning to real life situations and see how language can be applied in various contexts.
-
-<b>Eurasian Spelling Bee – 4 students have qualified for the semi-finals</b>
-<br>
-
-<img src="/images/achievementseng.png" alt="achievements" style="float: left; width:320px; height:150px;">
