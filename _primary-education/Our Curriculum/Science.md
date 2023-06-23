@@ -31,21 +31,20 @@ A range of assessment tools, including written and performance tasks are used to
 • Online tests and quizzes
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">THE UNIT PLAN</b><br>
+https://docs.google.com/document/d/1qMUkOT2Nyaqvqmwt1J85Ld-5r5deRfOZ/edit?usp=sharing&amp;ouid=115563147959034604872&amp;rtpof=true&amp;sd=true
 ![](/images/2023sci01.png)
-![](/images/2023sci02.png)
+![](/images/2023sci03.png)
 
 | Useful Websites | |
 | -------- | -------- |
 | Brain Pop | [http://www.brainpop.com/science/](http://www.brainpop.com/science/) |
-| Discovery Kids | [http://kids.discovery.com/](http://kids.discovery.com/) |
-| Magic School Bus | [http://www.scholastic.com/magicschoolbus/](http://www.scholastic.com/magicschoolbus/) |
+| Discovery Kids | [http://kids.discovery.com/](http://kids.discovery.com/) | |
 | Bill Nye the Science Guy | [http://www.billnye.com/](http://www.billnye.com/) |
 | FT Exploring | [http://www.ftexploring.com/](http://www.ftexploring.com/) |
 | Kidsites.com | [http://www.kidsites.com/sites-edu/science.htm](http://www.kidsites.com/sites-edu/science.htm) | 
 | Science News for Kids | [https://www.saveonenergy.com/](https://www.saveonenergy.com/) |
 | Physics4Kids | [http://www.physics4kids.com/](http://www.physics4kids.com/) | 
-| National Geographic | [http://kids.nationalgeographic.com/](http://kids.nationalgeographic.com/) |
-| Sciber Diver | [http://sciberdiver.wikispaces.com/](http://sciberdiver.wikispaces.com/) |
+| National Geographic | [http://kids.nationalgeographic.com/](http://kids.nationalgeographic.com/)
 | Kids Health | [http://kidshealth.org/kid/](http://kidshealth.org/kid/) |
 | Popular Science | [http://www.popsci.com/popsci/](http://www.popsci.com/popsci/) |
 | Science Made Simple | [http://www.sciencemadesimple.com/](http://www.sciencemadesimple.com/) |
