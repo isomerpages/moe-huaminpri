@@ -84,12 +84,12 @@ Certificates are awarded to commend students of various values and habits achiev
 <b>Visual Spatial Mathlympics 2023
 | Name of Student | Class | Type of Award |
 | -------- | -------- | -------- |
-| Daryl Reed Xie Yi | 5 Respect     | Bronze|
+| Daryl Reed Xie Yi | 5 Respect     | Bronze |
 
 <b>Singapore Mathematical Olympiad for Primary School (SMOPS) 2023
 | Name of Student | Class | Type of Award |
 | -------- | -------- | -------- |
-| Sim Kye Lun Eton | 6 Integrity | Bronze|
+| Sim Kye Lun Eton | 6 Integrity | Bronze |
 
 <br><b style="color:#016C62; font-size:20px; line-height: 3;">List of Approved Calculators</b><br>
 [https://www.seab.gov.sg/home/examinations/approved-calculators](https://www.seab.gov.sg/home/examinations/approved-calculators)</b></b>
