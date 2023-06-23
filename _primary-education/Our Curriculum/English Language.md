@@ -85,9 +85,9 @@ Good English Week is an annual departmental event held over a week to promote th
 We are constantly on the look-out for opportunities to expose our students to recognised English Language competitions that will provide them with platforms to excel in their written and spoken language skills. Our students will also get to interact and build on their existing knowledge with students from other schools.
 
 <b style="color:#038C7F; font-size:18px;">Our Recent Achievement includes&nbsp;<br>
-Top 20 in Mythos (Junior Orators) 2022- Maezyl Tan Enxuan</b>
+</b>
+Top 20 in Mythos (Junior Orators) 2022- Maezyl Tan Enxuan
 
-Our recent Achievement includes: 
 YMCA PESA 2022- Merit Award <br>
 Maezyl Tan Euxuan	5 Respect (2023)
 
