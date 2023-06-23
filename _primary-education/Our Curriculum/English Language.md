@@ -4,7 +4,7 @@ permalink: /our-curriculum/EL/
 description: ""
 third_nav_title: Our Curriculum
 ---
-![](/images/2023eng07.png)### **English Language**
+### **English Language**
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">OUR VISION</b><br>
 <b style="color:#038C7F; font-size:17px;">Passionate and Effective Users of Good English (PEG for Life)!</b><br>
