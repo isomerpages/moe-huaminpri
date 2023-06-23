@@ -4,9 +4,6 @@ permalink: /our-curriculum/TL/
 description: ""
 third_nav_title: Our Curriculum
 ---
-
-
-
 ### **Tamil Language**
 
 <b style="color:#016C62; font-size:20px;">OUR VISION</b><br>
@@ -25,7 +22,7 @@ The adoption of a flexible syllabus, inclusion of various interesting and engagi
 
 <b style="color:#016C62; font-size:22px;">Achievements</b><br>
 
-<b style="color:#038C7F; font-size:17px; ">2022<br>Semester 1</b><br>
+<b style="color:#038C7F; font-size:17px;">2022<br>Semester 1</b><br>
 <b><u>Association of Singapore Tamil Writers</u></b>
 
 | | Name of Student | Class  | Award | 
@@ -36,13 +33,13 @@ The adoption of a flexible syllabus, inclusion of various interesting and engagi
 | Story Telling | Sriinishaa D/O Nakkeeran | 4 Courage | Certification of Participation |
 | Oratorical | Venugopal Krishanth | 6 Respect | Certification of Participation |
 
-<b style="color:#038C7F; font-size:17px; ">2021<br>Semester 2</b><br>
+<b style="color:#038C7F; font-size:17px;">2021<br>Semester 2</b><br>
 
 | Kolam Ayer CC | Name of Student | Class  | Award | 
 | -------- | -------- | -------- | -------- |
 | Oratorical | Jessica D/O Robin | 5 Excellence | Certification of Participation |
 
-<b style="color:#038C7F; font-size:17px; ">2019<br>Semester 1</b><br>
+<b style="color:#038C7F; font-size:17px;">2019<br>Semester 1</b><br>
 
 | Chong Pang CC | Name of Student | Class  | Award | 
 | -------- | -------- | -------- | -------- |
@@ -57,7 +54,7 @@ The adoption of a flexible syllabus, inclusion of various interesting and engagi
 | Singing | Varsha | 5 Integrity | Certification of Participation |
 | Singing | Sankar Anupama Riddhi | 6 Harmony | Certification of Participation |
 
-<b style="color:#038C7F; font-size:17px; ">Semester 2</b><br>
+<b style="color:#038C7F; font-size:17px;">Semester 2</b><br>
 <b><u>Periyar Vizha 2019 - Tamil Language Competitions</u></b>
 
 |  | Name of Student | Class  | Award | 
@@ -65,3 +62,25 @@ The adoption of a flexible syllabus, inclusion of various interesting and engagi
 | Art | Divakaran Pavatharini | 4 Integrity | Third |
 | Singing | Kiruthish Jagannathanath | 3 Excellence | Certification of Participation |
 | Singing | Sarish Rian Kalal Mahran | 3 Excellence | Certification of Participation |
+
+<b style="color:#038C7F; font-size:17px;">Tamil Language Competition 2023<br></b><br>
+| Telok Blangah CC | Name of Student | Class  | Award | 
+| -------- | -------- | -------- | -------- |
+| Essay Writing |  AJAN SUGUMARAN BALAMURUGAN| P4| Certification of Participation |
+| Story Telling | NAVISHA YASHREE GOINDASARMY| P3| Certification of Participation | 
+
+| Muthamizh Vizha @ Northland Primary  | Name of Student | Class  | Award | 
+| -------- | -------- | -------- | -------- |
+| Fancy Dress  |  MAGESHKANNA AKIL KANNA| P2| Certification of Participation |
+| Story Telling | DHANSHIKA CHANDRAMOHAN| P4| Certification of Participation | 
+
+| Nee Soon Link Community Centre | Name of Student | Class  | Award | 
+| -------- | -------- | -------- | -------- |
+| Fancy Dress  |  MAGESHKANNA AKIL KANNA| P2| Certification of Participation |
+
+| Kolam Ayer CC | Name of Student | Class  | Award | 
+| -------- | -------- | -------- | -------- |
+| Story Telling | JAGANNATHAN NATH KIRITI| P1 | Certification of Participation |
+| Singing | PRISHA MADHAN| P2 | Certification of Participation |
+| Role Play |NUR NAZIFAH BINTI MOHAMED ASARAFFALI| P3 | Certification of Participation |
+| Poster Making |AJAN SUGUMARAN BALAMURUGAN| P4 | Certification of Participation |
