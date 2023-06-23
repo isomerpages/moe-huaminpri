@@ -113,9 +113,11 @@ OUI! also stands for Outstanding, Uplifting and Inspiring. It is hoped that our 
 ![](/images/23cce10.png)
 
 **Beary Best Award and Caught You Doing Great** <br>
-Beary Best Award is a recognition given out by HMPS monthly for classes which have displayed excellent behaviour, good school habits and discipline. Winning classes from the lower and middle consortium would have the privilege of having a certificate and Mr Bear in class for the month, while the upper consortium would receive a certification of recognition for their good behaviour.
+Beary Best Award is a recognition given out in HMPS termly for classes which have displayed excellent behaviour, good school habits and self-discipline. Winning classes from all levels would have the privilege of having a certificate and Mr Bear in the classroom for the term
+![](/images/23cce11.png)
 
-Caught You Doing Great is also a student recognition platform where the school showcases positive acts performed by the students. These actions are "captured" by the teachers in the school and students are praised for their good behaviour.
+Caught You Doing Great is also a student recognition platform where the school highlights positive acts performed by the students. These actions are “captured” by the teachers in the school and students are praised for their good behaviour.
+![](/images/23cce12.png)
 
 
 **Clean Plate Campaign**<br>
@@ -124,8 +126,9 @@ The “Clean Plate Campaign” is a joint-collaboration with Food from the Heart
 
 
 
-**NE Ambassadors** <br>
-NE Ambassadors are selected from each class to share updates on current affairs and messages on National Education. It is also a platform to develop student leadership. In HMPS, NE Ambassadors are given the opportunity to lead the school in the morning assembly. They are also given the chance to carry out public speaking through assembly talks and class sharing.
+**NE Events and NE Ambassadors** <br>
+NE Ambassadors are selected from each class to share updates on current affairs and messages on National Education. It is also a platform to develop student leadership. In HMPS, NE Ambassadors are given the opportunity to lead the school in the morning assembly and they are also given the chance to carry out public speaking through assembly talks and class sharing.
+![](/images/23cce13.png)
 
 **Internationalisation Programme** <br>
 The Internationalisation Programme aims to inculcate a deeper sense of belonging and understanding for Singapore with the school’s international students as well as their families through yearly programmes run by the school. This includes tea-appreciation ceremony, heritage learning journeys and even workshops.
@@ -134,13 +137,17 @@ The Internationalisation Programme aims to inculcate a deeper sense of belonging
 
 
 **Friend of Singa Ambassador (FOS) Programme** <br>
-In the hope to create a kinder and more caring community within Huamin, we started our collaboration with Singapore Kindness Movement since 2016 on the Friend of Singa (FOS) programme.&nbsp; Selected student ambassadors will complete a kindness project within their school to promote the values of kindness and graciousness through the Design Thinking Approach. Through the activities planned and executed, we hope to inculcate courteous behaviour amongst our students.
-![](/images/ccesl9.jpg)
-![](/images/ccesl10.jpg)
+In the hope to create a kinder and more caring community within Huamin, we started our collaboration with Singapore Kindness Movement since 2016 on the Friend of Singa (FOS) programme. Selected student ambassadors will complete a kindness project within the school to promote the values of kindness and graciousness through the Design Thinking Approach. Through the activities planned and executed, we hope to inculcate courteous behaviour amongst our students.
+![](/images/23cce14.png)
 
 
 **You Say Your Say – Students' Suggestions / Feedback Scheme**<br>
-Students are invited to have a say in the school and are encouraged to submit their suggestions and feedback to the school management pertaining to Student Well-being, Student Safety (“Safety Begins With You”) and Student Discipline. Students whose suggestions are accepted would receive tokens of appreciation and their implemented ideas will be shared with the school.
+Students are invited to have a say in the school and are encouraged to submit their suggestions and feedback to the school management pertaining to Student Well-being, Student Safety (“Safety Begins With You”), Student Discipline and ESD (Education for Sustainable Development). Students whose suggestions are accepted would receive tokens of appreciation and their implemented ideas will be shared with the school.
+![](/images/23cce16.png)
+
+**PAL Programme – For Primary 1 and 2 Level** <br>
+For Primary 1 and 2 students, modular activities in Sports and Outdoor Education, and Performing and Visual Arts are conducted weekly for a duration of 1 hour and 30 mins. Students are engaged in interesting activities like creating their own playground using recyclables, visiting Yishun Park to learn about flora and fauna as well as bouldering to build their resilience and to enhance team bonding among peers. 
+![](/images/23cce17.png)
 
 **Education &amp; Career Guidance Fiesta** <br>
 In line with MOE’s directive to equip students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work, and hence to manage their career pathways and lifelong learning throughout their lives. The school’s ECG programmes are guided by its 6-year plan aimed to Excite, Exposure and Educate the respective consortiums of the student population.
@@ -155,16 +162,8 @@ c) Primary 3 - Understanding Singapore
 d) Primary 4 - Valuing Our Past - (Inquiry Focus) How is life in Singapore today shaped by what happened in the past?  
 e) Primary 5 - Appreciating The World - (Inquiry Focus) How has the legacies of the world impacted our lives today?  
 f) Primary 6 - Discovering Southeast Asia - (Inquiry Focus) How is Southeast Asia important to Singapore?
-![](/images/ccesl12.gif)
-
-
 
 The Inquiry Focus approach is also recommended for the learning of concepts, skills and exploration of topics in Social Studies.
+![](/images/23cce18.png)
 
-In Huamin Primary School, students develop greater empathy through a customised Social Studies curriculum incorporating Drama-in-Education (D.i.E.) conventions into the lessons.
-
-Using different readers, teachers spark an exciting sense of curiosity in students by infusing D.i.E. strategies to stimulate discussions, collaboration and critical thinking to promote full educative growth of the students as individuals and as social beings.
-
-Through fuss-free activities like thought tracking, letter writing, student-in-role and hot seat, students use the information and data collected to discuss and reflect on the challenges posed, with the teachers playing the role of a facilitator. These help to equip students with the knowledge, skills and values that will enable them to become effective citizens, workers and leaders in the 21st century.
-
-The tone of the lessons is also student-centric, allowing students the opportunities to use reasoning skills to brainstorm, discuss and overcome the challenges posed during the sessions, making them reflective in the process as well.
+The tone of the lessons is also student-centric, this provides our students opportunities to use reasoning skills to brainstorm, discuss and overcome the challenges posed during the sessions, thus guiding them to be reflective in the process as well![](/images/23cce19.png)
