@@ -25,7 +25,7 @@ sections:
   - infopic:
       title: The Happy Learning Place
       subtitle: H u a m i n i t e s
-      description: Caring Thinkers, Adventurous Learners, Passionate Contributors
+      description: Where we learn to love and love to learn
       image: /images/DSC03160.jpg
       alt: Image alt text
       button: learn about our curriculum
