@@ -10,9 +10,10 @@ The shared vision is the underlying foundation and an embodiment of the essence 
 <center>Self-directed Learners <br>
 Passionate Contributors</center>
 
+Combined together, the vision provides the direction and purpose in everything that the school does. The Teachers will be commited to translating the vision into reality.
+
 ### **School Mission**
-<center>Nurturing Hearts, Enriching Minds, Inspiring Growth<br>
-Passionate Contributors</center>
+<center>Nurturing Hearts, Enriching Minds, Inspiring Growth</center>
 
 ### <b>Our Rules</b><br>
 Huamin Primary is an institution of learning, and while Huamin emphasizes on fun in learning, discipline is still a necessity in order for students to be effectively learning in the classrooms. As such, all students enrolled into the school shall follow the rules and guidelines as prescribed below:
