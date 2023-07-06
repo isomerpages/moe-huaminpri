@@ -15,16 +15,18 @@ The Art Club aims to inspire and nurture budding and talented artists in the sch
 
 <b style="color:#016C62; font-size:22px; line-height: 3;">Ceramics Club</b><br>
 The Ceramics Club CCA allows students to learn more about creating artworks using clay. They learn the ancient pottery-making technique of handbuilding that involves creating artworks using their hands, fingers, and simple tools. Using the most common handbuilding techniques of pinch pottery, coil building, and slab building, students get to create, fire and glaze their artworks, under the supervision and guidance of our teachers and instructors.
+![](/images/ceramic%202023.png)
 
 <b style="color:#016C62; font-size:22px; line-height: 3;">Library</b><br>
 Our librarians help to inculcate the love of reading amongst all students. They help students discover the joy of reading through the various library activities that they organize for the school. By organizing these activities, the student librarians also get the opportunity to develop their presentation skills through an active promotion of library activities.
+![](/images/library%202023.png)
 
 <b style="color:#016C62; font-size:22px; line-height: 3;">Infocomm Club</b><br>
 The Infocomm Club CCA leverages on Information Communication and Technology (ICT) to engage the student members in a fun and meaningful way. ICT is leveraged upon as a tool to aid in students' cognitive development. CCA sessions empower our students as they learn ICT skills and basic coding.
 
 <b style="color:#038C7F; font-size:17px;">2019 Achievements</b><br>&nbsp;**N6 Cluster Media and Design Festival**<br>&nbsp;-&nbsp;&nbsp; Digital Animation - 2nd&nbsp;  
 &nbsp;-&nbsp;&nbsp; Festival 2019 (Short Film Production) - Recognition Award
-
+![]()
 <b style="color:#016C62; font-size:22px; line-height: 3;">Robotics Club</b><br>
 Students learn how to programme robots to do simple actions and tasks. Robotics Club CCA provides a platform for our students to develop their analytical and thinking skills to solve problems together as a team.
 
