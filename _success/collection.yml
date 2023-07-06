@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 2023/.keep
-      - 2023/20230406 Infocomm DSLR.md
       - 2023/20230403 IDF 2023.md
       - 2022.md
       - 2021.md
