@@ -27,19 +27,22 @@ The Infocomm Club CCA leverages on Information Communication and Technology (ICT
 <b style="color:#038C7F; font-size:17px;">2019 Achievements</b><br>&nbsp;**N6 Cluster Media and Design Festival**<br>&nbsp;-&nbsp;&nbsp; Digital Animation - 2nd&nbsp;  
 &nbsp;-&nbsp;&nbsp; Festival 2019 (Short Film Production) - Recognition Award
 ![](/images/infocom%202023.png)
+
 <b style="color:#016C62; font-size:22px; line-height: 3;">Robotics Club</b><br>
 Students learn how to programme robots to do simple actions and tasks. Robotics Club CCA provides a platform for our students to develop their analytical and thinking skills to solve problems together as a team.
 
 <b style="color:#038C7F; font-size:17px;">2019 Achievements</b><br>&nbsp;**N6 Cluster Media and Design Festival**<br>&nbsp;-&nbsp;&nbsp; Aeronautics &amp; Robotics - 2nd
+![](/images/rbotics%202023.png)
 
 <b style="color:#016C62; font-size:22px; line-height: 3;">Scrabble Club</b><br>
 Students get to learn how to play the game of Scrabble (forming words with tiles). Students in Scrabble Club have fun exploring words and developing a love for continual learning which entails strategy, spelling and vocabulary. In the process of learning to play Scrabble, our students also develop good values such as self-discipline, responsibility and self-confidence. Our students get to participate in zonal and national scrabble competitions.
 
 <b style="color:#038C7F; font-size:17px;">2019 Achievements</b><br>&nbsp;**Zonal Competition**<br>&nbsp;-&nbsp;&nbsp; P2 Players -&nbsp;**Merit, Best Player**&nbsp;  
 &nbsp;-&nbsp;&nbsp; P3 &amp; P4 Players -&nbsp;**4th, 2nd, Best Player**
-
+![](/images/scrabble%202023.png)
 
 <b style="color:#016C62; font-size:22px; line-height: 3;">Scouts</b><br>
 Students get to learn outdoor skills and develop their sense of adventure through Uniformed Group activities. Our Scouts get to make positive contributions to the school and society through a range of exciting activities, such as Job Week and Outdoor Cooking competition.
 
 <b style="color:#038C7F; font-size:17px;">2019 Achievements</b><br>&nbsp;-&nbsp;&nbsp; N6 Cluster Orienteering Competition - 2nd, 10th&nbsp;
+![](/images/scouts.png)
