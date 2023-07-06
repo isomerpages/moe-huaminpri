@@ -4,9 +4,6 @@ permalink: /our-curriculum/PE/
 description: ""
 third_nav_title: Our Curriculum
 ---
-
-
-
 ### **Physical Education**
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">OUR VISION</b><br>
@@ -39,25 +36,25 @@ Through a balanced and well-designed curriculum based on the following framework
 <b>Goal 6:</b> Enjoy and value the benefits of living a physically active and healthy life.<br>
 
 <b><u>Social Well-being</u></b><br>
-Through carefully designed learning activities and ‘teachable moments’, students are given the opportunities to acquire sound moral values, develop social skills (SEL) and higher order thinking skills, and 21st Century Competencies  
+Through carefully designed learning activities and ‘teachable moments’, students are given the opportunities to acquire sound moral values, develop social skills (SEL) and higher order thinking skills, and 21st&nbsp;Century Competencies  
 
 <b><u>Mental Well-being</u></b><br>
 Students will be equipped with knowledge and skills to build positive self-esteem and manage stress and anger
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">KEY APPROACHES</b><br>
-Our **Key Approach** is ITQ:  
+Our&nbsp;**Key Approach**&nbsp;is ITQ:  
 *   Inclusion
 *   Total Well-Being
 *   Quality Delivery
 
-Our **Key Teaching Models** for Physical Education are:
+Our&nbsp;**Key Teaching Models**&nbsp;for Physical Education are:
 *   Movement Education
 *   Games Concept Approach
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">ASSESSMENT</b><br>
 The department employs both formative and summative modes of assessment to making informed judgement about what our students know and are able to do in order to help them progress towards and attain the desired goals.
 
- **Assessment Strategies and Tools** used:     
+&nbsp;**Assessment Strategies and Tools**&nbsp;used:&nbsp; &nbsp; &nbsp;
 
 * Structured Teacher Observations
 * Performance Tasks
@@ -89,5 +86,4 @@ The department employs both formative and summative modes of assessment to makin
 | Health Promotion Board: | [http://www.hpb.gov.sg/HOPPortal/](http://www.hpb.gov.sg/HOPPortal/) | 
 | Weather SG | [http://www.weather.gov.sg/home/](http://www.weather.gov.sg/home/) |
 | Sports Safety: | [https://www.sportsingapore.gov.sg/sports-education/sports-safety](https://www.sportsingapore.gov.sg/sports-education/sports-safety) |
-| National School Games: | [https://nsg.moe.edu.sg/](https://nsg.moe.edu.sg/) | 
-
+| National School Games: | [https://nsg.moe.edu.sg/](https://nsg.moe.edu.sg/) |
