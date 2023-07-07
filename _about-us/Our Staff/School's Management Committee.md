@@ -13,7 +13,7 @@ third_nav_title: Our Staff
 |Mrs Corinne Kwan | Vice Principal| corinne_anne_balakrishnan@schools.gov.sg|
 Mr Hong Chin Keat | Vice Principal | hong_chin_keat@schools.gov.sg|
 Mr Chan Kok Yun | Admin Manager | chan_kok_yun@schools.gov.sg
-Mr Uthayakumar Ratnam | Operations Manager | uthayakumar_ratnam@schools.gov.sg
+Mr Goh Kin Hong | Operations Manager | goh_kin_hong@schools.gov.sg
 | Mrs Mumtaj Menon-Ibrahim |HOD English|mumtaj_mohamed_ibrahim@schools.gov.sg
 | Mdm Mislimah Binti Misti | HOD Mother Tongue | mislimah_misti@schools.gov.sg
 | Mr David Lim Kok San | HOD Maths/DMT | david_lim_kok_san@schools.gov.sg|
