@@ -29,7 +29,7 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad
 | Excellence | Miss Vivian Teo Li Yu<br>Miss Kanmani D/O Mariyappan | vivian\_teo\_li\_yu@schools.gov.sg<br>kanmani\_mariyappan@schools.gov.sg |
 | Sincerity | Ms Latifah Bte Mohamed Yazid<br>Mr Shafie Bin Hussein | latifah\_mohamed\_yazid@schools.gov.sg<br>shafie\_hussein@schools.gov.sg |
 | Trust | Ms Tay May May, Junity<br>Mr Bernard, Ng Kok Hui | tay\_may\_may@schools.gov.sg<br>ng\_kok\_hui@schools.gov.sg |
-| Majestic | Miss Hemalarsvini<br>Mrs Yeo Beng Neo, Catherine<br> Miss Cheng Sing Yee Ethel | hemalarsvini@schools.gov.sg<br>catherine\_yeo\_beng\_neo@schools.gov.sg<br>cheng_sing_yee_ethel@schools.gov.sg |
+| Majestic | Miss Hemalarsvini<br>Mrs Yeo Beng Neo, Catherine<br> Miss Cheng Sing Yee Ethel | hemalarsvini@schools.gov.sg<br>catherine\_yeo\_beng\_neo@schools.gov.sg<br>low\_lay\_choo@schools.gov.sg |
 | Innovation | Mrs Liang, Tan Lin Jun Sharon<br>Mdm Goh Meow Sim | tan\_lin\_jun\_sharon@schools.gov.sg<br>goh\_meow\_sim@schools.gov.sg |
 
 ### **Form Teachers of Primary 3**
@@ -39,10 +39,10 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad
 | Respect | Miss Khoo Xin Hui Myra<br>Mr Tham Kuan Yew, Albert&nbsp;| khoo\_xin\_hui\_myra@schools.gov.sg<br>albert\_tham@schools.gov.sg |
 | Integrity | Mdm Suan Poh Leng, Pearlyn<br>Mdm Yulleana binte Jamal | suan\_poh\_leng\_Pearlyn@schools.gov.sg<br>yulleana\_jamal@schools.gov.sg |
 | Courage | Mr Leow Wei Yuan<br>Miss Rachel Chua Su-Ann<br>Mdm Ding Hui | leow\_wei\_yuan@schools.gov.sg<br>Chua_Suann_Rachel@schools.gov.sg <br> Ding_hui_A@schools.gov.sg|
-| Harmony | Miss Ong Xin Hong<br>Mdm Lilian Ng Yue Yuen | ong\_xin\_hong@schools.gov.sg<br>lilian\_ng\_yue\_yuen@schools.gov.sg |
+| Harmony | Miss Ong Xin Hong<br>Mdm Lilian Ng Yue Yuen<br>Stephanie Tu | ong\_xin\_hong@schools.gov.sg<br>lilian\_ng\_yue\_yuen@schools.gov.sg<br>[tu\_meng-chi@schools.gov.sg](mailto:tu_meng-chi@schools.gov.sg) |
 | Excellence | Miss Du Yiling<br>Mr Bernard Sew Chun Wah | du\_yiling@schools.gov.sg<br>bernard\_sew\_chun\_wah@schools.gov.sg |
 | Sincerity | Mr Chong Swee Phan<br>Mrs Junesh, Menachi Shanmugan | chong\_swee\_phan@schools.gov.sg<br>menachi\_shanmugan@schools.gov.sg |
-| Trust | Mr Lin Jin Xiang<br>Mdm Sarah Seah Lee Chean&nbsp;| lim\_wei\_boon@schools.gov.sg<br>seah\_lee\_chean@schools.gov.sg |
+| Trust | Mr Lin Jin Xiang<br>Mdm Sarah Seah Lee Chean&nbsp;<br>Mr Thian JiaHui| lim\_wei\_boon@schools.gov.sg<br>seah\_lee\_chean@schools.gov.sg<br>thian_jiahui@schools.gov.sg |
 | Majestic | Mdm Siti Noor Khadijah Binte Othman<br>Mdm Kasimah Bte Kassim<br>Mr Kum Han Wen, Joshua | siti\_noor\_khadijah\_othman@schools.gov.sg<br>kasimah\_kassim@schools.gov.sg<br>kum\_han\_wen@schools.gov.sg |
 
 ### **Form Teachers of Primary 4**
@@ -50,8 +50,8 @@ Sincerity|Mdm Norhidayah Bte Ahmad<br>Mr Chang Jin Peng, Jeff| norhidayah\_ahmad
 | Class Name | Name of Teachers | Email Address |
 | -------- | -------- | -------- |
 | Respect | Mdm Tan Kwee Tin, Jessie <br> Miss Rajinder Kaur | tan\_kwee\_tin@schools.gov.sg <br> rajinder_kaur_virk@schools.gov.sg |
-| Integrity | Mrs Chris Shie<br>Miss Lim Shi Hui, Iris | yong_siew_yim@schools.gov.sg<br>iris\_lim\_shi\_hui@schools.gov.sg |
-| Courage | Mrs Yong, Sim Jie Lin<br>Mdm Teo Li Chin | sim\_jie\_lin@schools.gov.sg<br>Teo_Li_Chin@schools.gov.sg |
+| Integrity | Mrs Chris Shie<br>Miss Ili Mahirah Maarof  | yong_siew_yim@schools.gov.sg<br>ili_mahirah_maarof@schools.gov.sg |
+| Courage | Mrs Yong, Sim Jie Lin<br>Miss Lim Shi Hui, Iris | sim\_jie\_lin@schools.gov.sg<br>iris\_lim\_shi\_hui@schools.gov.sg|
 | Harmony | Mrs Chang, Low Si Min Cheryl<br>Ms Siti Nur Aishah Bte Suparjo | low\_si\_min\_cheryl@schools.gov.sg<br>siti\_nur\_aishah\_suparjo@schools.gov.sg |
 | Excellence | Mr Huang Yuhan Lionel<br>Siti Kamariah Bte Ismail, Mrs Shaiful&nbsp;| huang\_yuhan\_lionel@schools.gov.sg<br>siti\_kamariah\_ismail@schools.gov.sg |
 | Sincerity | Mrs Lam, Carolyn Cheong Yee Li<br>Miss Vanitha d/o Parada Raju&nbsp;| carolyn\_cheong\_yee\_li@schools.gov.sg<br>vanitha\_parada\_raju@schools.gov.sg |
