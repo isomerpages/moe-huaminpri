@@ -29,7 +29,7 @@ In 2007, Huamin became the Centre of Excellence for Visual Arts in the North 3 C
 
 Huamin Primary School is recognised as the first UNESCO Associated Schools Project Network School in Singapore as of November 2014.&nbsp;This prestigious honour was given by the UNESCO HQ in Paris. It is an affirmation of the school’s efforts in encouraging the arts and culture, as well as in promoting and keeping the environment clean and green.
 
-Huamin is now in the N6 Cluster Schools, which is under the able guidance of our Superintendent, Mrs Edelweis Neo.
+Huamin is now in the N6 Cluster Schools, which is under the able guidance of our Superintendent, Mdm Sharida Binte Batcha Sahib.
 
 #### **Key Milestones**
 
