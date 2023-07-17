@@ -6,7 +6,7 @@ third_nav_title: Virtual Open House 2023
 ---
 §   [History of Huamin](https://www.huaminpri.moe.edu.sg/about-us/Schools-Information/schools-history/)
 
-§   [Learning @ Huamin]([English Language (moe.edu.sg)](https://www.huaminpri.moe.edu.sg/our-curriculum/EL/))
+§   [Learning @ Huamin](https://www.huaminpri.moe.edu.sg/our-curriculum/EL/)
 
 §   [Signature programmes – ALP & LLP](https://www.huaminpri.moe.edu.sg/about-us/Learning-for-Life-Programme/applied-learning-programme/)
 
