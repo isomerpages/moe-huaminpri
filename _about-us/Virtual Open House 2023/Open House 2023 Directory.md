@@ -1,5 +1,5 @@
 ---
-title: Open House 2023
+title: Open House 2023 Directory
 permalink: /vohoverview/
 description: ""
 third_nav_title: Virtual Open House 2023
@@ -12,9 +12,9 @@ third_nav_title: Virtual Open House 2023
 
 §   [Glimpse of life in Huamin](https://www.youtube.com/watch?v=NQq74Mru2Og)
 
-§   Huamin Virtual Tour
+§   [Huamin Virtual Tour](https://youtu.be/5kkxeiqON4w)
 
-§   A day as a Primary 1 student in HMPS
+§  [A day as a Primary 1 student in HMPS](https://youtu.be/bZ0gqamLreo)
 
 §   [“What makes Huamin Special” Video ](https://www.youtube.com/watch?v=pvw5lqGYkKU)
 
