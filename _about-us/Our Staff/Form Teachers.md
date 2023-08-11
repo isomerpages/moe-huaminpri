@@ -52,7 +52,7 @@ third_nav_title: Our Staff
 | 3 Integrity | Mdm Yulleana binte Jamal | Yulleana_Jamal@schools.gov.sg|
 | 3 Courage | Mr Leow Wei Yuan | leow_wei_yuan@schools.gov.sg|
 | 3 Courage | Miss Chua Su-Ann Rachel | CHUA_SUANN_RACHEL@schools.gov.sg|
-| 3 Courage | Ms Ding Hui | Ding Hui_A@schools.gov.sg|
+| 3 Courage | Ms Ding Hui | Ding_Hui_A@schools.gov.sg|
 | 3 Harmony | Ms Ong Xin Hong | Ong_Xin_Hong@schools.gov.sg|
 | 3 Harmony | Mdm Lilian Ng Yue Yuen | lilian_ng_yue_yuen@schools.gov.sg|
 | 3 Excellence | Ms Du Yiling | du_yiling@schools.gov.sg|
@@ -78,6 +78,22 @@ third_nav_title: Our Staff
 | 4 Sincerity | Mrs Lam, Carolyn Cheong Yee Li | carolyn_cheong_yee_li@schools.gov.sg|
 | 4 Sincerity | Miss Vanitha d/o Parada Raju| vanitha_parada_raju@schools.gov.sg|
 
+| Class Name | Name of Teachers (Higher Consortium) | Email Address |
+| -------- | -------- | -------- |
+| 5 Respect | Mr Kevin Tan | Tan_Chin_Choo@schools.gov.sg|
+| 5 Respect | Mrs Vishnu, Hemalatha d/o Karunanithi | hemalatha_karunanithi@schools.gov.sg|
+| 5 Integrity | Ms Angela Merici | angela_merici_john@schools.gov.sg|
+| 5 Integrity | Mr Chia Chong Seng | chia_chong_seng@schools.gov.sg|
+| 5 Courage | Dr KS Jaswinder Khosa @ Jessi Siva| k_s_jaswinder_khosa@schools.gov.sg|
+| 5 Courage | Miss Neo Yipei | neo_yipei@schools.gov.sg|
+| 5 Harmony | Mrs Kanchana D/O Suppiah | KANCHANA_SUPPIAH_A@schools.gov.sg|
+| 5 Harmony | Mrs Nio, Loh Kai Yin Jutina | loh_kai_yin@schools.gov.sg|
+| 5 Excellence | Miss Wong Man Ping | Wong_Man_Ping@schools.gov.sg|
+| 5 Excellence | Mrs Ang, Tok Sen Aye Grace | Grace_Tok_Sen_Aye@schools.gov.sg|
+| 5 Sincerity | Mr Khairil Azar bin Abdul Rahim  | khairil_azar_abdul_rahim@schools.gov.sg|
+| 5 Sincerity |Mrs Claire Fong| Claire_Fong@schools.gov.sg|
+| 5 Sincerity | Ms Irene Kwok Kwee Yoon| irene_kwok_kwee_yoon@schools.gov.sg|
+| 5 Sincerity | Mrs Wong Choo Lat| Wong_Choo_Lat@schools.gov.sg|
 
 ![](/images/ft2023t301a.jpg)<br>
 ![](/images/ft2023t302a.jpg)<br>
