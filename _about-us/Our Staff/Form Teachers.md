@@ -56,15 +56,15 @@ third_nav_title: Our Staff
 | 3 Harmony | Ms Ong Xin Hong | Ong_Xin_Hong@schools.gov.sg|
 | 3 Harmony | Mdm Lilian Ng Yue Yuen | lilian_ng_yue_yuen@schools.gov.sg|
 | 3 Excellence | Ms Du Yiling | du_yiling@schools.gov.sg|
-| 3 Excellence | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
-| 3 Sincerity | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
-| 3 Sincerity | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
-| 3 Trust | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
-| 3 Trust | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
-| 3 Trust | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
-| 3 Majestic | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
-| 3 Majestic | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
-| 3 Majestic | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
+| 3 Excellence | Mr Bernard Sew Chun Wah | bernard_sew_chun_wah@schools.gov.sg|
+| 3 Sincerity | Mr Chong Swee Phan | chong_swee_phan@schools.gov.sg|
+| 3 Sincerity | Mrs Junesh, Menachi Shanmugan| menachi_shanmugan@schools.gov.sg|
+| 3 Trust | Mr Lin Jin Xiang | lim_wei_boon@schools.gov.sg|
+| 3 Trust | Mdm Sarah Seah Lee Chean | seah_lee_chean@schools.gov.sg|
+| 3 Trust | Mr Thian Jiahui | thian_jiahui@schools.gov.sg|
+| 3 Majestic | Mdm Siti Noor Khadijah Binte Othman  | SITI_NOOR_KHADIJAH_OTHMAN@schools.gov.sg|
+| 3 Majestic | Mdm Kasimah Bte Kassim | kasimah_kassim@schools.gov.sg|
+| 3 Majestic | Mr Kum Han Wen, Joshua | kum_han_wen@schools.gov.sg|
 
 ![](/images/ft2023t301a.jpg)<br>
 ![](/images/ft2023t302a.jpg)<br>
