@@ -44,6 +44,7 @@ third_nav_title: Our Staff
 | 2 Innovation | Mrs Liang, Tan Lin Jun Sharon| tan_lin_jun_sharon@schools.gov.sg|
 | 2 Innovation  | Mdm Goh Meow Sim| Goh_Meow_Sim@schools.gov.sg|
 
+
 | Class Name | Name of Teachers (Middle Consortium) | Email Address |
 | -------- | -------- | -------- |
 | 3 Respect | Miss Khoo Xin Hui Myra | khoo_xin_hui_myra@schools.gov.sg|
@@ -78,6 +79,7 @@ third_nav_title: Our Staff
 | 4 Sincerity | Mrs Lam, Carolyn Cheong Yee Li | carolyn_cheong_yee_li@schools.gov.sg|
 | 4 Sincerity | Miss Vanitha d/o Parada Raju| vanitha_parada_raju@schools.gov.sg|
 
+
 | Class Name | Name of Teachers (Higher Consortium) | Email Address |
 | -------- | -------- | -------- |
 | 5 Respect | Mr Kevin Tan | Tan_Chin_Choo@schools.gov.sg|
@@ -110,8 +112,3 @@ third_nav_title: Our Staff
 | 6 Excellence | Mr Alex Ng Zhi Qiang | ng_zhiqiang_alex@schools.gov.sg|
 | 6 Sincerity | Mr Shaikh Muzaffari  | shaikh_muzaffar_shaikh@schools.gov.sg|
 | 6 Sincerity |Mrs Pramageetha Velmurugan |Pramageetha_Velmurugan@schools.gov.sg|
-
-
-![](/images/ft2023t301a.jpg)<br>
-![](/images/ft2023t302a.jpg)<br>
-![](/images/ft2023t303.jpg)<br>
