@@ -94,6 +94,23 @@ third_nav_title: Our Staff
 | 5 Sincerity |Mrs Claire Fong| Claire_Fong@schools.gov.sg|
 | 5 Sincerity | Ms Irene Kwok Kwee Yoon| irene_kwok_kwee_yoon@schools.gov.sg|
 | 5 Sincerity | Mrs Wong Choo Lat| Wong_Choo_Lat@schools.gov.sg|
+| 6 Respect | Ms Ong Pei Ling | ong_pei_ling@schools.gov.sg|
+| 6 Respect | Mdm Liu Weijie | liu_weijie@schools.gov.sg|
+| 6 Respect | Mrs Mumtaj Menon-Ibrahim | mumtaj_mohamed_ibrahim@schools.gov.sg|
+| 6 Integrity | Mdm Lim Poh Ling Katherine| lim_poh_ling_katherine@schools.gov.sg|
+| 6 Integrity | Ms Chan Eunice Grace | chan_eunice_grace@schools.gov.sg|
+| 6 Integrity | Mdm Mislimah Binti Misti | mislimah_misti@schools.gov.sg|
+| 6 Courage | Mr Ong Qian Wei| ong_qian_wei@schools.gov.sg|
+| 6 Courage | Mrs Ng, Lai Xiao Xin| lai_xiao_xin@schools.gov.sg|
+| 6 Courage | Dr Yap Heng Yeow| yap_heng_yeow@schools.gov.sg|
+| 6 Harmony | Mr John Chia Wei Min| chia_wei_min@schools.gov.sg|
+| 6 Harmony | Miss Woon Hui Ting | woon_hui_ting@schools.gov.sg|
+| 6 Harmony | Mr David Lim Kok San | david_lim_kok_san@schools.gov.sg|
+| 6 Excellence | Mdm Siti Rafeah Bte Kasbi  | siti_rafeah_kasbi@schools.gov.sg|
+| 6 Excellence | Mr Alex Ng Zhi Qiang | ng_zhiqiang_alex@schools.gov.sg|
+| 6 Sincerity | Mr Shaikh Muzaffari  | shaikh_muzaffar_shaikh@schools.gov.sg|
+| 6 Sincerity |Mrs Pramageetha Velmurugan |Pramageetha_Velmurugan@schools.gov.sg|
+
 
 ![](/images/ft2023t301a.jpg)<br>
 ![](/images/ft2023t302a.jpg)<br>
