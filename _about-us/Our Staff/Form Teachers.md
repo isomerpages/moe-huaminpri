@@ -65,6 +65,19 @@ third_nav_title: Our Staff
 | 3 Majestic | Mdm Siti Noor Khadijah Binte Othman  | SITI_NOOR_KHADIJAH_OTHMAN@schools.gov.sg|
 | 3 Majestic | Mdm Kasimah Bte Kassim | kasimah_kassim@schools.gov.sg|
 | 3 Majestic | Mr Kum Han Wen, Joshua | kum_han_wen@schools.gov.sg|
+| 4 Respect | Mdm Tan Kwee Tin, Jessie | tan_kwee_tin@schools.gov.sg|
+| 4 Respect | Miss Rajinder Kaur Virk | RAJINDER_KAUR_VIRK@schools.gov.sg|
+| 4 Integrity | Mdm Ili Mahirah Binte Ma'arof | Ili_Mahirah_Maarof@schools.gov.sg|
+| 4 Integrity | Miss Lim Shi Hui, Iris | iris_lim_shi_hui@schools.gov.sg|
+| 4 Courage | Mrs Yong, Sim Jie Lin | sim_jie_lin@schools.gov.sg|
+| 4 Courage | Mrs Teo Li Chin | Teo_Li_Chin@schools.gov.sg|
+| 4 Harmony | Mrs Chang, Low Si Min Cheryl  | low_si_min_cheryl@schools.gov.sg|
+| 4 Harmony | Ms Siti Nur Aishah Bte Suparjo  | siti_nur_aishah_suparjo@schools.gov.sg|
+| 4 Excellence | Mr Huang Yuhan Lionel | Huang Yuhan_Lionel@schools.gov.sg|
+| 4 Excellence | Mrs Shaiful, Siti Kamariah Bte Ismail | siti_kamariah_ismail@schools.gov.sg|
+| 4 Sincerity | Mrs Lam, Carolyn Cheong Yee Li | carolyn_cheong_yee_li@schools.gov.sg|
+| 4 Sincerity | Miss Vanitha d/o Parada Raju| vanitha_parada_raju@schools.gov.sg|
+
 
 ![](/images/ft2023t301a.jpg)<br>
 ![](/images/ft2023t302a.jpg)<br>
