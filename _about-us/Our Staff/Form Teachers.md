@@ -50,7 +50,7 @@ third_nav_title: Our Staff
 | 3 Respect | Miss Khoo Xin Hui Myra | khoo_xin_hui_myra@schools.gov.sg|
 | 3 Respect | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
 | 3 Integrity | Mdm Suan Poh Leng, Pearlyn | suan_poh_leng_pearlyn@schools.gov.sg|
-| 3 Integrity | Mdm Yulleana binte Jamal | Yulleana_Jamal@schools.gov.sg|
+| 3 Integrity | Mdm Yulleana binte Jamal | yulleana_jamal@schools.gov.sg|
 | 3 Courage | Mr Leow Wei Yuan | leow_wei_yuan@schools.gov.sg|
 | 3 Courage | Miss Chua Su-Ann Rachel | chua_suann_rachel@schools.gov.sg|
 | 3 Courage | Ms Ding Hui | ding_hui_a@schools.gov.sg|
