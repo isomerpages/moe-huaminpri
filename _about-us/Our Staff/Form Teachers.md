@@ -4,7 +4,7 @@ permalink: /about-us/Our-Staff/form-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-| Class Name | Name of Teachers | Email Address |
+| Class Name | Name of Teachers (Lower Consortium) | Email Address |
 | -------- | -------- | -------- |
 | 1 Respect     | Mdm Lee Hwee Koong Annie | lee_hwee_koong_annie@schools.gov.sg   |
 | 1 Respect  | Mdm Hamidah Bte Hamid | hamidah_hamid@schools.gov.sg|
@@ -44,10 +44,27 @@ third_nav_title: Our Staff
 | 2 Innovation | Mrs Liang, Tan Lin Jun Sharon| tan_lin_jun_sharon@schools.gov.sg|
 | 2 Innovation  | Mdm Goh Meow Sim| Goh_Meow_Sim@schools.gov.sg|
 
-
-
-
-
+| Class Name | Name of Teachers (Middle Consortium) | Email Address |
+| -------- | -------- | -------- |
+| 3 Respect | Miss Khoo Xin Hui Myra | khoo_xin_hui_myra@schools.gov.sg|
+| 3 Respect | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
+| 3 Integrity | Mdm Suan Poh Leng, Pearlyn | Suan_Poh_Leng_Pearlyn@schools.gov.sg|
+| 3 Integrity | Mdm Yulleana binte Jamal | Yulleana_Jamal@schools.gov.sg|
+| 3 Courage | Mr Leow Wei Yuan | leow_wei_yuan@schools.gov.sg|
+| 3 Courage | Miss Chua Su-Ann Rachel | CHUA_SUANN_RACHEL@schools.gov.sg|
+| 3 Courage | Ms Ding Hui | Ding Hui_A@schools.gov.sg|
+| 3 Harmony | Ms Ong Xin Hong | Ong_Xin_Hong@schools.gov.sg|
+| 3 Harmony | Mdm Lilian Ng Yue Yuen | lilian_ng_yue_yuen@schools.gov.sg|
+| 3 Excellence | Ms Du Yiling | du_yiling@schools.gov.sg|
+| 3 Excellence | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
+| 3 Sincerity | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
+| 3 Sincerity | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
+| 3 Trust | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
+| 3 Trust | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
+| 3 Trust | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
+| 3 Majestic | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
+| 3 Majestic | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
+| 3 Majestic | Mr Tham Kuan Yew, Albert | albert_tham@schools.gov.sg|
 
 ![](/images/ft2023t301a.jpg)<br>
 ![](/images/ft2023t302a.jpg)<br>
