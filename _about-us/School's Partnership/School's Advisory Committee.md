@@ -10,15 +10,23 @@ third_nav_title: School's Partnership
 And we are indeed proud to have our School Advisory Committee to be supporting us in whatever we do.
 The School Advisory Committee plays an important role in the contribution of the overall well-being of Huamin Primary School.
 
-<b style="color:#038C7F; font-size:18px;">Chairman</b><br> Mr Jayagobi s/o Jayaram <br>
-<b style="color:#038C7F; font-size:18px; ">Vice-Chairman</b><br>Mdm Koh Kwee Tiang <br>
-<b style="color:#038C7F; font-size:18px; line-height:5px;">Treasurer</b> <br>Ms Khoo Kim Yun Vania
 
+1)&nbsp;&nbsp;&nbsp;&nbsp; Mr Jayagobi s/o Jayaram (Chairman/SAC)
 
-| <br>Committee Members | |
-| -------- | -------- | 
-| Mr Juraimi Bin Jumahat     |     |
-|Mr Gobi Nathan | |
-|Dr Shanmuganathan s/o Sinniah| |
-|Mr Ting Teck Beng| |
-|Mr Yang Jie| |
+2)&nbsp;&nbsp;&nbsp;&nbsp; Mr Ting Teck Beng (Vice-Chariman/SAC)
+
+3)&nbsp;&nbsp;&nbsp;&nbsp; Mdm Loe Lai Pink (Hon-Secretary/Principal)
+
+4)&nbsp;&nbsp;&nbsp;&nbsp; Ms Vania Khoo (Treasurer/SAC)
+
+5)&nbsp;&nbsp;&nbsp;&nbsp; Mr Juraimi Bin Jumahat
+
+6)&nbsp;&nbsp;&nbsp;&nbsp; Mr Gobi Nathan
+
+7)&nbsp;&nbsp;&nbsp;&nbsp; Dr Shanmuganathan S/O Sinniah
+
+8)&nbsp;&nbsp;&nbsp;&nbsp; Mr Yang Jie
+
+9)&nbsp;&nbsp;&nbsp;&nbsp; Mrs Yvonne Yap
+
+10)&nbsp; Mdm Rose Koh
