@@ -13,9 +13,4 @@ Here at Huamin, we understand your busy schedule and hectic work. And hence, you
 The latest copy of the newsletter is attached below for easy reference.
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">Newsletter</b><br>
-[HMPS - Term 1 (2023) School Newsletter](/files/HMPS%20Term%201%202023%20School%20Newsletter.pdf)
-<br>
-[HMPS - Term 2 (2023) School Newsletter](/files/HMPS%20Term%202%202023%20School%20Newsletter.pdf)
-<br>
-[HMPS - Term 3 (2023) School Newsletter](/files/hmps%20term%203%202023%20school%20newsletter.pdf)
-<br>[HMPS - Term 4 (2023) School Newsletter](/files/hmps%20term%204%202023%20school%20newsletter.pdf)
+[HMPS - Term 4 (2023) School Newsletter](/files/hmps%20term%204%202023%20school%20newsletter.pdf)
