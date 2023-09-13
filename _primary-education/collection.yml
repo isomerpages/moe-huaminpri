@@ -2,7 +2,6 @@ collections:
   primary-education:
     output: true
     order:
-      - Western Food Stall (Non Halal).md
       - Info Day/.keep
       - Info Day/Primary 1 2023.md
       - Info Day/Primary 2 2023.md
