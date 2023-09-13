@@ -4,7 +4,7 @@ permalink: /primary-education/c20230913/
 description: ""
 third_nav_title: For Parents
 ---
-# School Canteen Advertisement
+# Western Food Stall (Non-Halal)
 ![](/images/c20230913a.JPG)
 **Application Procedure**
 
