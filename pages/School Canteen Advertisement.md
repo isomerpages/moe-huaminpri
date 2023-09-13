@@ -10,10 +10,11 @@ description: ""
 ![](/images/c20230913a.JPG)
 #### **Application Procedure**
 
-1.   Download and complete the  [Application Form](/files/huamin%20primary%20school%20application%20for%20canteen%20stall.pdf). You may also request for a hardcopy from the School’s Admin Centre.
+1.  Download and complete the application form. You may also request for a hardcopy from the School’s Admin Centre.
 
+* [Application Form](/files/huamin%20primary%20school%20application%20for%20canteen%20stall.pdf)
 
-2.    Attach the following documents together with the application form:
+2. Attach the following documents together with the application form:
 
 *   Photocopy of the NRIC (front and back)
 *   List of proposed menu and pricing for all items
