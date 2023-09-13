@@ -4,6 +4,9 @@ permalink: /c20230913/
 description: ""
 ---
 # Western Food Stall (Non-Halal)
+
+[Click to Return to Canteen Page](https://www.huaminpri.moe.edu.sg/primary-education/for-parents/canteen/)
+
 ![](/images/c20230913a.JPG)
 **Application Procedure**
 
