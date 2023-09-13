@@ -8,11 +8,10 @@ description: ""
 [Click to Return to Canteen Page](https://www.huaminpri.moe.edu.sg/primary-education/for-parents/canteen/)
 
 ![](/images/c20230913a.JPG)
-**Application Procedure**
+#### **Application Procedure**
 
-1.  Download and complete the application form. You may also request for a hardcopy from the School’s Admin Centre.
+1.  Download and complete the  [Application Form](/files/huamin%20primary%20school%20application%20for%20canteen%20stall.pdf). You may also request for a hardcopy from the School’s Admin Centre.
 
-[Application Form](/files/huamin%20primary%20school%20application%20for%20canteen%20stall.pdf)
 
 2.  Attach the following documents together with the application form:
 
