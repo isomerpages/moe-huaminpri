@@ -5,8 +5,9 @@ description: ""
 third_nav_title: For Parents
 ---
 #### **Opportunity**
-Currently there is no open tender request for a new canteen stall, we will update here if there is one in future. <br>
-***Updated as of 5th May 2023***
+1. [Western Food Stall (Non-Halal)](https://huaminpri.moe.edu.sg/c20230913/)
+
+**Updated as of 13 September 2023**
 
 #### **Current Canteen Stalls &amp; Pricing**
 Accurate as of 5th May 2023 <br>
