@@ -1,6 +1,6 @@
 ---
-title: Infocomm Technology Staff
-permalink: /about-us/Our-Staff/infocomm-technology-staff/
+title: ICT Team
+permalink: /about-us/our-staff/ict-team/
 description: ""
 third_nav_title: Our Staff
 ---

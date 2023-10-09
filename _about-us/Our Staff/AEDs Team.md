@@ -1,6 +1,6 @@
 ---
-title: AEDs
-permalink: /about-us/Our-Staff/aeds/
+title: AEDs Team
+permalink: /about-us/our-staff/aeds/
 description: ""
 third_nav_title: Our Staff
 ---
