@@ -10,7 +10,7 @@ third_nav_title: Our Staff
 
 | Name of Staff | Email Address | 
 | -------- | -------- | 
-| Mr Charles Chan<br><b><i style="color:#016C62;font-size:14px;">Administration Manager</i></b> |chan\_kok\_yun@schools.gov.sg|
+| Mr Raymond Cheok<br><b><i style="color:#016C62;font-size:14px;">Relief Administration Manager</i></b> |cheok_liang_wah_a@schools.gov.sg|
 | Mr Goh Kin Hong <br><b><i style="color:#016C62;font-size:14px;"> Operations Manager </i></b>| Goh_Kin_Hong@schools.gov.sg |
 | Mr Amir Fauzan Bin Rohmat <br><b><i style="color:#016C62;font-size:14px;">Admin Executive</i></b> | amir\_fauzan\_rohmat@schools.gov.sg |
 | Miss Nurnadiah Binte Mohd Sahul Hamid <br><b><i style="color:#016C62;font-size:14px;">Adjunct Admin Executive</i></b> | nurnadiah\_mohd\_sahul\_hamid@schools.gov.sg |
