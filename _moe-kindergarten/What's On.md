@@ -3,11 +3,24 @@ title: What's On
 permalink: /moe-kindergarten/whats-on/
 description: ""
 ---
-# 18 Feb 2023  |  MK@Huamin Open House
+# 21 Oct 2023  |  K2 Celebrates! Super Carnival
 
-For the first time in three years, our MKs will be holding a physical Open House for parents to tour the learning environment and speak to the MK educators in person. We warmly welcome you and your child to sign up for the 2023 MOE Kindergarten @ Huamin Open House on 18 February 2023 from 9.00am to 1.00pm, to find out why MK is the quality preschool choice and how we ignite joy of learning in our children!  
+After months of planning, K2 Celebrates! 2023 &lt;&gt; is finally here! It will be happening on 21st October 2023, Saturday. The AM session classes will be from 8 a.m. - 11 a.m. , while the PM session classes will be from 9 a.m. – 11.45 a.m..
 
-Sign up for MK@Huamin Open House [here]( https://go.gov.sg/mkopenhouse2023web)!
+# 10 Nov 2023  |  Orientation for 2024 Intake
 
-More information on the Open House's programme will be updated at a later date.
-![](/images/MKOpen2023.jpeg)
+The orientation for 2024 Intake will be on 10th November 2023, Friday.
+
+Time: 9 a.m. to 12 p.m.
+Registration begins at 8.30 a.m. outside the primary school's hall (level 2)
+Briefing begins at 9 a.m. sharp at the primary school's hall (level 2)
+Venue: Huamin Primary School (21 Yishun Ave 11)
+Entry: Please enter from the main gate of the Primary School.
+
+Highlights include:
+MK and KCare Briefing with Q&amp;A
+In-class Children Activities (please note that children will be invited to join the class activities with the teachers while the parents are having the briefing)
+Free &amp; Easy Tour of the premises
+Sale of Uniform
+Administrative Matters
+
