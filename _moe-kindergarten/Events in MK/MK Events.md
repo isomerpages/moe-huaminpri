@@ -4,12 +4,15 @@ permalink: /moe-kindergarten/events-in-mk/mk-events/
 description: ""
 third_nav_title: Events in MK
 ---
-<b style="font-size:24px;">2023 </b> Term 1<br>
-* 4 Jan. [First Day of School for K2s](https://www.facebook.com/huaminprimaryschool/posts/pfbid02PhBBHMMkGm3cyBHT3xvBqiqJshVsRA3Ffcgirk9CrFMDPk1RSwobSjM8npHZJEWKl)<br>
-* 3 Jan. [First Day of School for K1s](https://www.facebook.com/huaminprimaryschool/posts/pfbid033r6o41Z1pr9PaHf7xbqnVpLsPdux119T7HTCPMqfTZk7t5xrXPKwRpAXXYxbGMZGl)
+<b style="font-size:24px;">2023 </b> Term 2<br>
+* 5 May. [mini-Molly Bus Visit](https://www.facebook.com/huaminprimaryschool/posts/pfbid02g6L5eZ2Zof9QauxKWPhW1Zp5SSEfkshGgdoZKUSU8HnNmmwxboqE6NUznSoHWeQgl)<br>
+* 25 Apr. [Hari Raya Celebration](https://www.facebook.com/huaminprimaryschool/posts/pfbid02uAFLK4tUgv2c8XgFhPnCVSXeFNx4JtukE67j2v9VsmKc4Yna2gwtD1LjvJdAuUA3l)<br>
+* 21 Apr. [Earth Day](https://www.facebook.com/huaminprimaryschool/posts/pfbid0k4Yc4zueEs9b9XAbtMPAXUnKb4evNCfkLdhY8mCCSmzTrhjsdwT4BvTTgJet3gj4l)<br>
+* 12 Apr. [International Friendship Day](https://www.facebook.com/huaminprimaryschool/posts/pfbid02i4EcUhaQFcxA6pveH9Su3jZBVvz1auNzud7F8zixjg1AMgaQ5L8brr2WDP5dNC5ql)<br>
+* 6 Apr. LIFE@MK (for K2 families)<br>
  
 
-*<b style="font-size:24px;">2023 </b> Term 1<br>
+<b style="font-size:24px;">2023 </b> Term 1<br>
 * 4 Jan. [First Day of School for K2s](https://www.facebook.com/huaminprimaryschool/posts/pfbid02PhBBHMMkGm3cyBHT3xvBqiqJshVsRA3Ffcgirk9CrFMDPk1RSwobSjM8npHZJEWKl)<br>
 * 3 Jan. [First Day of School for K1s](https://www.facebook.com/huaminprimaryschool/posts/pfbid033r6o41Z1pr9PaHf7xbqnVpLsPdux119T7HTCPMqfTZk7t5xrXPKwRpAXXYxbGMZGl)
 
