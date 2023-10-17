@@ -23,4 +23,3 @@ In-class Children Activities (please note that children will be invited to join 
 Free &amp; Easy Tour of the premises
 Sale of Uniform
 Administrative Matters
-
