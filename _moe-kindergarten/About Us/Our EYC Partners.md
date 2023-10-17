@@ -19,13 +19,13 @@ This partnership provides quality and affordable preschool education for SCs and
 <center><b><p style="color:#038C7F; line-height:1.5;"> In this model, children at the above two EYCs will be offered a K1 place at MK@Huamin in the year they turn 5.</p></b></center>
 <b style="color:#016C62; font-size:18px;">Criteria</b><br>
 
-*   Child must be enrolled in the EYC by 31 Jan 2022<br>
+*   Child must be enrolled in the EYC by 31 Jan 2023<br>
 *   Child must be a Singapore Citizen or Singapore Permanent Resident
 
 <b style="color:#016C62; font-size:18px;">Conditions</b><br>
 
-*   Child must remain enrolled in the same EYC until 31 Dec 2022
+*   Child must remain enrolled in the same EYC until 31 Dec 2023
 *   Child must be a Singapore Citizen or Singapore Permanent Resident on the day of enrolment in the MK
 
 <i><b style="color:#016C62;">Note: </b>If you decide to apply to other non-partner MKs instead, your child will not be guaranteed a K1 place at the non-partner MKs.
-Your application to the non-partner MKs will be considered under the Open Admissions (non-EYC) registration and subject to the same criteria.<i>
+Your application to the non-partner MKs will be considered under the Open Admissions (non-EYC) registration and subject to the same criteria.<i></i></i>
