@@ -7,7 +7,7 @@ description: ""
 
 [Click to Return to Canteen Page](https://www.huaminpri.moe.edu.sg/primary-education/for-parents/canteen/)
 
-![](/images/c20230913a.JPG)
+![](/images/20231017a.png)
 #### **Application Procedure**
 
 **1** Download and complete the application form. You may also request for a hardcopy from the School’s Admin Centre.
