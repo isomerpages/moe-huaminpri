@@ -4,6 +4,19 @@ permalink: /moe-kindergarten/events-in-mk/mk-events/
 description: ""
 third_nav_title: Events in MK
 ---
+<b style="font-size:24px;">2023 </b> Term 4<br>
+* 10 Nov. Orientation for 2024 Intake <br>
+* 9 Nov. Deepavali Celebration <br>
+* 21 Oct. K2 Celebrates! Super Carnival<br>
+* 5 Oct. Children’s Day Celebration <br>
+
+
+<b style="font-size:24px;">2023 </b> Term 3<br>
+* 31 Aug. Teachers’ Day Celebration <br>
+* 8 Aug. [Amazing Race: National Day cum Family Day Celebration](https://www.facebook.com/huaminprimaryschool/posts/pfbid02q6FA56uWUpbsVBS1YbfUiidx1A3eDsh9UfV6ax7m13hmkYuwtwdK4ztBmoeMjs9el)<br>
+* 21 Jul. Racial Harmony Celebration <br>
+
+
 <b style="font-size:24px;">2023 </b> Term 2<br>
 * 5 May. [mini-Molly Bus Visit](https://www.facebook.com/huaminprimaryschool/posts/pfbid02g6L5eZ2Zof9QauxKWPhW1Zp5SSEfkshGgdoZKUSU8HnNmmwxboqE6NUznSoHWeQgl)<br>
 * 25 Apr. [Hari Raya Celebration](https://www.facebook.com/huaminprimaryschool/posts/pfbid02uAFLK4tUgv2c8XgFhPnCVSXeFNx4JtukE67j2v9VsmKc4Yna2gwtD1LjvJdAuUA3l)<br>
@@ -13,6 +26,10 @@ third_nav_title: Events in MK
  
 
 <b style="font-size:24px;">2023 </b> Term 1<br>
+* 13 Mar. LIFE@MK (for K1 families)<br>
+* 18 Feb. Open House for MK@Huamin<br>
+* 15 Feb. [Total Defence Day](https://www.facebook.com/huaminprimaryschool/posts/pfbid024cozB4BVUvNNZ9NiCcVn9vDk5G5hXbx56WD7HWRHB1SXkgZGBwEguA4HdmRsSAxTl)<br>
+* 20 Jan. [Chinese New Year Celebration](https://www.facebook.com/huaminprimaryschool/posts/pfbid0sdF2o7gKVpYvzZY3dBmYcw6tbwfpjXiHNVkJoz1tEEy4M9zZiABNpu4bEKf8ZY8wl)<br>
 * 4 Jan. [First Day of School for K2s](https://www.facebook.com/huaminprimaryschool/posts/pfbid02PhBBHMMkGm3cyBHT3xvBqiqJshVsRA3Ffcgirk9CrFMDPk1RSwobSjM8npHZJEWKl)<br>
 * 3 Jan. [First Day of School for K1s](https://www.facebook.com/huaminprimaryschool/posts/pfbid033r6o41Z1pr9PaHf7xbqnVpLsPdux119T7HTCPMqfTZk7t5xrXPKwRpAXXYxbGMZGl)
 
