@@ -11,15 +11,17 @@ After months of planning, K2 Celebrates! 2023 &lt;&gt; is finally here! It will 
 
 The orientation for 2024 Intake will be on 10th November 2023, Friday.
 
-Time: 9 a.m. to 12 p.m.
-Registration begins at 8.30 a.m. outside the primary school's hall (level 2)
-Briefing begins at 9 a.m. sharp at the primary school's hall (level 2)
-Venue: Huamin Primary School (21 Yishun Ave 11)
-Entry: Please enter from the main gate of the Primary School.
+Time: 9 a.m. to 12 p.m. <br>
+
+* Registration begins at 8.30 a.m. outside the primary school's hall (level 2) <br>
+* Briefing begins at 9 a.m. sharp at the primary school's hall (level 2)<br>
+
+Venue: Huamin Primary School (21 Yishun Ave 11)<br>
+Entry: Please enter from the main gate of the Primary School.<br>
 
 Highlights include:
-MK and KCare Briefing with Q&amp;A
-In-class Children Activities (please note that children will be invited to join the class activities with the teachers while the parents are having the briefing)
-Free &amp; Easy Tour of the premises
-Sale of Uniform
-Administrative Matters
+* MK and KCare Briefing with Q&amp;A<br>
+  * In-class Children Activities (please note that children will be invited to join the class activities with the teachers while the parents are having the briefing)<br>
+* Free &amp; Easy Tour of the premises<br>
+* Sale of Uniform<br>
+* Administrative Matters<br>
