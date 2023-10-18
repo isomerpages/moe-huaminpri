@@ -20,8 +20,8 @@ Venue: Huamin Primary School (21 Yishun Ave 11)<br>
 Entry: Please enter from the main gate of the Primary School.<br>
 
 Highlights include:
-MK and KCare Briefing with Q&amp;A
-In-class Children Activities (please note that children will be invited to join the class activities with the teachers while the parents are having the briefing)
-Free &amp; Easy Tour of the premises
-Sale of Uniform
-Administrative Matters
+* MK and KCare Briefing with Q&amp;A<br>
+  * In-class Children Activities (please note that children will be invited to join the class activities with the teachers while the parents are having the briefing)<br>
+* Free &amp; Easy Tour of the premises<br>
+* Sale of Uniform<br>
+* Administrative Matters<br>
