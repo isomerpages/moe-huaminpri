@@ -16,9 +16,9 @@ sections:
         - title: About Huamin Primary
           description: Check out More about Huamin
           url: /about-us/Schools-Information/schools-vision-mission-and-rules/
-        - title: Huamin Successes
-          description: Check out Our Latest Successes
-          url: /success/2021/
+        - title: Primary 1 Orientation 2023
+          description: Information on Orientation
+          url: https://sites.google.com/huamin.edu.sg/p1o23
         - title: Latest MK@Huamin Events
           description: Check what's happening in MK
           url: /moe-kindergarten/events-in-mk/mk-events/
