@@ -3,6 +3,7 @@ title: Our Attire
 permalink: /moe-kindergarten/The-MK-Huaminites-Experience/our-attire/
 description: ""
 third_nav_title: The MK@Huaminites Experience
+variant: markdown
 ---
 ### **Our Attire**
 
@@ -13,7 +14,7 @@ Children are to <b>wear the prescribed kindergarten uniform and modification to 
 We recommend that each child has at least three sets of uniform.
 
 <b style="color:#038C7F; font-size:22px;">Sale of Uniform</b><br>
-From 1 Jul 2022, there are two appointed suppliers for MK uniform: [Beau Voix Uniform (Beau Voix)](https://beauvoix.com/preschool/) and [Jeep Sing Fashion (Jeep Sing)](https://jeepsinguniform.com/).
+From 1 Jul 2022, there are two appointed suppliers for MK uniform:&nbsp;[Beau Voix Uniform (Beau Voix)](http://www.beauvoix.com.sg/ )&nbsp;and&nbsp;[Jeep Sing Fashion (Jeep Sing)](https://jeepsinguniform.com/).
 
 ![](/images/saleofuniform.png)
 
@@ -29,7 +30,7 @@ Your child should wear socks and well-fitted shoes for safety during activities.
 
 *   Children should wear closed-toe shoes, suitable for outdoor play;
 
-*   Flip-flops and other open-toe/heel shoes are not allowed (except on the day that the class is having sand & water play, where children are to wear slippers or sandals without socks to school); and
+*   Flip-flops and other open-toe/heel shoes are not allowed (except on the day that the class is having sand &amp; water play, where children are to wear slippers or sandals without socks to school); and
 
 *   Socks should have non-slip soles.
 
