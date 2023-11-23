@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Media Usage.md
       - Virtual Open House 2023/.keep
       - Virtual Open House 2023/Open House 2023 Directory.md
       - The Principal's Message.md
@@ -32,3 +31,4 @@ collections:
       - Learning for Life Programme/School's Learning for Life Programme (LLP).md
       - Learning for Life Programme/Applied Learning Programme.md
       - Contact Us.md
+      - Our Media Usage.md
