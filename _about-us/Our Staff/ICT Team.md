@@ -3,15 +3,6 @@ title: ICT Team
 permalink: /about-us/our-staff/ict-team/
 description: ""
 third_nav_title: Our Staff
-variant: markdown
+variant: tiptap
 ---
-### **Our Infocomm Technology Staff**
-
-
-| Name of Staff | Email Address | 
-| -------- | -------- |
-| **Mr Michiharu Andrew** <br><b><i style="color:#016C62; font-size:14px;">ICT Associate</i></b>| andrew@huamin.edu.sg     | 
-|**Mr Chew Edwin**<br><b><i style="color:#016C62;font-size:14px;">Senior Desktop Engineer</i></b> | chew_edwin@ncs.com.sg
-|**Mrs Danni Viel Shua**<br><b><i style="color:#016C62;font-size:14px;">Desktop Engineer</i></b> | danni@huamin.edu.sg
-|**Mr Elson Lim**<br><b><i style="color:#016C62;font-size:14px;">RP Intern<br>ICT Support &amp; AV</i></b>| elson@huamin.edu.sg
-|**Mr Cristi Goh**<br><b><i style="color:#016C62;font-size:14px;">RP  Intern<br>ICT Media</i></b>| cristi@huamin.edu.sg
+<h3><strong>Our Infocomm Technology Staff</strong></h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Name of Staff</p></th><th rowspan="1" colspan="1"><p>Email Address</p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Michiharu Andrew</strong> <br><strong><em>ICT Associate</em></strong></p></td><td rowspan="1" colspan="1"><p>andrew@huamin.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Chew Edwin</strong><br><strong><em>Senior Desktop Engineer</em></strong></p></td><td rowspan="1" colspan="1"><p>chew_edwin@ncs.com.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mrs Danni Viel Shua</strong><br><strong><em>Desktop Engineer</em></strong></p></td><td rowspan="1" colspan="1"><p>danni@huamin.edu.sg</p></td></tr></tbody></table><p></p>
