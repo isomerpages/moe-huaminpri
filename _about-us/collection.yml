@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Virtual Open House 2023/.keep
-      - Virtual Open House 2023/Open House 2023 Directory.md
       - The Principal's Message.md
       - School's Information/.keep
       - School's Information/School's Vision, Mission, and Rules.md
