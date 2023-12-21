@@ -3,6 +3,7 @@ title: School's Alumni
 permalink: /about-us/Schools-Partnership/schools-alumni/
 description: ""
 third_nav_title: School's Partnership
+variant: markdown
 ---
 ### **School's Alumni**
 
@@ -12,4 +13,4 @@ Huamin is inviting all alumni members to volunteer your services at school event
 eg. Speech Day, Open House, Aesthetics Day, Sports Day
 
 For more detail, please email:<br>
-[siti\_zainab\_bujang@moe.edu.sg](mailto:siti_zainab_bujang@moe.edu.sg)
+[siti\_zainab\_bujang@schools.gov.sg](mailto:siti_zainab_bujang@schools.gov.sg)
