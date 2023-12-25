@@ -20,7 +20,14 @@ links:
       - title: Our Media Usage
         url: /about-us/mediausage/
   - title: Primary Education
-    collection: primary-education
+    url: /about-us/Our-Staff/consortium/
+    sublinks:
+      - title: Our Curriculum
+        url: https://sites.google.com/huamin.edu.sg/curriculum?usp=sharing
+      - title: Co-Curricular Activities
+        url: https://sites.google.com/huamin.edu.sg/cca?usp=sharing
+      - title: For Parents
+        url: https://sites.google.com/huamin.edu.sg/parents?usp=sharing
   - title: MK@Huamin
     url: /moe-kindergarten/whats-on/
     sublinks:
@@ -34,18 +41,5 @@ links:
         url: /moe-kindergarten/The-MK-Huaminites-Experience/the-mk-experience/
       - title: MK Events
         url: /moe-kindergarten/events-in-mk/mk-events/
-  - title: Happenings
-    url: /success/2023
-    sublinks:
-      - title: "2023"
-        url: /success/2023/20230406infocommdslr
-      - title: "2022"
-        url: /success/2022/
-      - title: "2021"
-        url: /success/2021/
-      - title: "2020"
-        url: /success/2020/
-      - title: Accolades
-        url: /success/accolades/
   - title: Heartfelt Appreciation
-    url: /heartfeltappreciation
+    url: https://docs.google.com/forms/d/e/1FAIpQLSeaRFDd2osoZUcd4KbDgokie5PhX3zVRmc98Q0_5KqjwVZO3A/viewform?embedded=true&pli=1
