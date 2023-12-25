@@ -13,9 +13,9 @@ sections:
   - hero:
       background: /images/homepagebanner20230425.gif
       key_highlights:
-        - title: "About Our People "
+        - title: About Our People
           description: More about Huamin's Family
-          url: https://sites.google.com/huamin.edu.sg/hmpspeople/our-people
+          url: https://sites.google.com/huamin.edu.sg/hmpspeople?usp=sharing
         - title: Primary 1 Orientation 2023
           description: Information on Orientation
           url: https://sites.google.com/huamin.edu.sg/p1o23
