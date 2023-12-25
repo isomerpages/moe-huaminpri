@@ -2,7 +2,7 @@
 title: Non FT
 permalink: /about-us/Our-Staff/non-form-teachers/
 description: ""
-third_nav_title: Our Staff
+third_nav_title: Our People
 ---
 ### **Our Non-Form Teachers**
 
@@ -24,4 +24,4 @@ third_nav_title: Our Staff
 | Mr Kong Chee Meng | | KONG\_CHEE\_MENG@schools.gov.sg 
 | Mdm Tan Chor Hoon | | Tan\_Chor\_Hoon@schools.gov.sg 
 | Ms Toh Pei Yan Pauline | | 
-| Ms Ding Hui | 
+| Ms Ding Hui |

@@ -2,7 +2,7 @@
 title: EAS Team
 permalink: /about-us/our-staff/executive-administrative-staff/
 description: ""
-third_nav_title: Our Staff
+third_nav_title: Our People
 ---
 ### **Our Executive and Administrative Team**
 

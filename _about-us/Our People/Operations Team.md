@@ -2,7 +2,7 @@
 title: Operations Team
 permalink: /about-us/our-staff/operations-team/
 description: ""
-third_nav_title: Our Staff
+third_nav_title: Our People
 ---
 ###  Operations Team
 

@@ -3,29 +3,26 @@ collections:
     output: true
     order:
       - The Principal's Message.md
+      - School's Information/Consortium.md
       - School's Information/.keep
       - School's Information/School's Vision, Mission, and Rules.md
       - School's Information/The School's Crest and Motto.md
       - School's Information/School's Values.md
       - School's Information/The School's Song.md
       - School's Information/School's History.md
-      - Our Staff/.keep
-      - Our Staff/Consortium.md
-      - Our Staff/School's Management Committee.md
-      - Our Staff/Teacher Leaders.md
-      - Our Staff/Form Teachers.md
-      - Our Staff/Non FT.md
-      - Our Staff/AEDs Team.md
-      - Our Staff/EAS Team.md
-      - Our Staff/ICT Team.md
-      - Our Staff/Operations Team.md
-      - Our Staff/Support Staff.md
+      - Our People/.keep
+      - Our People/School's Management Committee.md
+      - Our People/Teacher Leaders.md
+      - Our People/Form Teachers 2024.md
+      - Our People/Non FT.md
+      - Our People/AEDs Team.md
+      - Our People/EAS Team.md
+      - Our People/ICT Team.md
+      - Our People/Operations Team.md
+      - Our People/Support Staff.md
       - School's Partnership/.keep
       - School's Partnership/School's Advisory Committee.md
       - School's Partnership/School's Alumni.md
       - School's Partnership/Parents Support Group.md
-      - Learning for Life Programme/.keep
-      - Learning for Life Programme/School's Learning for Life Programme (LLP).md
-      - Learning for Life Programme/Applied Learning Programme.md
       - Contact Us.md
       - Our Media Usage.md

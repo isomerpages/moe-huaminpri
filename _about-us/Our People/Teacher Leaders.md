@@ -2,7 +2,7 @@
 title: Teacher Leaders
 permalink: /about-us/Our-Staff/teachers-leaders/
 description: ""
-third_nav_title: Our Staff
+third_nav_title: Our People
 ---
 ### **Huamin Lead Teachers**
 
