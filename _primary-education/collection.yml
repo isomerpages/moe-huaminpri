@@ -2,13 +2,6 @@ collections:
   primary-education:
     output: true
     order:
-      - Co Curricular Activities/.keep
-      - Co Curricular Activities/CCA Timetable for 2023.md
-      - Co Curricular Activities/Overview.md
-      - Co Curricular Activities/CCA Achievements.md
-      - Co Curricular Activities/Club, Societies and Uniform Groups.md
-      - Co Curricular Activities/Performing Arts.md
-      - Co Curricular Activities/Sports CCA.md
       - Additional Support Programmes/.keep
       - Additional Support Programmes/Intervention Programmes and Collaborations
         for English.md
