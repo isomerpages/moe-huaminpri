@@ -4,26 +4,22 @@ permalink: /our-curriculum/KPEL/
 description: ""
 third_nav_title: Additional Support Programmes
 ---
-
-
-
-
 #### **STELLAR Curriculum**
 
-The school adopts the Strategies for English Language Learning And Reading (STELLAR) curriculum in the teaching of English Language from Primary 1 to 6. This aims to strengthen the students' foundation in literacy skills through a variety of learner-centered and developmentally appropriate pedagogical approaches using authentic children's text.
+The school adopts the Strategies for English Language Learning And Reading (STELLAR) curriculum in the teaching of English Language from Primary 1 to 6. This aims to strengthen&nbsp;the students' foundation in literacy skills through a variety of learner-centered and developmentally appropriate pedagogical approaches using authentic children's text.
 
 ![](/images/P1MLEA.png)
 
 
 <b style="color:#016C62; font-size:20px; line-height: 3;">Reading Culture @ Huamin</b><br>
-Through a variety of reading programmes, students are immersed in a world of reading and fun. Reading activities are then extended to discussions to stretch students’ learning beyond books.   
- 1.     Library Instructional Programme (LIP/ Library periods)     
- 2.     D.E.A.R (Drop Everything And Read) for P1 & P2  
- 3.     Book Club for P3 – P6  
- 4.     Class Libraries  
- 5.     E-book Reading  
- 6.     Book Talks  
- 7.     Little Red Dot
+Through a variety of reading programmes, students are immersed in a world of reading and fun. Reading activities are then extended to discussions to stretch students’ learning beyond books.&nbsp;  
+&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp; Library Instructional Programme (LIP/ Library periods)&nbsp;&nbsp;&nbsp;  
+&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp; D.E.A.R (Drop Everything And Read) for P1 &amp; P2  
+&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp; Book Club for P3 – P6  
+&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp; Class Libraries  
+&nbsp;5.&nbsp;&nbsp;&nbsp;&nbsp; E-book Reading  
+&nbsp;6.&nbsp;&nbsp;&nbsp;&nbsp; Book Talks  
+&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp; Little Red Dot
 
 <b style="color:#016C62; font-size:24px; line-height: 3;">Activities</b><br>
 <b style="color:#038C7F; font-size:20px;">Good English Week</b><br>
@@ -32,11 +28,11 @@ Good English Week is an annual department event held over a week to promote the 
 ![](/images/englishactivities.png)
 
 
-<b style="color:#038C7F; font-size:20px;">P1 & P2 Speech & Drama Programme</b><br>
+<b style="color:#038C7F; font-size:20px;">P1 &amp; P2 Speech &amp; Drama Programme</b><br>
 The lower primary students undergo a Speech and Drama Programme which is aimed at building their oracy skills. The programme also allows the students to build their 21st Century Competencies like communication and collaborative skills through the language activities. The students also get the opportunity to showcase their performances.  
 
-<b style="color:#038C7F; font-size:20px;">"Watch a Play" initiative at Primary 1 & 2</b><br>
-Our Primary 1 & 2 students are provided with the opportunity to enhance their literary knowledge, tolerance, and empathy among their schoolmates when they go on a learning journey to watch a play. During the play, students also practise theatre etiquette while enjoying the songs and dance numbers incorporated into the play.
+<b style="color:#038C7F; font-size:20px;">"Watch a Play" initiative at Primary 1 &amp; 2</b><br>
+Our Primary 1 &amp; 2 students are provided with the opportunity to enhance their literary knowledge, tolerance, and empathy among their schoolmates when they go on a learning journey to watch a play. During the play, students also practise theatre etiquette while enjoying the songs and dance numbers incorporated into the play.
 
   
 <b style="color:#038C7F; font-size:20px;">MLEA Experiences (Primary 1 - 4)</b><br>

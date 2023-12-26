@@ -22,20 +22,7 @@ sections:
         - title: Latest MK@Huamin Events
           description: Check what's happening in MK
           url: /moe-kindergarten/events-in-mk/mk-events/
-  - infopic:
-      title: The Happy Learning Place
-      subtitle: H u a m i n i t e s
-      description: Where we learn to love and love to learn
-      image: /images/DSC03160.jpg
-      alt: Image alt text
-      button: learn about our curriculum
-      url: /our-curriculum/EL/
-  - infopic:
-      title: Teamwork is Our Culture
-      subtitle: H u a m i n i t e s
-      description: Responsible and Respectful, Celebrating Friendship, Collaboration
-      image: /images/DSC05001.jpg
-      alt: Image alt text
-      button: Find out more about our cca
-      url: /our-curriculum/Co-Curricular-Activities/cca-timetable-2023/
+        - title: Parents' Portal
+          description: Our Partnership with you
+          url: https://sites.google.com/huamin.edu.sg/ parents
 ---
