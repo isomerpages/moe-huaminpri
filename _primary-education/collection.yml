@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Additional Support Programmes/.keep
-      - Additional Support Programmes/Intervention Programmes and Collaborations
-        for English.md
       - Additional Support Programmes/Key Programmes for English Language.md
       - Additional Support Programmes/Key Programmes for Mathematics.md
       - EBooks.md
