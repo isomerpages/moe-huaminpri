@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Additional Support Programmes/.keep
       - The Principal's Message.md
       - School's Information/Consortium.md
       - School's Information/.keep
