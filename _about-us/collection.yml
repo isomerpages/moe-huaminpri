@@ -2,6 +2,8 @@ collections:
   about-us:
     output: true
     order:
+      - Additional Support Programmes/Intervention Programmes and Collaborations
+        for English.md
       - Additional Support Programmes/.keep
       - The Principal's Message.md
       - School's Information/Consortium.md
