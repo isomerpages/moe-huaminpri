@@ -1,5 +1,4 @@
 collections:
   primary-education:
     output: true
-    order:
-      - Additional Support Programmes/.keep
+    order: []
