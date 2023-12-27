@@ -24,5 +24,5 @@ sections:
           url: /moe-kindergarten/events-in-mk/mk-events/
         - title: Parents' Portal
           description: Our Partnership with you
-          url: https://sites.google.com/huamin.edu.sg/ parents
+          url: https://sites.google.com/huamin.edu.sg/parents?usp=sharing
 ---
