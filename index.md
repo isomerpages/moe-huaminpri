@@ -21,7 +21,7 @@ sections:
           url: https://sites.google.com/huamin.edu.sg/p1o23
         - title: Latest MK@Huamin Events
           description: Check what's happening in MK
-          url: /moe-kindergarten/events-in-mk/mk-events/
+          url: https://sites.google.com/huamin.edu.sg/mkhm
         - title: Parents' Portal
           description: Our Partnership with you
           url: https://sites.google.com/huamin.edu.sg/parents?usp=sharing
