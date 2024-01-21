@@ -3,6 +3,7 @@ title: School's Vision, Mission, and Rules
 permalink: /about-us/Schools-Information/schools-vision-mission-and-rules/
 description: ""
 third_nav_title: School's Information
+variant: markdown
 ---
 ### **School Vision**
 The shared vision is the underlying foundation and an embodiment of the essence of the holistic nature of education that Huamin hopes to deliver to each and every student of the school<br>
@@ -22,7 +23,8 @@ Huamin Primary is an institution of learning, and while Huamin emphasizes on fun
 * Obedient, courteous and respectful to parents, teachers, elders, peers and student leaders
 * Responsible and conscientious in performing work and duties
 * Honest and respectful through words and deeds
-* Orderly in behaviours at all timesLoyal to friends, school and nation
+* Orderly in behaviours at all times
+* Loyal to friends, school and nation
 * Punctual and present for school and CCAs
 * Neat in appearance and attire
 * Sporting in all games
