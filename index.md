@@ -22,4 +22,7 @@ sections:
         - title: Parents' Portal
           description: Our Partnership with you
           url: https://sites.google.com/huamin.edu.sg/parents?usp=sharing
+        - title: OPEN HOUSE PORTAL
+          description: Open House 2024
+          url: https://sites.google.com/huamin.edu.sg/oh24/
 ---
