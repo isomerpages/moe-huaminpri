@@ -19,7 +19,7 @@ sections:
         - title: Parents' Portal
           description: Our Partnership with you
           url: https://sites.google.com/huamin.edu.sg/parents?usp=sharing
-        - title: P1 ADMIN DAY 2025
+        - title: P1 Orientation Day
           description: Everything about P1 2025
           url: https://sites.google.com/huamin.edu.sg/parents/parents-portal/info-days/primary-one-2025
 ---
