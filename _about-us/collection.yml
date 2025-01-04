@@ -2,21 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - The Principal's Message.md
-      - School's Information/.keep
-      - School's Information/Consortium.md
-      - School's Information/School's Vision, Mission, and Rules.md
-      - School's Information/The School's Crest and Motto.md
-      - School's Information/School's Values.md
-      - School's Information/The School's Song.md
-      - School's Information/School's History.md
-      - School's Partnership/.keep
-      - School's Partnership/School's Alumni.md
-      - School's Partnership/Parents Support Group.md
       - Contact Us.md
       - Our Media Usage.md
-      - Additional Support Programmes/.keep
-      - Additional Support Programmes/Key Programmes for Mathematics.md
-      - Additional Support Programmes/Key Programmes for English Language.md
-      - Additional Support Programmes/Intervention Programmes and Collaborations
-        for English.md
