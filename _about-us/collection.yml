@@ -2,8 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - School's Partnership/.keep
-      - School's Partnership/School's Alumni.md
-      - School's Partnership/Parents Support Group.md
       - Contact Us.md
       - Our Media Usage.md
