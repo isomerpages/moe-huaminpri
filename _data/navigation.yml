@@ -18,16 +18,16 @@ links:
   - title: Primary Education
     url: https://sites.google.com/huamin.edu.sg/parents/parents-portal
     sublinks:
+      - title: For Teachers (HMPS OTG)
+        url: https://sites.google.com/moe.edu.sg/hmpsotg/home
+      - title: For Parents
+        url: https://sites.google.com/huamin.edu.sg/parents/parents-portal
+      - title: For Students
+        url: https://sites.google.com/moe.edu.sg/hmpsstudent
       - title: Our Curriculum
         url: https://sites.google.com/huamin.edu.sg/curriculum/curriculum
       - title: Co-Curricular Activities
         url: https://sites.google.com/huamin.edu.sg/cca?usp=sharing
-      - title: For Parents
-        url: https://sites.google.com/huamin.edu.sg/parents/parents-portal
-      - title: For Teachers (HMPS OTG)
-        url: https://sites.google.com/moe.edu.sg/hmpsotg/home
-      - title: For Students
-        url: https://sites.google.com/moe.edu.sg/hmpsstudent
   - title: MK@Huamin
     url: https://sites.google.com/huamin.edu.sg/mkhm
   - title: Heartfelt Appreciation
