@@ -3,6 +3,10 @@ links:
   - title: About Us
     url: https://sites.google.com/huamin.edu.sg/hmpspeople/our-people-school
     sublinks:
+      - title: Our People
+        url: https://sites.google.com/huamin.edu.sg/hmpspeople/our-people-school
+      - title: School Information
+        url: https://sites.google.com/huamin.edu.sg/hmpspeople/our-people-school/school-information/mission-vision
       - title: Contact Us
         url: /more-information/contact-us/
       - title: Our Media Usage
