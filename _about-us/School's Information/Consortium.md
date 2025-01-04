@@ -1,8 +1,0 @@
----
-title: Consortium
-permalink: /about-us/Our-Staff/consortium/
-description: ""
-third_nav_title: School's Information
-variant: tiptap
----
-<h3><strong>The School's Consortium</strong></h3><p>Huamin is made up of three Consortiums, each comprising two levels. The rationale for this structure is to bring about more streamlined programmes and ensure a more effective transition for the students between the levels.</p><p><strong>The three Consortiums are:</strong><br><strong>Lower Primary:</strong>Primary One and Primary Two<br><strong>Middle Primary:</strong> Primary Three and Primary Four<br><strong>Upper Primary:</strong> Primary Five and Primary Six</p><p>Every Consortium is led by a dynamic individual who is known as the Year Head and guided by a philosophy to achieve its goals. All our staff and programmes in the school are aligned to the philosophies.</p><h4><strong>Composition of Student Development Team</strong></h4><h4></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/AA.png"></div><h4><strong>Our Philosophies of Education</strong></h4><p><strong>The Lower Consortium (P1 - P2)</strong><br><em>"Nurturing the Heart, Mind &amp; Soul of Every Huaminite"</em><br>Building the foundation and motivation for life-long learning<br><br><strong>The Middle Consortium (P3 - P4)</strong><br><em>"Growing the Skills &amp; Confidence of Every Huaminite"</em><br>Equipping every student with the relevant knowledge, skills and attributes for self-directed learning<br><br><strong>The Upper Consortium (P5 - P6)</strong><br><em>"Realising the Potential of Every Huaminite"</em><br>Bringing out the best in every student through quality programmes</p>
