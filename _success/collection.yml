@@ -1,9 +1,0 @@
-collections:
-  success:
-    output: true
-    order:
-      - 2023/.keep
-      - 2022.md
-      - 2021.md
-      - 2020.md
-      - Accolades.md
