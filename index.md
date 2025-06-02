@@ -19,7 +19,7 @@ sections:
         - title: Parents' Portal
           description: Our Partnership with you
           url: https://sites.google.com/huamin.edu.sg/parents?usp=sharing
-        - title: P1 Orientation Day
-          description: Everything about P1 2025
-          url: https://sites.google.com/huamin.edu.sg/parents/parents-portal/info-days/primary-one-2025
+        - title: 2025 eOpen House
+          description: Everything about P1 2026
+          url: https://www.huamin.edu.sg
 ---
