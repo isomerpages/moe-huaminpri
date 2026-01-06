@@ -1,33 +1,33 @@
 logo: /images/School Logo Version 2022 Aug.jpg
 links:
   - title: About Us
-    url: https://sites.google.com/huamin.edu.sg/hmpspeople/our-people
+    url: https://sites.google.com/huamin.edu.sg/online/about-us
     sublinks:
       - title: Our People
-        url: https://sites.google.com/huamin.edu.sg/hmpspeople/our-people
+        url: https://sites.google.com/huamin.edu.sg/online/our-staff/form-teachers-2026
       - title: School Information
-        url: https://sites.google.com/huamin.edu.sg/hmpspeople/school-information/schools-consortium
+        url: https://sites.google.com/huamin.edu.sg/online/about-us
       - title: Contact Us
         url: /more-information/contact-us/
       - title: Our Media Usage
         url: /about-us/mediausage/
       - title: Privacy Statement
-        url: https://sites.google.com/huamin.edu.sg/hmpspeople/school-information/privacy-statement
+        url: https://sites.google.com/huamin.edu.sg/online/about-us/privacy-statement
       - title: Term of Use
-        url: https://sites.google.com/huamin.edu.sg/hmpspeople/school-information/term-of-use
+        url: https://sites.google.com/huamin.edu.sg/online/about-us/term-of-use
   - title: Primary Education
-    url: https://sites.google.com/huamin.edu.sg/parents/parents-portal
+    url: https://sites.google.com/huamin.edu.sg/online/home
     sublinks:
       - title: For Teachers (HMPS OTG)
         url: https://sites.google.com/moe.edu.sg/hmpsotg/home
       - title: For Parents
-        url: https://sites.google.com/huamin.edu.sg/parents/parents-portal
+        url: https://sites.google.com/huamin.edu.sg/online/home
       - title: For Students
         url: https://sites.google.com/moe.edu.sg/hmpsstudent
       - title: Our Curriculum
-        url: https://sites.google.com/huamin.edu.sg/curriculum/curriculum
+        url: https://sites.google.com/huamin.edu.sg/online/curriculum/english
       - title: Co-Curricular Activities
-        url: https://sites.google.com/huamin.edu.sg/cca?usp=sharing
+        url: https://sites.google.com/huamin.edu.sg/online/ccas
   - title: MK@Huamin
     url: https://sites.google.com/huamin.edu.sg/mkhm
   - title: Heartfelt Appreciation
