@@ -10,16 +10,10 @@ sections:
   - hero:
       background: /images/homepagebanner20230425.gif
       key_highlights:
-        - title: About Our People
-          description: More about Huamin's Family
-          url: https://sites.google.com/huamin.edu.sg/hmpspeople?usp=sharing
+        - title: Online Portal
+          description: More information about Huamin
+          url: https://sites.google.com/huamin.edu.sg/online
         - title: Latest MK@Huamin Events
           description: Check what's happening in MK
           url: https://sites.google.com/huamin.edu.sg/mkhm
-        - title: Parents' Portal
-          description: Our Partnership with you
-          url: https://sites.google.com/huamin.edu.sg/parents?usp=sharing
-        - title: 2025 eOpen House
-          description: Everything about P1 2026
-          url: https://www.huamin.edu.sg
 ---
