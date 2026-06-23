@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepagebanner20230425.gif
+      background: /images/ezgif_com_animated_gif_maker.gif
       key_highlights:
         - title: Online Portal
           description: More information about Huamin
